@@ -1,5 +1,6 @@
 import { catalysts, changes, dataCommitTimes } from '../data.js';
 import { byId, el, externalLink } from '../dom.js';
+import { REPO_URL } from '../../config/site.js';
 import { formatTimestamp } from '../format.js';
 import type { ViewState } from '../state.js';
 
@@ -16,7 +17,7 @@ export function renderSourcesSection(state: ViewState): void {
     group('Coming up', uniqueByUrl(catalysts.map((catalyst) => ({ name: catalyst.event, url: catalyst.url })))),
     group('Data files', Object.entries(dataCommitTimes).map(([file, committedAt]) => ({
       name: `data/${file}`,
-      url: `https://github.com/KenRiku/gold-silver-dashboard/commits/main/data/${file}`,
+      url: `${REPO_URL}/commits/main/data/${file}`,
       detail: committedAt ? `committed ${formatTimestamp(committedAt)}` : 'commit time unavailable',
     }))),
   );

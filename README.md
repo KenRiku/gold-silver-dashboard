@@ -10,7 +10,7 @@ Tickers followed: GDXU, GDX, GDXJ, SLV, AGQ, QQQ, TQQQ, SQQQ, NRGU (US-listed Mi
 - `/api/quotes`: merges `data/snapshot.json` with FRED daily series and returns one reading per market with its source and as-of time, cached at the edge for 60 s.
 - Rules run in the browser from rule packs in `packs/`, against the watchlist in `config/watchlist.ts`.
 
-`npm run validate-data` checks the shape of every file in `data/`. Scheduled runs must pass it before pushing.
+`npm run validate-data` checks the shape of every file in `data/`. Scheduled runs must pass it before pushing, and the Vercel build runs it too, so a bad file never replaces the live site. Run instructions: [`docs/scheduled-run.md`](docs/scheduled-run.md).
 
 ## Data provider decision (2026-10-22)
 
@@ -40,4 +40,6 @@ npm install
 npm run dev
 npm test
 npm run validate-data
+npm run research-list    # what a scheduled run gathers, from the config
+npm run upsert-history   # midnight run: add or replace the history row
 ```

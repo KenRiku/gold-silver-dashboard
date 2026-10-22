@@ -3,10 +3,12 @@
   "version": "1.0.0",
   "scripts": {
     "dev": "vite",
-    "build": "tsc --noEmit && vite build",
+    "build": "npm run validate-data && tsc --noEmit && vite build",
     "preview": "vite preview",
     "test": "vitest run",
-    "validate-data": "tsx scripts/validate-data.ts"
+    "validate-data": "tsx scripts/validate-data.ts",
+    "upsert-history": "tsx scripts/upsert-history.ts",
+    "research-list": "tsx scripts/research-list.ts"
   },
   "description": "Gold & silver pattern-flag dashboard",
   "dependencies": {
