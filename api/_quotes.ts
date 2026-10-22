@@ -1,8 +1,8 @@
 import { markets, type Market } from '../config/markets.js';
 import type { QuoteError, QuotesResponse, Reading, Snapshot } from '../shared/quotes.js';
 import { readingsFromFred } from './_providers/fred.js';
-import { readingsFromSnapshot } from './_providers/snapshot.js';
-import type { ProviderReading } from './_providers/types.js';
+import { readingsFromSnapshot } from '../shared/snapshot.js';
+import type { ProviderReading } from '../shared/provider.js';
 
 export async function buildQuotes(snapshot: Snapshot, now: Date): Promise<QuotesResponse> {
   const fromSnapshot = readingsFromSnapshot(snapshot);

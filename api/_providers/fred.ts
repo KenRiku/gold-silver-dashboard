@@ -1,5 +1,5 @@
 import type { Market } from '../../config/markets.js';
-import type { ProviderReading } from './types.js';
+import type { ProviderReading } from '../../shared/provider.js';
 
 const FRED_CSV = 'https://fred.stlouisfed.org/graph/fredgraph.csv';
 const LOOKBACK_DAYS = 45;

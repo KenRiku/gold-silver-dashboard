@@ -3,10 +3,121 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="color-scheme" content="light dark" />
+    <meta name="description" content="Gold, silver, miners and Nasdaq pattern flags with sources. Pattern flags, not trade signals." />
     <title>Gold &amp; silver regime</title>
+    <link rel="stylesheet" href="/src/styles.css" />
   </head>
   <body>
-    <div id="app">Gold &amp; silver regime: coming soon.</div>
+    <main class="page">
+      <div class="banner" id="banner" hidden></div>
+
+      <header class="head" id="top">
+        <h1>Gold &amp; silver regime</h1>
+        <p class="takeaway" id="takeaway">—</p>
+        <div class="asof">
+          <span>Pattern read as of <span id="regime-asof">—</span> · <span id="regime-run">—</span></span>
+          <span class="feed" id="feed"><i class="feed-dot"></i><span id="feed-text">—</span></span>
+        </div>
+      </header>
+
+      <section class="row-two" id="regime">
+        <div class="card">
+          <h2>Current pattern</h2>
+          <p class="note">My read of which historical pattern today's moves match</p>
+          <div class="regime" id="regime-name">—</div>
+        </div>
+        <div class="card">
+          <h2>Rules triggered</h2>
+          <p class="note">Out of <span id="rule-total">—</span> rules, checked against the latest readings</p>
+          <div class="counts">
+            <div class="count"><b id="count-on">—</b><span><i class="dot on"></i>On</span></div>
+            <div class="count"><b id="count-watch">—</b><span><i class="dot watch"></i>Watch</span></div>
+            <div class="count"><b id="count-off">—</b><span><i class="dot off"></i>Off</span></div>
+            <div class="count"><b id="count-nodata">—</b><span><i class="dot nodata"></i>No reading</span></div>
+          </div>
+        </div>
+      </section>
+
+      <section class="card" id="rules">
+        <h2>Rule checks</h2>
+        <p class="note">Each rule flags a condition and what similar days led to historically. These are pattern flags, not buy or sell calls.</p>
+        <div class="scroll">
+          <table class="table">
+            <thead><tr>
+              <th>Status</th><th>Rule</th><th>Reading</th><th class="hide-narrow">Triggers when</th><th>What history suggests</th><th>Your tickers</th>
+            </tr></thead>
+            <tbody id="rules-body"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="card" id="tickers">
+        <h2>Your tickers</h2>
+        <p class="note">Price, day change and the rules currently On that touch each fund</p>
+        <div class="scroll">
+          <table class="table">
+            <thead><tr><th>Ticker</th><th>Price</th><th>Day</th><th>Rules On</th></tr></thead>
+            <tbody id="tickers-body"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="row-two wide-first">
+        <div class="card" id="readings">
+          <h2>Readings</h2>
+          <p class="note">Latest level and change on the day; “—” means no reliable figure was found</p>
+          <div class="scroll">
+            <table class="table">
+              <thead><tr><th>Market</th><th>Level</th><th>Day</th><th class="hide-narrow">Note</th></tr></thead>
+              <tbody id="readings-body"></tbody>
+            </table>
+          </div>
+        </div>
+        <div class="card" id="changes">
+          <h2>What changed</h2>
+          <p class="note">Since the previous update · <span id="changes-commit">—</span></p>
+          <ul class="list" id="changes-list"></ul>
+        </div>
+      </section>
+
+      <section class="card" id="catalysts">
+        <h2>Coming up</h2>
+        <p class="note">Scheduled events that can move your positions · <span id="catalysts-commit">—</span></p>
+        <div class="scroll">
+          <table class="table">
+            <thead><tr><th>When</th><th>Event</th><th>Why it matters</th></tr></thead>
+            <tbody id="catalysts-body"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="card" id="trends">
+        <h2>Trend across updates</h2>
+        <p class="note" id="trends-note">One point per update</p>
+        <div class="trends" id="trends-grid"></div>
+      </section>
+
+      <section class="card" id="sources">
+        <h2>Sources</h2>
+        <p class="note">Every provider and page behind the numbers and notes on this page</p>
+        <div class="sources" id="sources-body"></div>
+      </section>
+
+      <footer class="foot">
+        <p><strong>Pattern flags, not trade signals.</strong> Check live prices in your broker before trading.</p>
+        <p>Figures are gathered from news and market sites at each update, so they can lag or differ slightly from your broker. Rule thresholds are starting points.</p>
+      </footer>
+    </main>
+
+    <aside class="drawer" id="drawer" hidden aria-labelledby="drawer-title">
+      <div class="drawer-panel" role="dialog" aria-modal="true">
+        <button class="drawer-close" id="drawer-close" type="button" aria-label="Close">×</button>
+        <h2 id="drawer-title">Source</h2>
+        <dl class="drawer-list" id="drawer-body"></dl>
+      </div>
+    </aside>
+
     <script type="module" src="/src/main.ts"></script>
   </body>
 </html>
