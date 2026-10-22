@@ -1,0 +1,37 @@
+[
+  {
+    "date": "2026-10-22",
+    "when": "Thu Oct 22, after close",
+    "event": "Newmont Q3 results (call 2:30 PM PT)",
+    "why": "Largest GDX holding: moves GDX, GDXU, GDXJ at tomorrow's open",
+    "url": "https://www.ariva.de/news/newmont-announces-third-quarter-2026-results-conference-call-12147804"
+  },
+  {
+    "date": "2026-10-23",
+    "when": "Fri Oct 23",
+    "event": "CFTC positioning report (weekly)",
+    "why": "Shows whether speculators are still cutting gold and silver longs",
+    "url": "https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm"
+  },
+  {
+    "date": "2026-10-27",
+    "when": "Tue–Wed Oct 27–28",
+    "event": "Fed decision (a hike is being priced as possible)",
+    "why": "Rates drive gold, silver and the Nasdaq; a hike would hit TQQQ and metals",
+    "url": "https://www.investing.com/commodities/silver"
+  },
+  {
+    "date": "2026-10-28",
+    "when": "Wed Oct 28",
+    "event": "Agnico Eagle Q3 results",
+    "why": "Second-largest GDX holding; watch costs (AISC) versus guidance",
+    "url": "https://www.panabee.com/news/agnico-eagle-mines-earnings-q2-2026"
+  },
+  {
+    "date": "2026-10-29",
+    "when": "Thu–Fri Oct 29–30",
+    "event": "Bank of Japan meeting",
+    "why": "Any hawkish turn strengthens the yen and can extend carry-trade selling",
+    "url": "https://j2t.com/solutions/blogview/usdjpy-forecast/"
+  }
+]

@@ -12,5 +12,5 @@
     "skipLibCheck": true,
     "types": ["node", "vite/client"]
   },
-  "include": ["src", "api", "config", "packs", "scripts"]
+  "include": ["src", "api", "config", "packs", "scripts", "shared"]
 }
