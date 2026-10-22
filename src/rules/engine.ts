@@ -1,9 +1,15 @@
 import type { WatchlistEntry } from '../../config/watchlist.js';
-import type { Reading } from '../../shared/quotes.js';
 import { formatSigned } from '../format.js';
 import type { Comparison, Condition, InputRef, Rule, RulePack, Status } from './types.js';
 
-export type RuleInputs = Map<string, Pick<Reading, 'value' | 'chg_pct' | 'chg_bp' | 'chg_1m_pct'>>;
+export interface RuleInput {
+  value: number | null;
+  chg_pct: number | null;
+  chg_bp: number | null;
+  chg_1m_pct: number | null;
+}
+
+export type RuleInputs = Map<string, RuleInput>;
 
 export interface RuleCheck {
   rule: Rule;
