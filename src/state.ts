@@ -1,9 +1,11 @@
+import { activeChecklists } from '../config/checklists.js';
 import { markets } from '../config/markets.js';
 import { watchlist } from '../config/watchlist.js';
 import { activePacks } from '../packs/index.js';
 import type { QuoteError, QuotesResponse, Reading } from '../shared/quotes.js';
 import { readingsFromSnapshot } from '../shared/snapshot.js';
-import { snapshot } from './data.js';
+import { evaluateChecklist, type ChecklistResult } from './checklists/engine.js';
+import { catalysts, snapshot } from './data.js';
 import { checkRules, type RuleCheck } from './rules/engine.js';
 
 export type Feed =
@@ -15,6 +17,7 @@ export interface ViewState {
   readings: Map<string, Reading>;
   errors: QuoteError[];
   checks: RuleCheck[];
+  checklists: ChecklistResult[];
   feed: Feed;
   now: Date;
 }
@@ -40,6 +43,8 @@ export function stateFromQuotes(quotes: QuotesResponse, now: Date): ViewState {
   });
 }
 
-function withChecks(state: Omit<ViewState, 'checks'>): ViewState {
-  return { ...state, checks: checkRules(activePacks, state.readings, watchlist) };
+function withChecks(state: Omit<ViewState, 'checks' | 'checklists'>): ViewState {
+  const checks = checkRules(activePacks, state.readings, watchlist);
+  const checklists = activeChecklists.map((list) => evaluateChecklist(list, checks, state.readings, catalysts, state.now));
+  return { ...state, checks, checklists };
 }

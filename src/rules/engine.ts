@@ -48,7 +48,7 @@ function ruleStatus(rule: Rule, inputs: RuleInputs): Status {
 }
 
 /** A condition with a missing input never holds; missing values are never treated as zero. */
-function holds(condition: Condition, inputs: RuleInputs): boolean {
+export function holds(condition: Condition, inputs: RuleInputs): boolean {
   if ('allOf' in condition) return condition.allOf.every((part) => holds(part, inputs));
   if ('anyOf' in condition) return condition.anyOf.some((part) => holds(part, inputs));
   if ('threshold' in condition) {
@@ -76,7 +76,7 @@ function compare(actual: number, op: Comparison, limit: number): boolean {
   }
 }
 
-function valueOf(ref: InputRef, inputs: RuleInputs): number | null {
+export function valueOf(ref: InputRef, inputs: RuleInputs): number | null {
   const raw = inputs.get(ref.key)?.[ref.field];
   return raw === null || raw === undefined || !Number.isFinite(raw) ? null : raw;
 }
@@ -84,7 +84,7 @@ function valueOf(ref: InputRef, inputs: RuleInputs): number | null {
 const PLACEHOLDER = /\{(\w+)\.(\w+):(\w+)\}/g;
 const OPTIONAL_SEGMENT = /\[([^\]]*)\]/g;
 
-function renderReading(template: string, inputs: RuleInputs): string {
+export function renderReading(template: string, inputs: RuleInputs): string {
   const value = (key: string, field: string) => valueOf({ key, field: field as InputRef['field'] }, inputs);
   const withOptionals = template.replace(OPTIONAL_SEGMENT, (_, segment: string) =>
     [...segment.matchAll(PLACEHOLDER)].every(([, key, field]) => value(key, field) !== null) ? segment : '',
@@ -97,6 +97,7 @@ function formatPlaceholder(value: number | null, format: string): string {
   switch (format) {
     case 'pct': return formatSigned(value, 1) + '%';
     case 'bp': return formatSigned(Math.round(value), 0) + ' bp';
+    case 'usd0': return '$' + Math.round(value).toLocaleString('en-US');
     case 'usd2': return '$' + value.toFixed(2);
     default: return value.toFixed(1);
   }
@@ -104,6 +105,10 @@ function formatPlaceholder(value: number | null, format: string): string {
 
 function inputKeysOf(rule: Rule): string[] {
   const refs = 'allOf' in rule.requires ? rule.requires.allOf : rule.requires.anyOf;
-  const fromTemplate = [...rule.reading.matchAll(PLACEHOLDER)].map(([, key]) => key);
+  return inputKeysFrom(refs, rule.reading);
+}
+
+export function inputKeysFrom(refs: InputRef[], template: string): string[] {
+  const fromTemplate = [...template.matchAll(PLACEHOLDER)].map(([, key]) => key);
   return [...new Set([...refs.map((ref) => ref.key), ...fromTemplate])];
 }

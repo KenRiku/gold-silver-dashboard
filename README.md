@@ -9,6 +9,7 @@ Tickers followed: GDXU, GDX, GDXJ, SLV, AGQ, QQQ, TQQQ, SQQQ, NRGU (US-listed Mi
 - `data/*.json`: written by scheduled Claude runs (12:00 AM Tue–Sat and 5:45 AM Mon–Fri, Pacific) that commit to `main`. Vercel redeploys on each commit. A run can also be started by hand with "Run now" on the routine in claude.ai.
 - `/api/quotes`: merges `data/snapshot.json` with FRED daily series and returns one reading per market with its source and as-of time, cached at the edge for 60 s.
 - Rules run in the browser from rule packs in `packs/`, against the watchlist in `config/watchlist.ts`.
+- Checklists in `config/checklists.ts` (currently the miners entry checklist) count how many conditions are in place, built from rule statuses, readings and the events in `data/catalysts.json`. A count of conditions, not a buy signal.
 
 `npm run validate-data` checks the shape of every file in `data/`. Scheduled runs must pass it before pushing, and the Vercel build runs it too, so a bad file never replaces the live site. Run instructions: [`docs/scheduled-run.md`](docs/scheduled-run.md).
 

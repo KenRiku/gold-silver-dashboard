@@ -1,6 +1,7 @@
 import { bindDrawerClose, openSourceDrawer } from './drawer.js';
 import { fetchQuotes, pollInterval } from './polling.js';
 import { renderBanner } from './render/banner.js';
+import { renderChecklists } from './render/checklist.js';
 import { renderHeader } from './render/header.js';
 import { renderCatalysts, renderChanges } from './render/narrative.js';
 import { renderReadings } from './render/readings.js';
@@ -15,6 +16,7 @@ function render(state: ViewState): void {
   renderHeader(state);
   renderRuleCounts(state);
   renderRuleChecks(state);
+  renderChecklists(state);
   renderTickers(state);
   renderReadings(state);
   renderChanges();
@@ -61,6 +63,14 @@ document.addEventListener('click', (event) => {
   if (check) {
     openSourceDrawer(check.rule.name, check.inputKeys.flatMap((key) => state.readings.get(key) ?? []), new Date());
     return;
+  }
+  if (tag.dataset.checkItem) {
+    const [listId, itemId] = tag.dataset.checkItem.split(':');
+    const item = state.checklists.find((list) => list.checklist.id === listId)?.items.find((candidate) => candidate.item.id === itemId);
+    if (item) {
+      openSourceDrawer(item.item.name, item.inputKeys.flatMap((key) => state.readings.get(key) ?? []), new Date());
+      return;
+    }
   }
   const reading = state.readings.get(tag.dataset.sourceKey ?? '');
   if (reading) openSourceDrawer(reading.label, [reading], new Date());
