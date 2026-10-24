@@ -61,14 +61,14 @@ document.addEventListener('click', (event) => {
   if (!tag) return;
   const check = state.checks.find((candidate) => candidate.rule.id === tag.dataset.ruleId);
   if (check) {
-    openSourceDrawer(check.rule.name, check.inputKeys.flatMap((key) => state.readings.get(key) ?? []), new Date());
+    openSourceDrawer(check.rule.name, check.inputKeys.flatMap((key) => state.ruleReadings.get(key) ?? []), new Date());
     return;
   }
   if (tag.dataset.checkItem) {
     const [listId, itemId] = tag.dataset.checkItem.split(':');
     const item = state.checklists.find((list) => list.checklist.id === listId)?.items.find((candidate) => candidate.item.id === itemId);
     if (item) {
-      openSourceDrawer(item.item.name, item.inputKeys.flatMap((key) => state.readings.get(key) ?? []), new Date());
+      openSourceDrawer(item.item.name, item.inputKeys.flatMap((key) => state.ruleReadings.get(key) ?? []), new Date());
       return;
     }
   }

@@ -17,7 +17,7 @@ export function renderRuleCounts(state: ViewState): void {
 export function renderRuleChecks(state: ViewState): void {
   byId('rules-body').replaceChildren(
     ...state.checks.map((check) => {
-      const inputReadings = check.inputKeys.flatMap((key) => state.readings.get(key) ?? []);
+      const inputReadings = check.inputKeys.flatMap((key) => state.ruleReadings.get(key) ?? []);
       const oldest = oldestReading(inputReadings);
       const tag = oldest && sourceTag(oldest, state.now);
       if (tag) tag.dataset.ruleId = check.rule.id;

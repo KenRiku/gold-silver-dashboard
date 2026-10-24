@@ -29,7 +29,7 @@
         </div>
         <div class="card">
           <h2>Rules triggered</h2>
-          <p class="note">Out of <span id="rule-total">—</span> rules, checked against the latest readings</p>
+          <p class="note">Out of <span id="rule-total">—</span> rules, checked against the last update's snapshot</p>
           <div class="counts">
             <div class="count"><b id="count-on">—</b><span><i class="dot on"></i>On</span></div>
             <div class="count"><b id="count-watch">—</b><span><i class="dot watch"></i>Watch</span></div>
@@ -41,7 +41,7 @@
 
       <section class="card" id="rules">
         <h2>Rule checks</h2>
-        <p class="note">Each rule flags a condition and what similar days led to historically. These are pattern flags, not buy or sell calls.</p>
+        <p class="note">Each rule flags a condition and what similar days led to historically, using prices from the last update (not the live ticker prices below). These are pattern flags, not buy or sell calls.</p>
         <div class="scroll">
           <table class="table">
             <thead><tr>

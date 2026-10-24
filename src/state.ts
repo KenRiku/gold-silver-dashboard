@@ -14,7 +14,10 @@ export type Feed =
   | { mode: 'failed'; checkedAt: string };
 
 export interface ViewState {
+  /** Latest readings for the tickers, readings and trends sections: live where available. */
   readings: Map<string, Reading>;
+  /** The last update's snapshot only, so rules and checklists reflect one moment: the run. */
+  ruleReadings: Map<string, Reading>;
   errors: QuoteError[];
   checks: RuleCheck[];
   checklists: ChecklistResult[];
@@ -22,16 +25,19 @@ export interface ViewState {
   now: Date;
 }
 
-export function stateFromSnapshotFile(now: Date, feed: Feed = { mode: 'files' }): ViewState {
-  const fromFile = readingsFromSnapshot(snapshot);
-  const readings: Reading[] = fromFile.readings.flatMap((reading) => {
+const fromFile = readingsFromSnapshot(snapshot);
+const snapshotReadings: Map<string, Reading> = new Map(
+  fromFile.readings.flatMap((reading) => {
     const market = markets.find((candidate) => candidate.key === reading.key);
-    return market ? [{ ...reading, label: market.label, group: market.group }] : [];
-  });
+    return market ? [[reading.key, { ...reading, label: market.label, group: market.group }] as [string, Reading]] : [];
+  }),
+);
+
+export function stateFromSnapshotFile(now: Date, feed: Feed = { mode: 'files' }): ViewState {
   const errors = markets
-    .filter((market) => !readings.some((reading) => reading.key === market.key))
+    .filter((market) => !snapshotReadings.has(market.key))
     .map((market) => ({ key: market.key, reason: fromFile.missingNotes[market.key] ?? 'Not in the latest snapshot' }));
-  return withChecks({ readings: new Map(readings.map((reading) => [reading.key, reading])), errors, feed, now });
+  return withChecks({ readings: new Map(snapshotReadings), errors, feed, now });
 }
 
 export function stateFromQuotes(quotes: QuotesResponse, now: Date): ViewState {
@@ -43,8 +49,9 @@ export function stateFromQuotes(quotes: QuotesResponse, now: Date): ViewState {
   });
 }
 
-function withChecks(state: Omit<ViewState, 'checks' | 'checklists'>): ViewState {
-  const checks = checkRules(activePacks, state.readings, watchlist);
-  const checklists = activeChecklists.map((list) => evaluateChecklist(list, checks, state.readings, catalysts, state.now));
-  return { ...state, checks, checklists };
+function withChecks(state: Omit<ViewState, 'checks' | 'checklists' | 'ruleReadings'>): ViewState {
+  const ruleReadings = snapshotReadings;
+  const checks = checkRules(activePacks, ruleReadings, watchlist);
+  const checklists = activeChecklists.map((list) => evaluateChecklist(list, checks, ruleReadings, catalysts, state.now));
+  return { ...state, ruleReadings, checks, checklists };
 }

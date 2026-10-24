@@ -18,7 +18,7 @@ export function renderChecklists(state: ViewState): void {
       );
 
       const rows = result.items.map((check) => {
-        const inputReadings = check.inputKeys.flatMap((key) => state.readings.get(key) ?? []);
+        const inputReadings = check.inputKeys.flatMap((key) => state.ruleReadings.get(key) ?? []);
         const oldest = oldestReading(inputReadings);
         const tag = oldest && sourceTag(oldest, state.now);
         if (tag) tag.dataset.checkItem = `${checklist.id}:${check.item.id}`;
