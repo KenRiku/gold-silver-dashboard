@@ -21,7 +21,7 @@ npm run research-list
 
 ## 2. Gather the numbers
 
-1. Read `https://gold-silver-dashboard-kappa.vercel.app/api/quotes` with WebFetch first. Its FRED readings (`source.kind: "daily"`) are official closes; keep them unless you find a fresher figure.
+1. The site is password protected, so `/api/quotes` answers 401 to WebFetch; don't try to log in. Get the official daily closes from FRED instead: US 10Y (`https://fred.stlouisfed.org/series/DGS10`), US 2Y (`https://fred.stlouisfed.org/series/DGS2`) and Brent (`https://fred.stlouisfed.org/series/DCOILBRENTEU`). Keep them unless you find a fresher figure, and cite the FRED page as the source.
 2. Use web search for every market from `research-list`, preferring the most recent figure from a reputable market or news site (Kitco, Trading Economics, CNBC, Reuters, Bloomberg, MarketWatch, CoinDesk, the fund issuer's page).
 3. Every non-null value needs `source` (site name) and `url` (the exact https page it came from).
 4. If you cannot find a reliable figure, or sources disagree by more than a rounding difference, write `null` and say why in `note`. Never estimate or carry a value forward silently. Never treat a missing value as zero.
