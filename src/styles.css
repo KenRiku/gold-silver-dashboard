@@ -93,6 +93,13 @@ a { color: inherit; }
 .dot.watch { background: var(--watch); }
 .dot.off { background: var(--off); }
 .dot.nodata { background: transparent; border: 1px solid var(--fg-faint); }
+.dot.met { background: var(--off); }
+.dot.notmet { background: var(--watch); }
+tr.is-nodata td { color: var(--fg-muted); }
+.stack { display: flex; flex-direction: column; gap: var(--gap-lg); }
+.stack:empty { display: none; }
+.check-summary { display: flex; flex-wrap: wrap; align-items: baseline; gap: var(--gap-xs) var(--gap-md); margin: 0 0 var(--gap-md); }
+.check-summary b { font-family: var(--font-serif); font-weight: 400; font-size: 1.75rem; font-variant-numeric: tabular-nums; }
 
 .scroll { overflow-x: auto; }
 .table { width: 100%; border-collapse: collapse; font-size: 0.8125rem; }
