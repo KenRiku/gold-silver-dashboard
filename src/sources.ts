@@ -6,6 +6,7 @@ const FRESH_MS = 5 * 60_000;
 
 export function sourceLabel(reading: Reading): string {
   switch (reading.source.kind) {
+    case 'live': return reading.source.name;
     case 'daily': return 'FRED daily';
     case 'computed': return 'Computed';
     case 'snapshot': return `Claude snapshot (${reading.source.name})`;
