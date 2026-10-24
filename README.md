@@ -31,7 +31,15 @@ Revisit if live prices become worth $149/mo (Twelve Data Venture, 15-min delayed
 
 ## Environment variables
 
-None required. `.env.example` lists any that are added later; values live only in Vercel project settings.
+| Name | Used by | Notes |
+|---|---|---|
+| `SITE_USERNAME`, `SITE_PASSWORD` | `middleware.ts` | Password gate for the whole site, including `/api/quotes`. Set for Production and Preview. If either is missing the site stays locked (503). |
+
+Values live only in Vercel project settings; `.env.example` lists the names.
+
+## Password gate
+
+`middleware.ts` (Vercel Routing Middleware) asks for a username and password before serving anything: the page, the built JS that carries `data/*.json`, and `/api/quotes`. Browsers remember the login for the session. `npm run dev` doesn't run it; only Vercel does. To change the password, update `SITE_PASSWORD` in Vercel and redeploy.
 
 ## Development
 
