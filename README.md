@@ -30,10 +30,17 @@ Tiingo, EODHD, Alpha Vantage and Polygon free tiers are also personal-use only. 
 
 Revisit if live prices become worth $149/mo (Twelve Data Venture, 15-min delayed, "Data provided by Twelve Data" link).
 
+**Update (2026-10-23): live quotes from Finnhub.** The site is now password protected for personal use (`middleware.ts`), which fits Finnhub's free personal, non-commercial tier. `/api/quotes` asks Finnhub for the tickers, gold and silver spot, USD/JPY and bitcoin on the server (the key never reaches the browser) and caches the answer for 60 s. A market Finnhub doesn't cover keeps its snapshot or FRED reading; `/api/quotes` lists why under `liveMisses`.
+
+### Adding a backup source
+
+Live sources are tried in order per market (`live` in `config/markets.ts`). To add a second provider: write an adapter in `api/_providers/` like `finnhub.ts`, add it to `liveProviders` in `api/_providers/live.ts`, add its id to `LiveSource['provider']`, and list it second for the markets that need it. Its key goes in a Vercel environment variable.
+
 ## Environment variables
 
 | Name | Used by | Notes |
 |---|---|---|
+| `FINNHUB_API_KEY` | `api/_providers/finnhub.ts` | Live quotes. Without it the site still works from the snapshot and FRED. |
 | `SITE_USERNAME`, `SITE_PASSWORD` | `middleware.ts` | Password gate for the whole site, including `/api/quotes`. Set for Production and Preview. If either is missing the site stays locked (503). |
 
 Values live only in Vercel project settings; `.env.example` lists the names.

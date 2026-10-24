@@ -4,6 +4,7 @@ import { formatAge, formatTimestamp } from './format.js';
 import { sourceLabel } from './sources.js';
 
 const DELAY_TEXT: Record<Reading['source']['kind'], string> = {
+  live: 'Live quote from the provider, refreshed about once a minute (cached 60 s)',
   snapshot: 'Not a streaming feed: gathered by a scheduled Claude run (twice a day, or on demand)',
   daily: 'Daily official series, published after the close',
   computed: 'Worked out from the readings it is computed from',

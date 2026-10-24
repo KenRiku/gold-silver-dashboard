@@ -1,6 +1,6 @@
 export type MarketGroup = 'Metals' | 'Miners' | 'Funds' | 'Rates' | 'FX' | 'Risk' | 'Energy' | 'Equities';
 
-export type SourceKind = 'snapshot' | 'daily' | 'computed';
+export type SourceKind = 'live' | 'snapshot' | 'daily' | 'computed';
 
 export interface Source {
   name: string;
@@ -33,6 +33,8 @@ export interface QuotesResponse {
   asOf: string;
   readings: Reading[];
   errors: QuoteError[];
+  /** Markets that have a live source configured but got no live reading this time, with why. */
+  liveMisses?: Record<string, string>;
 }
 
 export interface SnapshotRow {

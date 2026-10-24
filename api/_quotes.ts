@@ -1,13 +1,18 @@
 import { markets, type Market } from '../config/markets.js';
 import type { QuoteError, QuotesResponse, Reading, Snapshot } from '../shared/quotes.js';
 import { readingsFromFred } from './_providers/fred.js';
+import { readingsFromLive } from './_providers/live.js';
 import { readingsFromSnapshot } from '../shared/snapshot.js';
 import type { ProviderReading } from '../shared/provider.js';
 
 export async function buildQuotes(snapshot: Snapshot, now: Date): Promise<QuotesResponse> {
   const fromSnapshot = readingsFromSnapshot(snapshot);
-  const fromFred = await readingsFromFred(markets.filter((market) => market.fredSeries), now);
-  const freshest = freshestByKey([...fromSnapshot.readings, ...fromFred]);
+  const [fromFred, fromLive] = await Promise.all([
+    readingsFromFred(markets.filter((market) => market.fredSeries), now),
+    readingsFromLive(markets.filter((market) => market.live?.length), now),
+  ]);
+  const fallback = freshestByKey([...fromSnapshot.readings, ...fromFred]);
+  const freshest = preferLive(fromLive.readings, fallback);
 
   const readings: Reading[] = [];
   const errors: QuoteError[] = [];
@@ -16,7 +21,26 @@ export async function buildQuotes(snapshot: Snapshot, now: Date): Promise<Quotes
     if (reading) readings.push(labelled(reading, market));
     else errors.push({ key: market.key, reason: fromSnapshot.missingNotes[market.key] ?? 'Not covered by the snapshot or FRED' });
   }
-  return { asOf: now.toISOString(), readings, errors };
+  return { asOf: now.toISOString(), readings, errors, liveMisses: fromLive.misses };
+}
+
+/**
+ * A live reading replaces the snapshot or FRED one for its market. Live quotes carry no
+ * one-month change, so it is carried over by re-basing the fallback's change onto the live price.
+ */
+function preferLive(live: ProviderReading[], fallback: Map<string, ProviderReading>): Map<string, ProviderReading> {
+  const merged = new Map(fallback);
+  for (const reading of live) {
+    const previous = fallback.get(reading.key);
+    merged.set(reading.key, { ...reading, chg_1m_pct: reading.chg_1m_pct ?? rebasedMonthChange(reading.value, previous) });
+  }
+  return merged;
+}
+
+function rebasedMonthChange(liveValue: number, previous: ProviderReading | undefined): number | null {
+  if (!previous || previous.chg_1m_pct === null) return null;
+  const monthAgo = previous.value / (1 + previous.chg_1m_pct / 100);
+  return round((liveValue / monthAgo - 1) * 100, 2);
 }
 
 function freshestByKey(readings: ProviderReading[]): Map<string, ProviderReading> {
