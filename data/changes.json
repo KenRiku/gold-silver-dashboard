@@ -1,43 +1,43 @@
 [
   {
     "n": 1,
-    "text": "Gold closed about 0.5% higher at roughly $4,017, holding just above $4,000 after a brief dip at the New York open.",
-    "source": "Ausecure",
-    "url": "https://www.ausecure.com/gold-market-close-oct-26-2026/"
+    "text": "Gold slipped about 0.3% to roughly $4,004, staying just above Friday's three-month low as the Fed meeting begins.",
+    "source": "Reuters (via FinanceFeeds)",
+    "url": "https://financefeeds.com/gold-price-today-4004-tuesday-three-month-low-fomc-day-one-pce-thursday-bull-4110-bear-3890/"
   },
   {
     "n": 2,
-    "text": "Silver ended nearly flat near $54, so the gold/silver ratio edged up to about 74.4.",
-    "source": "Ausecure",
-    "url": "https://www.ausecure.com/gold-market-close-oct-26-2026/"
+    "text": "Silver fell about 1.6% to $53.06, much more than gold, so the gold/silver ratio rose to about 75.5.",
+    "source": "Reuters (via FinanceFeeds)",
+    "url": "https://financefeeds.com/gold-price-today-4004-tuesday-three-month-low-fomc-day-one-pce-thursday-bull-4110-bear-3890/"
   },
   {
     "n": 3,
-    "text": "Gold miners did a little better than gold: GDX rose about 1% to $81.02 and GDXJ about 0.6%.",
-    "source": "Rio Times",
-    "url": "https://www.riotimesonline.com/gold-silver-precious-metals-monday-october-26-2026"
+    "text": "Brent eased to about $114.80, down nearly 0.9% from Monday's settle, on hopes that talks with Iran calm Gulf supply risks.",
+    "source": "Arbiterz",
+    "url": "https://arbiterz.com/oil-prices-today-brent-slips-below-115-wti-nears-101"
   },
   {
     "n": 4,
-    "text": "Stocks bounced, led by chip and AI shares after Anthropic's IPO filing: the Nasdaq rose 0.8%, the S&P 500 0.7% and TQQQ about 3.2%.",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/25/stock-market-today-live-updates.html"
+    "text": "US stock futures pointed slightly higher, with Nasdaq-100 futures up about 0.3%, after Monday's tech-led bounce.",
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-october-27-dow-sp-500-nasdaq-081901995.html"
   },
   {
     "n": 5,
-    "text": "Brent settled down about 0.8% at $115.81 on Middle East peace hopes, still far above $100.",
-    "source": "Reuters (via Investing.com)",
-    "url": "https://investing.com/news/commodities-news/oil-prices-down-almost-1-in-early-trading-4971306"
+    "text": "Treasury yields barely moved: the 10-year sat near 4.98% and the 2-year near 4.71%.",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/27/treasury-yields-federal-reserve-monetary-policy-meeting.html"
   },
   {
     "n": 6,
-    "text": "The VIX fear gauge fell about 5% to 18.4 as oil eased and stocks recovered.",
-    "source": "Yahoo Finance",
-    "url": "https://finance.yahoo.com/quote/%5EVIX/history/"
+    "text": "The yen weakened slightly to about 157.7 per dollar ahead of the Fed on Wednesday and the Bank of Japan on Friday.",
+    "source": "Reuters (via Global Banking & Finance Review)",
+    "url": "https://www.globalbankingandfinance.com/yen-eases-risk-on-mood-ahead-central-bank-bonanza/"
   },
   {
     "n": 7,
-    "text": "Bitcoin slipped just below $80,000 as traders stayed cautious ahead of the Fed.",
+    "text": "Bitcoin edged down about 0.5% to around $79,450.",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/price/bitcoin"
   }
