@@ -53,7 +53,7 @@
       "chg_1m_pct": null,
       "shown": "$81.02",
       "change_shown": "+1.02%",
-      "note": "Monday close (latest confirmed price; no reliable pre-market quote found). Robinhood shows $81.03. Miners rose a bit more than gold",
+      "note": "Monday close; no reliable pre-market quote found. Robinhood shows $81.03. Miners rose a bit more than gold",
       "source": "Rio Times",
       "url": "https://www.riotimesonline.com/gold-silver-precious-metals-monday-october-26-2026"
     },
@@ -67,7 +67,7 @@
       "chg_1m_pct": null,
       "shown": "$99.94",
       "change_shown": "+0.59%",
-      "note": "Monday close (latest confirmed price; no reliable pre-market quote found). up $0.59 from $99.35",
+      "note": "Monday close; no reliable pre-market quote found. Up $0.59 from $99.35",
       "source": "Gotrade",
       "url": "https://www.heygotrade.com/en/us-stock/gdxj/"
     },
@@ -81,7 +81,7 @@
       "chg_1m_pct": null,
       "shown": "$76.05",
       "change_shown": "+2.44%",
-      "note": "Monday close (latest confirmed price; no reliable pre-market quote found).  at 4:00 PM ET, up $1.81; Yahoo's page showed $74.65, which looks like an intraday quote",
+      "note": "Monday close; no reliable pre-market quote found. At 4:00 PM ET, up $1.81; Yahoo's page showed $74.65, which looks like an intraday quote",
       "source": "StockAnalysis",
       "url": "https://stockanalysis.com/etf/gdxu/"
     },
@@ -95,7 +95,7 @@
       "chg_1m_pct": null,
       "shown": "$48.66",
       "change_shown": "−0.12%",
-      "note": "Monday close (latest confirmed price; no reliable pre-market quote found). Finviz shows the same",
+      "note": "Monday close; no reliable pre-market quote found. Finviz shows the same",
       "source": "StockAnalysis",
       "url": "https://stockanalysis.com/etf/slv/"
     },
@@ -123,7 +123,7 @@
       "chg_1m_pct": null,
       "shown": "$712.20",
       "change_shown": "+1.11%",
-      "note": "Monday close (latest confirmed price; no reliable pre-market quote found). up $7.80; in line with the Nasdaq-100's +1.09%. Yahoo's history table shows $708.35, which doesn't match that move",
+      "note": "Monday close; no reliable pre-market quote found. Up $7.80; in line with the Nasdaq-100's +1.09%. Yahoo's history table shows $708.35, which doesn't match that move",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/QQQ/"
     },
@@ -137,7 +137,7 @@
       "chg_1m_pct": null,
       "shown": "$68.43",
       "change_shown": "+3.23%",
-      "note": "Monday close (latest confirmed price; no reliable pre-market quote found). up $2.14; Yahoo Finance agrees",
+      "note": "Monday close; no reliable pre-market quote found. Up $2.14; Yahoo Finance agrees",
       "source": "StockAnalysis",
       "url": "https://stockanalysis.com/etf/tqqq/"
     },
@@ -151,7 +151,7 @@
       "chg_1m_pct": null,
       "shown": "$38.38",
       "change_shown": "−3.28%",
-      "note": "Monday close (latest confirmed price; no reliable pre-market quote found). down $1.30 from $39.68; Yahoo Finance agrees",
+      "note": "Monday close; no reliable pre-market quote found. Down $1.30 from $39.68; Yahoo Finance agrees",
       "source": "StockAnalysis",
       "url": "https://stockanalysis.com/etf/sqqq/"
     },
