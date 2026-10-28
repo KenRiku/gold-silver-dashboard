@@ -1,7 +1,7 @@
 [
   {
     "date": "2026-10-28",
-    "when": "Wed Oct 28, 11:00 AM PT",
+    "when": "Wed Oct 28, 11:00 AM PT (press conference 11:30 AM PT)",
     "event": "Fed rate decision (no change expected; a December hike is being priced)",
     "why": "Rates drive gold, silver and the Nasdaq; any hint of a hike weighs on metals and TQQQ",
     "url": "https://www.newsquawk.com/headlines/week-in-focus-26-30th-october-2026-fomc-boc-rbnz-ecb-boj-policy-decisions-us-pce"
@@ -36,10 +36,10 @@
   },
   {
     "date": "2026-10-30",
-    "when": "Fri Oct 30",
+    "when": "Fri Oct 30, around noon Tokyo (Thu Oct 29, about 8 PM PT)",
     "event": "Bank of Japan decision",
-    "why": "A hawkish turn strengthens the yen and can set off carry-trade selling",
-    "url": "https://www.newsquawk.com/headlines/week-in-focus-26-30th-october-2026-fomc-boc-rbnz-ecb-boj-policy-decisions-us-pce"
+    "why": "Expected to hold at 1.25%, but a hint of a December hike could strengthen the yen and set off carry-trade selling",
+    "url": "https://www.riotimesonline.com/bank-of-japan-rate-decision-october-2026/"
   },
   {
     "date": "2026-10-30",
@@ -54,6 +54,13 @@
     "event": "CFTC positioning report (weekly)",
     "why": "Shows whether speculators are still cutting gold and silver longs",
     "url": "https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm"
+  },
+  {
+    "date": "2026-11-03",
+    "when": "Tue Nov 3",
+    "event": "US midterm elections",
+    "why": "Reports say Washington told Gulf states to prepare for possible renewed strikes on Iran after the vote, which could move oil, NRGU and gold",
+    "url": "https://www.thenationalnews.com/business/energy/2026/10/28/oil-prices-up-due-to-houthi-strikes-and-us-threat-to-renew-iran-war/"
   },
   {
     "date": "2026-11-06",
