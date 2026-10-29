@@ -1,50 +1,50 @@
 [
   {
     "n": 1,
-    "text": "The Fed held rates at 3.75–4% in a 10-2 vote; two officials wanted a quarter-point hike, and futures put the odds of a December hike at about 83%.",
-    "source": "Kitco",
-    "url": "https://www.kitco.com/news/article/2026-10-28/gold-steadies-silver-falls-fed-holds-rates-two-officials-favor-hike-kitco"
+    "text": "The economy grew at a 3.4% yearly pace in the third quarter, above the roughly 3.2% expected; September PCE inflation was 3.6% and core 3.1%, both as expected.",
+    "source": "Benzinga",
+    "url": "https://www.benzinga.com/markets/economic-data/26/10/62693319/us-economy-gdp-third-quarter-pce-inflation-september"
   },
   {
     "n": 2,
-    "text": "Gold finished flat near $4,057 after dipping to about $4,035 right after the decision; silver fell about 1.1% to $53.72, pushing the gold/silver ratio above 75.5.",
-    "source": "Kitco",
-    "url": "https://www.kitco.com/news/article/2026-10-28/gold-steadies-silver-falls-fed-holds-rates-two-officials-favor-hike-kitco"
+    "text": "Gold eased about 0.9% overnight to near $4,030, about 3% lower than a month ago.",
+    "source": "Trading Economics",
+    "url": "https://tradingeconomics.com/commodity/gold"
   },
   {
     "n": 3,
-    "text": "The 10-year yield rose about 3 bp to near 5.03% while the 2-year fell about 3 bp to near 4.70% during the Fed chair's press conference.",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/28/us-treasurys-bonds-yields-federal-reserve.html"
+    "text": "Silver fell about 2.4% to $52.65, more than twice gold's drop, lifting the gold/silver ratio from about 75.4 to 76.5.",
+    "source": "Trading Economics",
+    "url": "https://tradingeconomics.com/commodity/silver"
   },
   {
     "n": 4,
-    "text": "Stocks rose for a third day: the S&P 500 gained 0.28% to 7,743.98 and the Nasdaq 0.27% to 26,549.85. QQQ closed up 0.6% at $725.61.",
-    "source": "Xinhua",
-    "url": "https://english.news.cn/20261029/f80380f9d16c4f11887371493d2b3211/c.html"
+    "text": "Nasdaq-100 futures fell about 1.2% after Alphabet dropped about 10% on its results, while Microsoft rose about 3%.",
+    "source": "The Globe and Mail",
+    "url": "https://www.theglobeandmail.com/investing/markets/inside-the-market/market-news/article-premarket-nasdaq-futures-slide-as-mixed-big-tech-results-test-ai-trade/"
   },
   {
     "n": 5,
-    "text": "After the bell, Alphabet fell about 10% as heavy AI spending turned its free cash flow negative, while Microsoft rose on a revenue and earnings beat.",
-    "source": "Business Standard",
-    "url": "https://www.business-standard.com/amp/markets/news/asian-shares-fall-as-alphabet-earnings-miss-drags-wall-st-futures-lower-126102900097_1.html"
+    "text": "The 10-year yield eased about 3 bp to near 5.00% and the 2-year about 6 bp to near 4.68%.",
+    "source": "Trading Economics",
+    "url": "https://tradingeconomics.com/united-states/government-bond-yield"
   },
   {
     "n": 6,
-    "text": "Gold miners held up better than gold: GDX closed up 0.9% at $83.95 while gold was flat.",
-    "source": "Yahoo Finance",
-    "url": "https://finance.yahoo.com/quote/GDX/"
+    "text": "The VIX rose about 1% to 17.1 overnight as tech futures fell.",
+    "source": "Daily Dispatch (Alberto Ades)",
+    "url": "https://albertodd.substack.com/p/daily-dispatch-38b"
   },
   {
     "n": 7,
-    "text": "Brent touched about $116.50 on Middle East supply fears before trimming gains; reports of the settle disagree ($111–$115), so Brent is left blank this update.",
-    "source": "The Nation",
-    "url": "https://www.nationthailand.com/news/world/40072857"
+    "text": "Bitcoin slipped back below $80,000, with about $356 million of bullish futures bets wiped out over 24 hours.",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/10/29/bitcoin-dips-below-usd80-000-as-samsung-led-risk-aversion-in-tech-and-a-hawkish-fed-weigh-on-crypto"
   },
   {
     "n": 8,
-    "text": "Bitcoin briefly hit about $81,700 after the decision, then slipped back to about $79,700, down 1.4% over 24 hours.",
-    "source": "Brave New Coin",
-    "url": "https://bravenewcoin.com/insights/crypto-news-today-btc-eth-xrp-slide-after-fed-decision-keeps-rates-unchanged"
+    "text": "Brent held near $115 a barrel overnight; Wednesday's settle is still reported differently, so its day change is left blank.",
+    "source": "OilPriceAPI",
+    "url": "https://www.oilpriceapi.com/live/brent-crude-oil-price"
   }
 ]
