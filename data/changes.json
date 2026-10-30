@@ -1,50 +1,50 @@
 [
   {
     "n": 1,
-    "text": "The Nasdaq fell 1.4% and the S&P 500 0.3% as Alphabet closed 12.6% lower after its results, ending the S&P's three-day winning streak.",
-    "source": "StockTitan",
-    "url": "https://www.stocktitan.net/articles/stock-market-today-live-october-29-2026"
+    "text": "Nasdaq-100 futures fell about 2.2% and S&P 500 futures about 1% before the open, with Intel down about 25% and Amazon about 7% after their results.",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html"
   },
   {
     "n": 2,
-    "text": "After the close, Intel fell roughly 18–23% and Amazon about 7% on their outlooks, and Nasdaq-100 futures dropped about 2%.",
-    "source": "investingLive",
-    "url": "https://investinglive.com/stocks/amazon-and-intel-results-deepen-worries-over-ai-boom-costs-as-tech-chip-stocks-slide/"
+    "text": "Gold slipped below $4,000, down about 1.4% to near $3,964, with traders still betting on a December Fed hike.",
+    "source": "Kitco",
+    "url": "https://www.kitco.com/charts/gold"
   },
   {
     "n": 3,
-    "text": "Gold fell about 1% to near $4,025 and silver about 3.1% to $52.18 after 3.4% GDP growth and firm inflation kept a December Fed hike in play.",
-    "source": "Kitco",
-    "url": "https://www.kitco.com/news/article/2026-10-29/gold-silver-fall-strong-us-gdp-inflation-support-fed-tightening-bets-kitco"
+    "text": "Silver fell about 4% to near $50, so the gold/silver ratio rose to about 79 from 77.",
+    "source": "Fortune",
+    "url": "https://fortune.com/article/current-price-of-silver-10-30-2026/"
   },
   {
     "n": 4,
-    "text": "Gold miners fell harder than gold: GDX lost about 3.1% to $81.33 and GDXJ about 3.3%.",
+    "text": "GDX was down about 3.2% before the open at $78.77, roughly twice gold's drop.",
     "source": "Yahoo Finance",
-    "url": "https://finance.yahoo.com/quote/GDX/history/"
+    "url": "https://finance.yahoo.com/quote/GDX/"
   },
   {
     "n": 5,
-    "text": "The 10-year yield fell more than 8 bp to about 4.96%, back below 5%, as the tech selloff sent money into bonds.",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/29/treasury-yields-federal-reserve-rates.html"
+    "text": "The 10-year yield eased about 3 bp to 4.91%, its lowest in seven weeks.",
+    "source": "Trading Economics",
+    "url": "https://tradingeconomics.com/united-states/government-bond-yield"
   },
   {
     "n": 6,
-    "text": "The Bank of Japan held rates at 1.25% in an 8–1 vote, with one member wanting a hike; the yen firmed about 0.4% to near 157.1 per dollar.",
-    "source": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-30/yen-holds-gains-against-dollar-after-boj-keeps-rates-steady"
+    "text": "Brent rose about 1% to near $116 after Houthi attacks on Saudi oil sites.",
+    "source": "HDFC Sky",
+    "url": "https://hdfcsky.com/news/brent-crude-oil-price-today-october-30-2026-brent-surges-1percent-above-116-wti-jumps-1-3percent-past-103-as-houthi-attacks-stoke-supply-fears"
   },
   {
     "n": 7,
-    "text": "Brent slipped 44 cents to settle at $114.88 a barrel on renewed US-Iran peace efforts.",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/29/oil-price-today-wti-brent.html"
+    "text": "Bitcoin fell to about $77,400, down about 3.6% since Thursday's US close, after a reported Binance hack.",
+    "source": "CryptoTimes",
+    "url": "https://cryptotimes.io/2026/10/30/bitcoin-price-today-btc-drops-to-76443-as-6-3b-binance-hack-sparks-1-57b-liquidations"
   },
   {
     "n": 8,
-    "text": "The VIX closed up about 1.7% at 17.2 after dipping to 16.2 during the day.",
-    "source": "ad-hoc-news",
-    "url": "https://www.ad-hoc-news.de/boerse/news/marktberichte/vix-closes-at-17-20-after-volatile-session/70430489"
+    "text": "The yen firmed for a third session to about 157.4 per dollar after the Bank of Japan held rates, and the dollar index eased to 101.67.",
+    "source": "Trading Economics",
+    "url": "https://tradingeconomics.com/japan/currency"
   }
 ]
