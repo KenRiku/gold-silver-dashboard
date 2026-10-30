@@ -1,50 +1,50 @@
 [
   {
     "n": 1,
-    "text": "The economy grew at a 3.4% yearly pace in the third quarter, above the roughly 3.2% expected; September PCE inflation was 3.6% and core 3.1%, both as expected.",
-    "source": "Benzinga",
-    "url": "https://www.benzinga.com/markets/economic-data/26/10/62693319/us-economy-gdp-third-quarter-pce-inflation-september"
+    "text": "The Nasdaq fell 1.4% and the S&P 500 0.3% as Alphabet closed 12.6% lower after its results, ending the S&P's three-day winning streak.",
+    "source": "StockTitan",
+    "url": "https://www.stocktitan.net/articles/stock-market-today-live-october-29-2026"
   },
   {
     "n": 2,
-    "text": "Gold eased about 0.9% overnight to near $4,030, about 3% lower than a month ago.",
-    "source": "Trading Economics",
-    "url": "https://tradingeconomics.com/commodity/gold"
+    "text": "After the close, Intel fell roughly 18–23% and Amazon about 7% on their outlooks, and Nasdaq-100 futures dropped about 2%.",
+    "source": "investingLive",
+    "url": "https://investinglive.com/stocks/amazon-and-intel-results-deepen-worries-over-ai-boom-costs-as-tech-chip-stocks-slide/"
   },
   {
     "n": 3,
-    "text": "Silver fell about 2.4% to $52.65, more than twice gold's drop, lifting the gold/silver ratio from about 75.4 to 76.5.",
-    "source": "Trading Economics",
-    "url": "https://tradingeconomics.com/commodity/silver"
+    "text": "Gold fell about 1% to near $4,025 and silver about 3.1% to $52.18 after 3.4% GDP growth and firm inflation kept a December Fed hike in play.",
+    "source": "Kitco",
+    "url": "https://www.kitco.com/news/article/2026-10-29/gold-silver-fall-strong-us-gdp-inflation-support-fed-tightening-bets-kitco"
   },
   {
     "n": 4,
-    "text": "Nasdaq-100 futures fell about 1.2% after Alphabet dropped about 10% on its results, while Microsoft rose about 3%.",
-    "source": "The Globe and Mail",
-    "url": "https://www.theglobeandmail.com/investing/markets/inside-the-market/market-news/article-premarket-nasdaq-futures-slide-as-mixed-big-tech-results-test-ai-trade/"
+    "text": "Gold miners fell harder than gold: GDX lost about 3.1% to $81.33 and GDXJ about 3.3%.",
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/quote/GDX/history/"
   },
   {
     "n": 5,
-    "text": "The 10-year yield eased about 3 bp to near 5.00% and the 2-year about 6 bp to near 4.68%.",
-    "source": "Trading Economics",
-    "url": "https://tradingeconomics.com/united-states/government-bond-yield"
+    "text": "The 10-year yield fell more than 8 bp to about 4.96%, back below 5%, as the tech selloff sent money into bonds.",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/29/treasury-yields-federal-reserve-rates.html"
   },
   {
     "n": 6,
-    "text": "The VIX rose about 1% to 17.1 overnight as tech futures fell.",
-    "source": "Daily Dispatch (Alberto Ades)",
-    "url": "https://albertodd.substack.com/p/daily-dispatch-38b"
+    "text": "The Bank of Japan held rates at 1.25% in an 8–1 vote, with one member wanting a hike; the yen firmed about 0.4% to near 157.1 per dollar.",
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-30/yen-holds-gains-against-dollar-after-boj-keeps-rates-steady"
   },
   {
     "n": 7,
-    "text": "Bitcoin slipped back below $80,000, with about $356 million of bullish futures bets wiped out over 24 hours.",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/markets/2026/10/29/bitcoin-dips-below-usd80-000-as-samsung-led-risk-aversion-in-tech-and-a-hawkish-fed-weigh-on-crypto"
+    "text": "Brent slipped 44 cents to settle at $114.88 a barrel on renewed US-Iran peace efforts.",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/29/oil-price-today-wti-brent.html"
   },
   {
     "n": 8,
-    "text": "Brent held near $115 a barrel overnight; Wednesday's settle is still reported differently, so its day change is left blank.",
-    "source": "OilPriceAPI",
-    "url": "https://www.oilpriceapi.com/live/brent-crude-oil-price"
+    "text": "The VIX closed up about 1.7% at 17.2 after dipping to 16.2 during the day.",
+    "source": "ad-hoc-news",
+    "url": "https://www.ad-hoc-news.de/boerse/news/marktberichte/vix-closes-at-17-20-after-volatile-session/70430489"
   }
 ]

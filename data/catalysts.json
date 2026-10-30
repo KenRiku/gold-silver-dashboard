@@ -1,19 +1,5 @@
 [
   {
-    "date": "2026-10-29",
-    "when": "Thu Oct 29, after close",
-    "event": "Amazon Q3 results",
-    "why": "Large QQQ holding: moves QQQ, TQQQ and SQQQ",
-    "url": "https://www.stocktitan.net/articles/earnings-calendar-week-of-october-26-2026"
-  },
-  {
-    "date": "2026-10-30",
-    "when": "Fri Oct 30, around noon Tokyo (Thu Oct 29, about 8 PM PT)",
-    "event": "Bank of Japan decision",
-    "why": "Expected to hold at 1.25%, but a hint of a December hike could strengthen the yen and set off carry-trade selling",
-    "url": "https://www.riotimesonline.com/bank-of-japan-rate-decision-october-2026/"
-  },
-  {
     "date": "2026-10-30",
     "when": "Fri Oct 30",
     "event": "Exxon Mobil and Chevron Q3 results",
@@ -28,11 +14,25 @@
     "url": "https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm"
   },
   {
+    "date": "2026-11-02",
+    "when": "Mon Nov 2, 7:00 AM PT",
+    "event": "US ISM manufacturing survey",
+    "why": "An early read on growth that can shift Fed hike bets, yields and the dollar",
+    "url": "https://www.litefinance.org/blog/analysts-opinions/weekly-economic-calendar-for-02112026-08112026/"
+  },
+  {
     "date": "2026-11-03",
     "when": "Tue Nov 3",
     "event": "US midterm elections",
     "why": "Reports say Washington told Gulf states to prepare for possible renewed strikes on Iran after the vote, which could move oil, NRGU and gold",
     "url": "https://www.thenationalnews.com/business/energy/2026/10/28/oil-prices-up-due-to-houthi-strikes-and-us-threat-to-renew-iran-war/"
+  },
+  {
+    "date": "2026-11-04",
+    "when": "Wed Nov 4, 7:00 AM PT",
+    "event": "US ISM services survey",
+    "why": "Services are most of the economy; a strong or weak print can move yields, tech and gold",
+    "url": "https://www.litefinance.org/blog/analysts-opinions/weekly-economic-calendar-for-02112026-08112026/"
   },
   {
     "date": "2026-11-06",
