@@ -1,19 +1,5 @@
 [
   {
-    "date": "2026-10-30",
-    "when": "Fri Oct 30",
-    "event": "Exxon Mobil and Chevron Q3 results",
-    "why": "Biggest names in NRGU's basket",
-    "url": "https://www.stocktitan.net/articles/earnings-calendar-week-of-october-26-2026"
-  },
-  {
-    "date": "2026-10-30",
-    "when": "Fri Oct 30, 12:30 PM PT",
-    "event": "CFTC positioning report (weekly)",
-    "why": "Shows whether speculators are still cutting gold and silver longs",
-    "url": "https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm"
-  },
-  {
     "date": "2026-11-02",
     "when": "Mon Nov 2, 7:00 AM PT",
     "event": "US ISM manufacturing survey",
@@ -35,6 +21,13 @@
     "url": "https://www.litefinance.org/blog/analysts-opinions/weekly-economic-calendar-for-02112026-08112026/"
   },
   {
+    "date": "2026-11-05",
+    "when": "Thu Nov 5, after the close",
+    "event": "Wheaton Precious Metals Q3 results",
+    "why": "One of the largest GDX holdings, with heavy silver exposure",
+    "url": "https://www.tipranks.com/stocks/GB:WPM/earnings"
+  },
+  {
     "date": "2026-11-06",
     "when": "Fri Nov 6, 5:30 AM PT",
     "event": "US October jobs report",
@@ -42,10 +35,24 @@
     "url": "https://thriveinmarkets.com/calendar/dates/nfp-2026/"
   },
   {
+    "date": "2026-11-06",
+    "when": "Fri Nov 6, 12:30 PM PT",
+    "event": "CFTC positioning report (weekly)",
+    "why": "Shows whether speculators are still cutting gold and silver longs",
+    "url": "https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm"
+  },
+  {
     "date": "2026-11-09",
     "when": "Mon Nov 9, 3:00 AM PT",
     "event": "Barrick Q3 results",
     "why": "One of the largest GDX holdings; its costs and output guidance can move the miners",
     "url": "https://www.barrick.com/English/news/news-details/2026/barrick-to-report-third-quarter-2026-results-on-november-9/default.aspx"
+  },
+  {
+    "date": "2026-11-10",
+    "when": "Tue Nov 10, 5:30 AM PT",
+    "event": "US October CPI inflation",
+    "why": "Hot inflation would add to December Fed hike bets, weighing on gold and tech",
+    "url": "https://thriveinmarkets.com/calendar/dates/cpi-2026/"
   }
 ]

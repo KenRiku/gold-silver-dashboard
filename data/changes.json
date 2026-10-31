@@ -1,50 +1,50 @@
 [
   {
     "n": 1,
-    "text": "Nasdaq-100 futures fell about 2.2% and S&P 500 futures about 1% before the open, with Intel down about 25% and Amazon about 7% after their results.",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html"
+    "text": "Gold fell about 3.4% to near $3,884, its lowest in about a year, as markets still expect the Fed to raise rates in December.",
+    "source": "Kitco",
+    "url": "https://www.kitco.com/news/article/2026-10-30/gold-prices-plunge-one-year-low-below-3900-higher-oil-prices-fuel-fears"
   },
   {
     "n": 2,
-    "text": "Gold slipped below $4,000, down about 1.4% to near $3,964, with traders still betting on a December Fed hike.",
-    "source": "Kitco",
-    "url": "https://www.kitco.com/charts/gold"
+    "text": "Silver dropped about 6% to $48.90, an 11-month low, lifting the gold/silver ratio to about 79; SLV closed down 5.7% at $44.60.",
+    "source": "Trading Economics",
+    "url": "https://tradingeconomics.com/commodity/silver"
   },
   {
     "n": 3,
-    "text": "Silver fell about 4% to near $50, so the gold/silver ratio rose to about 79 from 77.",
-    "source": "Fortune",
-    "url": "https://fortune.com/article/current-price-of-silver-10-30-2026/"
+    "text": "Gold miners fell harder than gold: GDX lost 5.2% to $77.09 and GDXJ 5.9% to $94.97.",
+    "source": "Finviz",
+    "url": "https://finviz.com/stock?t=GDX"
   },
   {
     "n": 4,
-    "text": "GDX was down about 3.2% before the open at $78.77, roughly twice gold's drop.",
-    "source": "Yahoo Finance",
-    "url": "https://finance.yahoo.com/quote/GDX/"
+    "text": "The Nasdaq fell 2.9% and the S&P 500 1.8%, its worst day since June, after Intel dropped about 29% and Amazon missed estimates. The Nasdaq-100 entered a correction; QQQ fell 3.5% and TQQQ about 10.5%.",
+    "source": "StockTitan",
+    "url": "https://www.stocktitan.net/articles/stock-market-today-live-october-30-2026"
   },
   {
     "n": 5,
-    "text": "The 10-year yield eased about 3 bp to 4.91%, its lowest in seven weeks.",
-    "source": "Trading Economics",
-    "url": "https://tradingeconomics.com/united-states/government-bond-yield"
+    "text": "The VIX volatility gauge jumped about 13% to 19.42.",
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/quote/%5EVIX/"
   },
   {
     "n": 6,
-    "text": "Brent rose about 1% to near $116 after Houthi attacks on Saudi oil sites.",
-    "source": "HDFC Sky",
-    "url": "https://hdfcsky.com/news/brent-crude-oil-price-today-october-30-2026-brent-surges-1percent-above-116-wti-jumps-1-3percent-past-103-as-houthi-attacks-stoke-supply-fears"
+    "text": "Treasury yields fell as money moved into bonds: the 10-year to about 4.94% and the 2-year to about 4.60%.",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/amp/2026/10/30/us-treasury-yields-fed-interest-rates.html"
   },
   {
     "n": 7,
-    "text": "Bitcoin fell to about $77,400, down about 3.6% since Thursday's US close, after a reported Binance hack.",
-    "source": "CryptoTimes",
-    "url": "https://cryptotimes.io/2026/10/30/bitcoin-price-today-btc-drops-to-76443-as-6-3b-binance-hack-sparks-1-57b-liquidations"
+    "text": "Brent settled up 2.4% at $117.64, its highest since late April, on fears the Iran war could escalate after the midterms.",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/30/oil-rises-on-supply-concerns-as-houthis-attack-saudi-arabia.html"
   },
   {
     "n": 8,
-    "text": "The yen firmed for a third session to about 157.4 per dollar after the Bank of Japan held rates, and the dollar index eased to 101.67.",
-    "source": "Trading Economics",
-    "url": "https://tradingeconomics.com/japan/currency"
+    "text": "Bitcoin slipped to about $77,300 after dipping near $76,200 on the Binance hack.",
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-30/bitcoin-drops-on-binance-hack-as-stock-selloff-also-weighs"
   }
 ]
