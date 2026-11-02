@@ -1,50 +1,38 @@
 [
   {
     "n": 1,
-    "text": "Gold fell about 3.4% to near $3,884, its lowest in about a year, as markets still expect the Fed to raise rates in December.",
-    "source": "Kitco",
-    "url": "https://www.kitco.com/news/article/2026-10-30/gold-prices-plunge-one-year-low-below-3900-higher-oil-prices-fuel-fears"
+    "text": "Gold rose about 0.8% to near $3,906 overnight as bargain hunters returned after Friday's drop to a one-year low.",
+    "source": "Investing.com",
+    "url": "https://www.investing.com/news/commodities-news/gold-rebounds-toward-3900-as-dip-buyers-emerge-iran-risks-persist-4989797"
   },
   {
     "n": 2,
-    "text": "Silver dropped about 6% to $48.90, an 11-month low, lifting the gold/silver ratio to about 79; SLV closed down 5.7% at $44.60.",
-    "source": "Trading Economics",
-    "url": "https://tradingeconomics.com/commodity/silver"
+    "text": "Silver gained about 2.2% to $50.22, back above $50, pulling the gold/silver ratio down to about 78 from 79.4.",
+    "source": "Forbes",
+    "url": "https://www.forbes.com/advisor/investing/silver-price/"
   },
   {
     "n": 3,
-    "text": "Gold miners fell harder than gold: GDX lost 5.2% to $77.09 and GDXJ 5.9% to $94.97.",
-    "source": "Finviz",
-    "url": "https://finviz.com/stock?t=GDX"
+    "text": "Gold miners and silver funds pointed higher before the open: GDX up about 1.7%, GDXJ 1.9% and SLV 1.6% in early pre-market trading.",
+    "source": "Silver Gold Alpha",
+    "url": "https://silvergoldalpha.substack.com/p/bullion-breakdown-a-premarket-rebound"
   },
   {
     "n": 4,
-    "text": "The Nasdaq fell 2.9% and the S&P 500 1.8%, its worst day since June, after Intel dropped about 29% and Amazon missed estimates. The Nasdaq-100 entered a correction; QQQ fell 3.5% and TQQQ about 10.5%.",
-    "source": "StockTitan",
-    "url": "https://www.stocktitan.net/articles/stock-market-today-live-october-30-2026"
+    "text": "Brent fell about 3% to near $110 a barrel as Iran and Qatar held a third day of talks on ending the war, easing inflation worries.",
+    "source": "HDFC Sky",
+    "url": "https://hdfcsky.com/news/brent-crude-oil-price-today-november-2-2026-brent-falls-2-9percent-to-110-2-wti-drops-3percent-to-101-as-iran-peace-talks-continue"
   },
   {
     "n": 5,
-    "text": "The VIX volatility gauge jumped about 13% to 19.42.",
-    "source": "Yahoo Finance",
-    "url": "https://finance.yahoo.com/quote/%5EVIX/"
+    "text": "Stock futures rose after last week's AI-driven selloff, with Nasdaq-100 futures up about 0.8% and S&P 500 futures up about 0.5%; Apple reports after the close.",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/01/stock-market-today-live-updates.html"
   },
   {
     "n": 6,
-    "text": "Treasury yields fell as money moved into bonds: the 10-year to about 4.94% and the 2-year to about 4.60%.",
+    "text": "Treasury yields were mixed: the 10-year eased to about 4.91% while the 2-year held near 4.60%.",
     "source": "CNBC",
-    "url": "https://www.cnbc.com/amp/2026/10/30/us-treasury-yields-fed-interest-rates.html"
-  },
-  {
-    "n": 7,
-    "text": "Brent settled up 2.4% at $117.64, its highest since late April, on fears the Iran war could escalate after the midterms.",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/30/oil-rises-on-supply-concerns-as-houthis-attack-saudi-arabia.html"
-  },
-  {
-    "n": 8,
-    "text": "Bitcoin slipped to about $77,300 after dipping near $76,200 on the Binance hack.",
-    "source": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-30/bitcoin-drops-on-binance-hack-as-stock-selloff-also-weighs"
+    "url": "https://www.cnbc.com/2026/11/02/us-treasury-yields-bonds.html"
   }
 ]
