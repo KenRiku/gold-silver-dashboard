@@ -1,38 +1,44 @@
 [
   {
     "n": 1,
-    "text": "Gold rose about 0.8% to near $3,906 overnight as bargain hunters returned after Friday's drop to a one-year low.",
-    "source": "Investing.com",
-    "url": "https://www.investing.com/news/commodities-news/gold-rebounds-toward-3900-as-dip-buyers-emerge-iran-risks-persist-4989797"
+    "text": "Gold rose about 1.9% to near $3,954 on Monday, bouncing back from Friday's drop to a one-year low.",
+    "source": "USAGold",
+    "url": "https://www.usagold.com/daily-precious-metals-market-report-november-2-2026/"
   },
   {
     "n": 2,
-    "text": "Silver gained about 2.2% to $50.22, back above $50, pulling the gold/silver ratio down to about 78 from 79.4.",
-    "source": "Forbes",
-    "url": "https://www.forbes.com/advisor/investing/silver-price/"
+    "text": "Silver gained about 3% to $50.63, back above $50, and the gold/silver ratio narrowed to about 78 from 79.4.",
+    "source": "Rio Times",
+    "url": "https://www.riotimesonline.com/gold-silver-precious-metals-monday-november-2-2026/"
   },
   {
     "n": 3,
-    "text": "Gold miners and silver funds pointed higher before the open: GDX up about 1.7%, GDXJ 1.9% and SLV 1.6% in early pre-market trading.",
-    "source": "Silver Gold Alpha",
-    "url": "https://silvergoldalpha.substack.com/p/bullion-breakdown-a-premarket-rebound"
+    "text": "Gold miners outpaced gold: GDX closed up 2.7% at $79.15 and GDXJ up 2.3%, while the 3x GDXU gained 7.3%.",
+    "source": "Investing.com",
+    "url": "https://www.investing.com/etfs/market-vectors-gold-miners-historical-data"
   },
   {
     "n": 4,
-    "text": "Brent fell about 3% to near $110 a barrel as Iran and Qatar held a third day of talks on ending the war, easing inflation worries.",
-    "source": "HDFC Sky",
-    "url": "https://hdfcsky.com/news/brent-crude-oil-price-today-november-2-2026-brent-falls-2-9percent-to-110-2-wti-drops-3percent-to-101-as-iran-peace-talks-continue"
+    "text": "Brent settled down 7.6% at $104.77, its biggest one-day drop since July, on hopes of US–Iran talks that could reopen the Strait of Hormuz.",
+    "source": "Nation Thailand",
+    "url": "https://www.nationthailand.com/news/world/40073041"
   },
   {
     "n": 5,
-    "text": "Stock futures rose after last week's AI-driven selloff, with Nasdaq-100 futures up about 0.8% and S&P 500 futures up about 0.5%; Apple reports after the close.",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/01/stock-market-today-live-updates.html"
+    "text": "Tech fell again on AI-spending worries: the Nasdaq dropped 1.1% and the S&P 500 0.5% to its lowest close since July 31, while the Dow rose 0.4%. QQQ lost 1.4% and TQQQ 4.1%.",
+    "source": "StockTitan",
+    "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-2-2026"
   },
   {
     "n": 6,
-    "text": "Treasury yields were mixed: the 10-year eased to about 4.91% while the 2-year held near 4.60%.",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/02/us-treasury-yields-bonds.html"
+    "text": "The VIX rose about 9% to 21.15, back above 20, after Friday's 13% jump.",
+    "source": "Cboe",
+    "url": "https://www.cboe.com/tradable-products/vix"
+  },
+  {
+    "n": 7,
+    "text": "Apple closed down 1.8% before reporting better-than-expected quarterly results after the bell; its shares were modestly higher after hours.",
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-2-224502716.html"
   }
 ]
