@@ -1,44 +1,44 @@
 [
   {
     "n": 1,
-    "text": "Gold rose about 1.9% to near $3,954 on Monday, bouncing back from Friday's drop to a one-year low.",
-    "source": "USAGold",
-    "url": "https://www.usagold.com/daily-precious-metals-market-report-november-2-2026/"
+    "text": "Gold fell about 1.1% to near $3,905 overnight, giving back much of Monday's rebound as higher oil revived inflation worries and traders put a December Fed hike at about 75%.",
+    "source": "CNBC (Reuters)",
+    "url": "https://www.cnbc.com/2026/11/03/gold-eases-ahead-of-us-midterm-elections.html"
   },
   {
     "n": 2,
-    "text": "Silver gained about 3% to $50.63, back above $50, and the gold/silver ratio narrowed to about 78 from 79.4.",
-    "source": "Rio Times",
-    "url": "https://www.riotimesonline.com/gold-silver-precious-metals-monday-november-2-2026/"
+    "text": "Silver dropped about 3.4% to $48.93, back below $50, and the gold/silver ratio widened to about 79.8 from 78.",
+    "source": "CNBC (Reuters)",
+    "url": "https://www.cnbc.com/2026/11/03/gold-eases-ahead-of-us-midterm-elections.html"
   },
   {
     "n": 3,
-    "text": "Gold miners outpaced gold: GDX closed up 2.7% at $79.15 and GDXJ up 2.3%, while the 3x GDXU gained 7.3%.",
-    "source": "Investing.com",
-    "url": "https://www.investing.com/etfs/market-vectors-gold-miners-historical-data"
+    "text": "Brent rose about 1% to near $105.87 after a US strike on Iran's Qeshm Island, with Iran saying a deal is far off, partly reversing Monday's 7.6% drop.",
+    "source": "Cornerstone Futures",
+    "url": "https://www.cornerstonefuturesllc.com/post/morning-highlights-iran-says-a-deal-is-far-off-after-us-strike-on-qeshm-island-lifting-oil-on-midt"
   },
   {
     "n": 4,
-    "text": "Brent settled down 7.6% at $104.77, its biggest one-day drop since July, on hopes of US–Iran talks that could reopen the Strait of Hormuz.",
-    "source": "Nation Thailand",
-    "url": "https://www.nationthailand.com/news/world/40073041"
+    "text": "Stock futures were mixed: Nasdaq 100 futures up about 0.3% and S&P 500 futures down about 0.1% at 8:29 AM ET, as Apple fell premarket on a weaker holiday-quarter margin outlook.",
+    "source": "TipRanks",
+    "url": "https://www.tipranks.com/news/futures-trade-mixed-with-u-s-midterm-elections-in-focus-apple-and-palantir-stocks-fall-on-earnings"
   },
   {
     "n": 5,
-    "text": "Tech fell again on AI-spending worries: the Nasdaq dropped 1.1% and the S&P 500 0.5% to its lowest close since July 31, while the Dow rose 0.4%. QQQ lost 1.4% and TQQQ 4.1%.",
-    "source": "StockTitan",
-    "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-2-2026"
+    "text": "The 10-year Treasury yield edged up about 2 bp to 4.91% and the 2-year about 1 bp to 4.59% as voters went to the polls.",
+    "source": "MarketScreener (Dow Jones)",
+    "url": "https://www.marketscreener.com/news/treasury-european-government-bond-yields-rise-as-markets-await-u-s-midterm-election-results-upd-ce785fd9d18af72c"
   },
   {
     "n": 6,
-    "text": "The VIX rose about 9% to 21.15, back above 20, after Friday's 13% jump.",
-    "source": "Cboe",
-    "url": "https://www.cboe.com/tradable-products/vix"
+    "text": "The dollar rose to about 158.2 yen, close to the 158–158.5 zone where traders watch for Japanese intervention.",
+    "source": "investingLive",
+    "url": "https://investinglive.com/technical-analysis/morning-kickstart-election-uncertainty-iran-tensions-and-rising-yields-frame-the-session"
   },
   {
     "n": 7,
-    "text": "Apple closed down 1.8% before reporting better-than-expected quarterly results after the bell; its shares were modestly higher after hours.",
+    "text": "NRGU closed Monday down 14.4% at $63.61 as oil plunged on hopes for US–Iran talks.",
     "source": "Yahoo Finance",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-2-224502716.html"
+    "url": "https://finance.yahoo.com/quote/NRGU/"
   }
 ]
