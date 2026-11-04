@@ -1,44 +1,44 @@
 [
   {
     "n": 1,
-    "text": "Gold slipped about 0.4% to near $3,929 and silver about 1.7% to $49.66 as strong US job openings data lifted yields on election day.",
-    "source": "Kitco",
-    "url": "https://www.kitco.com/news/article/2026-11-03/gold-silver-decline-strong-us-jobs-data-lifts-yields-election-day-kitco-pm"
+    "text": "Gold jumped about 3% to near $4,045 and silver about 4% to $51.90 as the dollar slid after Democrats won control of Congress.",
+    "source": "CNBC (Reuters)",
+    "url": "https://www.cnbc.com/2026/11/04/gold-silver-platinum-dollar-midterms.html"
   },
   {
     "n": 2,
-    "text": "Gold miners fell: GDX lost 1.96% to $77.60 and the 3x GDXU dropped 5.85% to $65.00.",
-    "source": "Gotrade",
-    "url": "https://www.heygotrade.com/en/us-stock/gdx/"
+    "text": "Gold miners rallied before the open, with Barrick and Newmont each up more than 5% and Kinross up 6.8%.",
+    "source": "Investing.com",
+    "url": "https://investing.com/news/stock-market-news/gold-mining-stocks-climb-as-democrats-win-midterm-elections-93CH-4998033"
   },
   {
     "n": 3,
-    "text": "The 10-year Treasury yield rose about 6 bp to near 4.96% by the close.",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/03/us-treasury-yields-bonds.html"
+    "text": "The dollar index fell about 0.6% to a four-week low of 101.25.",
+    "source": "FXStreet",
+    "url": "https://www.fxstreet.com/news/us-dollar-index-dxy-retests-four-week-lows-hammered-by-us-midterm-results-202611041303"
   },
   {
     "n": 4,
-    "text": "The Nasdaq rose 0.8% to 25,372 and the S&P 500 0.4% to 7,569 as chip stocks rebounded, while the Dow fell on Apple's slide; QQQ gained 0.62% and TQQQ 1.83%.",
-    "source": "AP (WTOP)",
-    "url": "https://wtop.com/national/2026/11/how-major-us-stock-indexes-fared-tuesday-11-3-2026"
+    "text": "The 10-year Treasury yield fell to about 4.90% as investors moved into bonds after the election.",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/amp/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html"
   },
   {
     "n": 5,
-    "text": "Brent settled down 1.1% at $103.60 after swinging more than $6 on reports of a US strike on Iran's Qeshm Island.",
-    "source": "Rigzone",
-    "url": "https://www.rigzone.com/news/wire/oil_prices_swing_on_conflicting_iran_signals-03-nov-2026-185001-article/"
+    "text": "Stock futures swung from an overnight drop to gains: S&P 500 futures were up about 1.1% and Nasdaq 100 futures about 0.4%, held back by AI-related stocks.",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html"
   },
   {
     "n": 6,
-    "text": "The dollar rose 0.46% to about 158.7 yen, inside the zone where traders watch for Japanese intervention.",
-    "source": "Trading Economics",
-    "url": "https://tradingeconomics.com/japan/currency"
+    "text": "Bitcoin dipped to about $75,700 during the vote count, then recovered to about $78,200.",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/price/bitcoin"
   },
   {
     "n": 7,
-    "text": "After the close, Democrats scored early midterm wins: stock futures fell and Reuters reported gold up more than 2% to about $4,016 overnight.",
-    "source": "MarketScreener (Reuters)",
-    "url": "https://www.marketscreener.com/news/gold-jumps-over-2-on-softer-dollar-after-democratic-midterm-wins-ce785fded18cf321"
+    "text": "Silver funds lagged on Tuesday before this morning's rebound: AGQ closed down 3.34% at $44.23.",
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/quote/AGQ/"
   }
 ]
