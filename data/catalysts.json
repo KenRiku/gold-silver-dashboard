@@ -1,12 +1,5 @@
 [
   {
-    "date": "2026-11-03",
-    "when": "Tue Nov 3",
-    "event": "US midterm elections",
-    "why": "Polls favor Democrats to take the House with the Senate a close call; results overnight could move the dollar, tech and gold. Reports also say the US told Gulf states to prepare for possible renewed strikes on Iran after the vote",
-    "url": "https://www.thenationalnews.com/business/energy/2026/10/28/oil-prices-up-due-to-houthi-strikes-and-us-threat-to-renew-iran-war/"
-  },
-  {
     "date": "2026-11-04",
     "when": "Wed Nov 4, 7:00 AM PT",
     "event": "US ISM services survey",
@@ -47,5 +40,12 @@
     "event": "US October CPI inflation",
     "why": "Hot inflation would add to December Fed hike bets, weighing on gold and tech",
     "url": "https://thriveinmarkets.com/calendar/dates/cpi-2026/"
+  },
+  {
+    "date": "2026-11-13",
+    "when": "Fri Nov 13, 12:30 PM PT",
+    "event": "CFTC positioning report (weekly)",
+    "why": "Shows whether speculators are still cutting gold and silver longs",
+    "url": "https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm"
   }
 ]
