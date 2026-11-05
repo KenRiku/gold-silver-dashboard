@@ -1,44 +1,50 @@
 [
   {
     "n": 1,
-    "text": "Gold jumped about 3% to near $4,045 and silver about 4% to $51.90 as the dollar slid after Democrats won control of Congress.",
-    "source": "CNBC (Reuters)",
-    "url": "https://www.cnbc.com/2026/11/04/gold-silver-platinum-dollar-midterms.html"
+    "text": "Brent crude fell 8.7% to settle at $94.62 after Vance blamed the Iran war for the midterm losses and Trump said there were no immediate plans to strike Iran.",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/04/oil-price-iran-war-us-election-strait-hormuz.html"
   },
   {
     "n": 2,
-    "text": "Gold miners rallied before the open, with Barrick and Newmont each up more than 5% and Kinross up 6.8%.",
-    "source": "Investing.com",
-    "url": "https://investing.com/news/stock-market-news/gold-mining-stocks-climb-as-democrats-win-midterm-elections-93CH-4998033"
+    "text": "Gold rose about 3.4% to near $4,060, back above $4,000, as the dollar and yields fell after the Democratic sweep.",
+    "source": "Investing.com (Reuters)",
+    "url": "https://www.investing.com/news/economy-news/gold-firms-on-softer-oil-prices-us-midterm-results-awaited-4997053"
   },
   {
     "n": 3,
-    "text": "The dollar index fell about 0.6% to a four-week low of 101.25.",
-    "source": "FXStreet",
-    "url": "https://www.fxstreet.com/news/us-dollar-index-dxy-retests-four-week-lows-hammered-by-us-midterm-results-202611041303"
+    "text": "Gold miners jumped: GDX closed up 8.98% at $84.57 and GDXJ up 9.62% at $104.24.",
+    "source": "StockAnalysis",
+    "url": "https://stockanalysis.com/etf/gdx/holdings/"
   },
   {
     "n": 4,
-    "text": "The 10-year Treasury yield fell to about 4.90% as investors moved into bonds after the election.",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/amp/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html"
+    "text": "Silver rose about 5% to near $52.30, and AGQ closed up 10.56% at $48.90.",
+    "source": "StockAnalysis",
+    "url": "https://stockanalysis.com/etf/agq/"
   },
   {
     "n": 5,
-    "text": "Stock futures swung from an overnight drop to gains: S&P 500 futures were up about 1.1% and Nasdaq 100 futures about 0.4%, held back by AI-related stocks.",
+    "text": "The 10-year Treasury yield fell to about 4.88% and the 2-year to about 4.57% as oil dropped.",
     "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html"
+    "url": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html"
   },
   {
     "n": 6,
-    "text": "Bitcoin dipped to about $75,700 during the vote count, then recovered to about $78,200.",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/price/bitcoin"
+    "text": "The S&P 500 rose 1.6% and the Dow 3%, while the Nasdaq gained 1.4% as AI-related stocks lagged.",
+    "source": "AP (WTOP)",
+    "url": "https://wtop.com/national/2026/11/how-major-us-stock-indexes-fared-wednesday-11-4-2026"
   },
   {
     "n": 7,
-    "text": "Silver funds lagged on Tuesday before this morning's rebound: AGQ closed down 3.34% at $44.23.",
-    "source": "Yahoo Finance",
-    "url": "https://finance.yahoo.com/quote/AGQ/"
+    "text": "The VIX fell about 20% to 16.61, back well below 20.",
+    "source": "Investing.com",
+    "url": "https://www.investing.com/indices/volatility-s-p-500-historical-data"
+  },
+  {
+    "n": 8,
+    "text": "The dollar index fell to about 101.5 after touching its lowest since September, but the yen barely gained as stocks rallied.",
+    "source": "Babypips",
+    "url": "https://www.babypips.com/news/daily-financial-forex-market-recap-2026-11-04"
   }
 ]
