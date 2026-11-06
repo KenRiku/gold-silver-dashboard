@@ -1,44 +1,50 @@
 [
   {
     "n": 1,
-    "text": "Gold rose about 1.7% overnight to around $4,128, a two-week high, as the dollar and Treasury yields slipped after the midterms.",
-    "source": "Kitco",
-    "url": "https://www.kitco.com/charts/gold"
+    "text": "The Nasdaq Composite fell 5.52% to 24,315, its worst day in about 18 months, and the S&P 500 dropped 4.36% as selling in AI and chip stocks spread.",
+    "source": "JournalArta",
+    "url": "https://journalarta.com/en/2026/11/06/wall-street-close-nasdaq-sinks-5-52-and-sp-500-falls-4-36-as-ai-stocks-slide/"
   },
   {
     "n": 2,
-    "text": "Silver gained about 1.2% to near $52.85, lagging gold this morning, so the gold/silver ratio ticked up to about 78.",
-    "source": "FXStreet (via TMGM)",
-    "url": "https://www.tmgm.com/en/analysis/market-news/article/silver-price-today-silver-rises-according-to-fxstreet-data-202611050931"
+    "text": "QQQ closed down about 6.5% at $647.05 and TQQQ fell about 19% to $50.47.",
+    "source": "Finviz",
+    "url": "https://finviz.com/stock?t=TQQQ"
   },
   {
     "n": 3,
-    "text": "The 10-year Treasury yield eased about 3 basis points to roughly 4.87% while the 2-year held near 4.58%, ahead of Friday's jobs report.",
+    "text": "The VIX fear gauge jumped about 70% to 28.18, its biggest one-day rise since April 2025.",
+    "source": "GuruFocus",
+    "url": "https://www.gurufocus.com/news/9175483/vix-surges-70-spy-drops-amid-market-volatility-on-november-5-2026"
+  },
+  {
+    "n": 4,
+    "text": "Treasury yields fell as investors moved into bonds: the 10-year to about 4.84% and the 2-year about 11 basis points to roughly 4.47%.",
     "source": "CNBC",
     "url": "https://www.cnbc.com/2026/11/05/treasury-yields-bonds-interest-rates.html"
   },
   {
-    "n": 4,
-    "text": "Nasdaq futures fell about 0.9% after disappointing results from Arm and Qualcomm, while S&P 500 futures were flat and Dow futures rose.",
-    "source": "Seeking Alpha",
-    "url": "https://seekingalpha.com/news/4666304-sp500-nasdaq-dow-jones-outlook-stock-market"
-  },
-  {
     "n": 5,
-    "text": "Brent crude steadied near $94 after Wednesday's 8.7% drop on hopes of a US-Iran deal, though no deal has been signed.",
-    "source": "FinanceFeeds",
-    "url": "https://financefeeds.com/brent-crude-oil-price-94-thursday-after-9-percent-crash-us-iran-deal-bets-bull-100-bear-90/"
+    "text": "Gold rose about 1.5% to around $4,119 while silver slipped to $51.65, pushing the gold/silver ratio up to about 79.8. GDX gained 1.4% and SLV dipped 0.5%.",
+    "source": "Kitco",
+    "url": "https://www.kitco.com/charts/silver"
   },
   {
     "n": 6,
-    "text": "The dollar index was roughly flat near 101.6 after bouncing from 101.20, and USD/JPY held around 158.4.",
-    "source": "FXStreet",
-    "url": "https://www.fxstreet.com/news/us-dollar-index-dxy-pares-losses-as-the-dust-from-the-us-midterm-elections-settles-202611051131"
+    "text": "Brent crude rebounded $3.67 to $98.29 after tanker fires near the Strait of Hormuz.",
+    "source": "Nation Thailand",
+    "url": "https://www.nationthailand.com/news/world/40073162"
   },
   {
     "n": 7,
-    "text": "SLV closed Wednesday up 5.17% at $47.16, and SQQQ closed down 2.78% at $41.56.",
-    "source": "Heygotrade",
-    "url": "https://www.heygotrade.com/en/us-stock/slv/"
+    "text": "Bitcoin fell about 6% to near $75,700 as the tech sell-off spread to crypto.",
+    "source": "CoinTurk",
+    "url": "https://en.coin-turk.com/bitcoin-falls-6yuzde-to-75700-as-ai-stock-selloff-triggers-1-1-billion-in-liquidations/"
+  },
+  {
+    "n": 8,
+    "text": "After the close, gold slipped to about $4,054 early Friday, falling alongside stocks rather than acting as a safe haven.",
+    "source": "Startup Fortune",
+    "url": "https://startupfortune.com/gold-falls-alongside-stocks-and-crypto-in-a-break-from-its-usual-script"
   }
 ]
