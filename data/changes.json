@@ -1,44 +1,44 @@
 [
   {
     "n": 1,
-    "text": "The US added 165,000 jobs in October, far above the roughly 65,000 expected, and unemployment fell to 4.1%. September was revised up to 60,000.",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/markets/2026/11/06/u-s-added-165-000-jobs-in-october-blowing-past-65-000-estimate"
-  },
-  {
-    "n": 2,
-    "text": "Treasury yields jumped after the report: the 10-year to about 4.90% and the 2-year to about 4.54%, as bets on a December Fed hike revived.",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/06/treasury-yields-inch-lower-as-investors-look-ahead-to-key-jobs-data-.html"
-  },
-  {
-    "n": 3,
-    "text": "Nasdaq-100 futures were up about 1.5–1.6% after the report, bouncing from Thursday's 6.4% fall, though higher yields held back the gains.",
-    "source": "Benzinga",
-    "url": "https://www.benzinga.com/markets/economic-data/26/11/62974776/october-jobs-report-nonfarm-payrolls-unemployment-rate"
-  },
-  {
-    "n": 4,
-    "text": "Gold slipped to about $4,070 before the report, down 0.4%, after Goldman Sachs cut its end-2026 forecast to $4,150 from $4,650. It is still up about 5% for the week.",
+    "text": "Gold fell about 1% to near $4,048 on Friday as the strong jobs report lifted the dollar and yields, but it still gained about 4.5% for the week.",
     "source": "CNBC (Reuters)",
     "url": "https://www.cnbc.com/2026/11/06/gold-eases-on-inflation-worries-from-higher-oil-us-payrolls-data-in-focus.html"
   },
   {
+    "n": 2,
+    "text": "Gold miners went the other way: GDX closed up 2.2% at $87.60 and GDXJ up 2.8% at $107.74.",
+    "source": "Investing.com",
+    "url": "https://www.investing.com/etfs/market-vectors-gold-miners"
+  },
+  {
+    "n": 3,
+    "text": "The 10-year Treasury yield ended at 4.86% and the 2-year at 4.51%, up 2 and 4 basis points, as bets on a December Fed hike grew.",
+    "source": "ETF Trends",
+    "url": "https://www.etftrends.com/fixed-income-content-hub/treasury-yields-snapshot-november-6-2026/"
+  },
+  {
+    "n": 4,
+    "text": "The Nasdaq rose 1.1% and the S&P 500 0.3%, a partial bounce after Thursday's steep AI-led sell-off; the S&P 500 still lost about 2.7% for the week.",
+    "source": "StockTitan",
+    "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-6-2026"
+  },
+  {
     "n": 5,
-    "text": "The dollar index rose about 0.4% to near 102 ahead of the report.",
-    "source": "Trading Economics",
-    "url": "https://tradingeconomics.com/united-states/currency"
+    "text": "The VIX fear gauge fell 9% to 25.64, down from Thursday's 28.18 but still elevated.",
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/quote/%5EVIX/"
   },
   {
     "n": 6,
-    "text": "Brent crude climbed to about $99.90, briefly topping $100, as tanker attacks near the Strait of Hormuz continued.",
-    "source": "FinanceFeeds",
-    "url": "https://financefeeds.com/brent-crude-oil-price-99-90-friday-after-wall-street-ai-rout-jobs-report-iran-deal-bets-bull-103-60-bear-93-50/"
+    "text": "Brent crude settled almost flat at $98.32, ending the week down more than 16% as traders weighed US-Iran risks against hopes for a deal.",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/06/oil-price-today-brent-wti.html"
   },
   {
     "n": 7,
-    "text": "Bitcoin steadied near $75,700 after Thursday's sell-off.",
-    "source": "CoinGecko",
-    "url": "https://www.coingecko.com/en/coins/bitcoin"
+    "text": "The dollar rose about 0.5% against the yen to around 158.4.",
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/quote/USDJPY%3DX/"
   }
 ]

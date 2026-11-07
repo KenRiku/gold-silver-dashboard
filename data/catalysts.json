@@ -1,12 +1,5 @@
 [
   {
-    "date": "2026-11-06",
-    "when": "Fri Nov 6, 12:30 PM PT",
-    "event": "CFTC positioning report (weekly)",
-    "why": "Shows whether speculators are still cutting gold and silver longs",
-    "url": "https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm"
-  },
-  {
     "date": "2026-11-09",
     "when": "Mon Nov 9, 3:00 AM PT",
     "event": "Barrick Q3 results",
@@ -26,5 +19,12 @@
     "event": "CFTC positioning report (weekly)",
     "why": "Shows whether speculators are still cutting gold and silver longs",
     "url": "https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm"
+  },
+  {
+    "date": "2026-11-17",
+    "when": "Tue Nov 17, 5:30 AM PT",
+    "event": "US October retail sales",
+    "why": "A strong reading would add to Fed hike bets, which has tended to weigh on gold and tech",
+    "url": "https://fedratecalc.com/us-economic-calendar/november-2026/"
   }
 ]
