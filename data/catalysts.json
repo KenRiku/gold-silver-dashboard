@@ -1,17 +1,24 @@
 [
   {
-    "date": "2026-11-09",
-    "when": "Mon Nov 9, 3:00 AM PT",
-    "event": "Barrick Q3 results",
-    "why": "One of the largest GDX holdings; its costs and output guidance can move the miners",
-    "url": "https://www.barrick.com/English/news/news-details/2026/barrick-to-report-third-quarter-2026-results-on-november-9/default.aspx"
-  },
-  {
     "date": "2026-11-10",
     "when": "Tue Nov 10, 5:30 AM PT",
     "event": "US October CPI inflation",
     "why": "Hot inflation would add to December Fed hike bets, weighing on gold and tech",
     "url": "https://thriveinmarkets.com/calendar/dates/cpi-2026/"
+  },
+  {
+    "date": "2026-11-12",
+    "when": "Thu Nov 12, 5:30 AM PT",
+    "event": "US weekly jobless claims",
+    "why": "Claims near record lows support the case for a December Fed hike, which has tended to weigh on gold and tech",
+    "url": "https://www.kiplinger.com/investing/economy/this-weeks-economic-calendar"
+  },
+  {
+    "date": "2026-11-13",
+    "when": "Fri Nov 13, 5:30 AM PT",
+    "event": "US October producer prices (PPI)",
+    "why": "A second hot inflation reading after CPI would add to Fed hike bets",
+    "url": "https://www.kiplinger.com/investing/economy/this-weeks-economic-calendar"
   },
   {
     "date": "2026-11-13",

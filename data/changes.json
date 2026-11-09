@@ -1,44 +1,44 @@
 [
   {
     "n": 1,
-    "text": "Gold fell about 1% to near $4,048 on Friday as the strong jobs report lifted the dollar and yields, but it still gained about 4.5% for the week.",
-    "source": "CNBC (Reuters)",
-    "url": "https://www.cnbc.com/2026/11/06/gold-eases-on-inflation-worries-from-higher-oil-us-payrolls-data-in-focus.html"
+    "text": "Gold rose to about $4,114 by 7:30 AM ET and silver to about $52.76, both up roughly 1.5% from Friday's close, after gold touched about $4,135 overnight.",
+    "source": "Fortune",
+    "url": "https://fortune.com/article/current-price-of-silver-11-9-2026/"
   },
   {
     "n": 2,
-    "text": "Gold miners went the other way: GDX closed up 2.2% at $87.60 and GDXJ up 2.8% at $107.74.",
-    "source": "Investing.com",
-    "url": "https://www.investing.com/etfs/market-vectors-gold-miners"
+    "text": "Barrick reported third-quarter adjusted earnings of $0.82 a share on revenue of $5.07 billion, up 22%, and kept its full-year output guidance. GDX was about 2.6% higher before the open.",
+    "source": "GlobeNewswire",
+    "url": "https://www.globenewswire.com/news-release/2026/11/09/3398168/0/en/barrick-reports-third-quarter-2026-results.html"
   },
   {
     "n": 3,
-    "text": "The 10-year Treasury yield ended at 4.86% and the 2-year at 4.51%, up 2 and 4 basis points, as bets on a December Fed hike grew.",
-    "source": "ETF Trends",
-    "url": "https://www.etftrends.com/fixed-income-content-hub/treasury-yields-snapshot-november-6-2026/"
+    "text": "Nvidia fell about 5% before the open after its board opened a review of CEO Jensen Huang's ties to a businesswoman US agencies say is a Chinese spy, holding back Nasdaq futures.",
+    "source": "Benzinga",
+    "url": "https://www.benzinga.com/markets/equities/26/11/63023739/nvda-stock-falls-over-5-pre-market-trump-backs-jensen-huang-to-stay-as-nvidia-ceo"
   },
   {
     "n": 4,
-    "text": "The Nasdaq rose 1.1% and the S&P 500 0.3%, a partial bounce after Thursday's steep AI-led sell-off; the S&P 500 still lost about 2.7% for the week.",
-    "source": "StockTitan",
-    "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-6-2026"
+    "text": "Stock futures were higher overall: S&P 500 futures up about 0.5% and Dow futures about 0.9% at 6:08 AM ET, while Nasdaq futures were barely positive.",
+    "source": "Seeking Alpha",
+    "url": "https://seekingalpha.com/news/4668836-stock-index-futures-tick-up-despite-pressure-from-nvidia-drop"
   },
   {
     "n": 5,
-    "text": "The VIX fear gauge fell 9% to 25.64, down from Thursday's 28.18 but still elevated.",
-    "source": "Yahoo Finance",
-    "url": "https://finance.yahoo.com/quote/%5EVIX/"
+    "text": "The 10-year Treasury yield held near 4.86% and the 2-year near 4.52% as traders waited for Tuesday's October inflation report.",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/09/us-treasurys-bonds-yields.html"
   },
   {
     "n": 6,
-    "text": "Brent crude settled almost flat at $98.32, ending the week down more than 16% as traders weighed US-Iran risks against hopes for a deal.",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/06/oil-price-today-brent-wti.html"
+    "text": "Brent slipped to about $97.65 after last week's roughly 16% fall, as President Trump signaled no new strikes on Iran while talks progress.",
+    "source": "Fortune",
+    "url": "https://fortune.com/article/price-of-oil-11-09-2026/"
   },
   {
     "n": 7,
-    "text": "The dollar rose about 0.5% against the yen to around 158.4.",
-    "source": "Yahoo Finance",
-    "url": "https://finance.yahoo.com/quote/USDJPY%3DX/"
+    "text": "Bitcoin fell to about $74,500, briefly touching $73,510, as more than $1 billion of leveraged bets were wiped out and bitcoin ETFs saw $1.28 billion of outflows last week.",
+    "source": "Crypto Times",
+    "url": "https://www.cryptotimes.io/2026/11/09/bitcoin-price-today-btc-falls-to-74k-as-1-04b-crypto-liquidations-hit-longs-etfs-bleed-1-28b/"
   }
 ]
