@@ -1,44 +1,44 @@
 [
   {
     "n": 1,
-    "text": "Gold rose to about $4,114 by 7:30 AM ET and silver to about $52.76, both up roughly 1.5% from Friday's close, after gold touched about $4,135 overnight.",
-    "source": "Fortune",
-    "url": "https://fortune.com/article/current-price-of-silver-11-9-2026/"
+    "text": "October consumer prices rose 0.4% and core prices (without food and energy) 0.3%, both above forecasts of 0.3% and 0.2%. No yearly rate was published because of last year's shutdown data gap.",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/11/10/u-s-cpi-rose-stronger-than-expected-0-4-in-october-core-rate-rose-0-3"
   },
   {
     "n": 2,
-    "text": "Barrick reported third-quarter adjusted earnings of $0.82 a share on revenue of $5.07 billion, up 22%, and kept its full-year output guidance. GDX was about 2.6% higher before the open.",
-    "source": "GlobeNewswire",
-    "url": "https://www.globenewswire.com/news-release/2026/11/09/3398168/0/en/barrick-reports-third-quarter-2026-results.html"
+    "text": "The 2-year Treasury yield jumped more than 15 bp to about 4.70% and the 10-year rose about 7 bp to 4.94% after the report and Governor Waller's comment that a half-point December hike could be needed.",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/10/us-bonds-treasurys-yields.html"
   },
   {
     "n": 3,
-    "text": "Nvidia fell about 5% before the open after its board opened a review of CEO Jensen Huang's ties to a businesswoman US agencies say is a Chinese spy, holding back Nasdaq futures.",
-    "source": "Benzinga",
-    "url": "https://www.benzinga.com/markets/equities/26/11/63023739/nvda-stock-falls-over-5-pre-market-trump-backs-jensen-huang-to-stay-as-nvidia-ceo"
+    "text": "Gold fell about 1.6% to near $4,075 and silver about 2% to near $52.19 before the report, giving back part of Monday's rally after Waller's remarks.",
+    "source": "FXStreet",
+    "url": "https://www.fxstreet.com/news/gold-falls-over-1-as-hawkish-fed-remarks-weigh-ahead-of-us-cpi-202611101046"
   },
   {
     "n": 4,
-    "text": "Stock futures were higher overall: S&P 500 futures up about 0.5% and Dow futures about 0.9% at 6:08 AM ET, while Nasdaq futures were barely positive.",
-    "source": "Seeking Alpha",
-    "url": "https://seekingalpha.com/news/4668836-stock-index-futures-tick-up-despite-pressure-from-nvidia-drop"
+    "text": "On Monday the S&P 500 rose 2.35% and the Nasdaq 2.74%, the S&P's best day since April, while Nvidia fell about 4% on its board's review of CEO Jensen Huang.",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html"
   },
   {
     "n": 5,
-    "text": "The 10-year Treasury yield held near 4.86% and the 2-year near 4.52% as traders waited for Tuesday's October inflation report.",
+    "text": "After the inflation report, S&P 500 futures were down about 0.5% and Nasdaq-100 futures about 1.2%.",
     "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/09/us-treasurys-bonds-yields.html"
+    "url": "https://www.cnbc.com/2026/11/09/stock-market-today-live-updates.html"
   },
   {
     "n": 6,
-    "text": "Brent slipped to about $97.65 after last week's roughly 16% fall, as President Trump signaled no new strikes on Iran while talks progress.",
-    "source": "Fortune",
-    "url": "https://fortune.com/article/price-of-oil-11-09-2026/"
+    "text": "Brent settled 5.85% lower at $92.57 on Monday and slipped below $90 early Tuesday for the first time since August, as signs of restraint toward Iran grew.",
+    "source": "OilPrice.com",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Crude-Falls-Below-90-for-First-Time-Since-August.html"
   },
   {
     "n": 7,
-    "text": "Bitcoin fell to about $74,500, briefly touching $73,510, as more than $1 billion of leveraged bets were wiped out and bitcoin ETFs saw $1.28 billion of outflows last week.",
-    "source": "Crypto Times",
-    "url": "https://www.cryptotimes.io/2026/11/09/bitcoin-price-today-btc-falls-to-74k-as-1-04b-crypto-liquidations-hit-longs-etfs-bleed-1-28b/"
+    "text": "Gold miners jumped on Monday: GDX closed up 4.41% at $91.46 and SLV up 2.71% at $48.14.",
+    "source": "Yahoo Finance",
+    "url": "https://uk.finance.yahoo.com/quote/GDX/"
   }
 ]
