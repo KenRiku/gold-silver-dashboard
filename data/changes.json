@@ -1,9 +1,44 @@
 [
-  { "n": 1, "text": "Gold closed Tuesday down about 2.6% near $4,032 and silver down about 3.6% near $51.41, as the hotter October inflation report raised the chance of a bigger Fed hike.", "source": "Kitco", "url": "https://www.kitco.com/news/article/2026-11-10/gold-silver-plunge-hotter-us-inflation-raises-prospect-larger-fed-rate-hike" },
-  { "n": 2, "text": "The 2-year Treasury yield ended about 17 bp higher at 4.74% and the 10-year about 9 bp higher at 4.99%, also pushed up by a weak 10-year note auction.", "source": "Trading Economics", "url": "https://tradingeconomics.com/united-states/2-year-note-yield" },
-  { "n": 3, "text": "Gold miners gave back Monday's jump: GDX closed down 5.4% at $86.51, about twice gold's drop.", "source": "StockAnalysis", "url": "https://stockanalysis.com/etf/gdx/" },
-  { "n": 4, "text": "Silver funds fell with the metal: SLV closed down 3.45% at $46.48 and the 2x AGQ down 6.86% at $47.39.", "source": "Yahoo Finance", "url": "https://finance.yahoo.com/quote/AGQ/" },
-  { "n": 5, "text": "Stocks slipped after Monday's big rally: the S&P 500 closed down 0.38% at 7,520.93 and the Nasdaq down 0.74% at 25,065.87, with tech leading the decline.", "source": "Your News", "url": "https://yournews.com/2026/11/10/7261422/u-s-stocks-close-lower-as-hotter-inflation-strengthens-fed-rate/" },
-  { "n": 6, "text": "The dollar index rose about 0.6% to 102.26 and USD/JPY ended near 158.81, close to its high of the day; Bitcoin fell about 1.7% to near $73,766.", "source": "Babypips", "url": "https://www.babypips.com/news/daily-financial-forex-market-recap-2026-11-10" },
-  { "n": 7, "text": "Brent settled down 1.17% at $91.49 after briefly dipping below $90 for the first time since August on hopes of an end to the Iran conflict.", "source": "CNBC", "url": "https://www.cnbc.com/2026/11/10/oil-prices-trump-iran.html" }
+  {
+    "n": 1,
+    "text": "Gold bounced overnight to about $4,056 (+0.6%), recovering only part of Tuesday's 2.6% fall after the hot inflation report; later morning quotes were a little lower, near $4,044–4,050.",
+    "source": "Kitco",
+    "url": "https://www.kitco.com/price/precious-metals"
+  },
+  {
+    "n": 2,
+    "text": "Silver led the rebound, up about 2.7% to near $52.92, so the gold/silver ratio dropped from 78.4 to about 76.7. SLV and AGQ have not traded since Tuesday's close.",
+    "source": "FXStreet",
+    "url": "https://www.fxstreet.com/news/silver-price-today-silver-rises-according-to-fxstreet-data-202611110930"
+  },
+  {
+    "n": 3,
+    "text": "Brent rose about 1.4% to $92.77 after Iran said tankers hit mines in the Strait of Hormuz, reversing part of Tuesday's slide on peace hopes; this matters for NRGU.",
+    "source": "ADVFN",
+    "url": "https://uk.advfn.com/market-news/article/26038/brent-crude-rises-to-92-77-as-iran-nuclear-dispute-and-strait-of-hormuz-attacks-affect-oil-markets"
+  },
+  {
+    "n": 4,
+    "text": "The US bond market is closed for Veterans Day while stocks trade normally, so Treasury yields stay at Tuesday's levels until Thursday.",
+    "source": "investingLive",
+    "url": "https://investinglive.com/news/heads-up-us-bond-market-closed-for-veterans-day-as-stocks-face-a-hot-cpi-hangover/"
+  },
+  {
+    "n": 5,
+    "text": "Nasdaq 100 futures were up about 1.7% and S&P 500 futures about 0.7% early Wednesday, helped by CoreWeave jumping after raising its outlook; this matters for QQQ, TQQQ and SQQQ.",
+    "source": "MLQ.ai",
+    "url": "https://mlq.ai/news/nasdaq-futures-jump-as-coreweave-surges-13-and-european-stocks-rise-on-veterans-day/"
+  },
+  {
+    "n": 6,
+    "text": "The dollar index edged up to about 102.5, near its October high, and USD/JPY held just under 159 as traders watched for Japanese intervention.",
+    "source": "FXStreet",
+    "url": "https://www.fxstreet.com/news/japanese-yen-weakens-toward-160-as-us-inflation-bolsters-fed-hike-bets-202611111219"
+  },
+  {
+    "n": 7,
+    "text": "Bitcoin was little changed near $73,938, still close to a three-month low.",
+    "source": "Fortune",
+    "url": "https://fortune.com/article/price-of-bitcoin-11-11-2026/"
+  }
 ]
