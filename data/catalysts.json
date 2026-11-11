@@ -1,30 +1,8 @@
 [
-  {
-    "date": "2026-11-12",
-    "when": "Thu Nov 12, 5:30 AM PT",
-    "event": "US weekly jobless claims",
-    "why": "Claims near record lows support the case for a December Fed hike, which has tended to weigh on gold and tech",
-    "url": "https://www.kiplinger.com/investing/economy/this-weeks-economic-calendar"
-  },
-  {
-    "date": "2026-11-13",
-    "when": "Fri Nov 13, 5:30 AM PT",
-    "event": "US October producer prices (PPI)",
-    "why": "A second hot inflation reading after CPI would add to Fed hike bets",
-    "url": "https://www.kiplinger.com/investing/economy/this-weeks-economic-calendar"
-  },
-  {
-    "date": "2026-11-13",
-    "when": "Fri Nov 13, 12:30 PM PT",
-    "event": "CFTC positioning report (weekly)",
-    "why": "Shows whether speculators are still cutting gold and silver longs",
-    "url": "https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm"
-  },
-  {
-    "date": "2026-11-17",
-    "when": "Tue Nov 17, 5:30 AM PT",
-    "event": "US October retail sales",
-    "why": "A strong reading would add to Fed hike bets, which has tended to weigh on gold and tech",
-    "url": "https://fedratecalc.com/us-economic-calendar/november-2026/"
-  }
+  { "date": "2026-11-12", "when": "Thu Nov 12, 5:30 AM PT", "event": "US weekly jobless claims", "why": "Claims near record lows support the case for a December Fed hike, which has tended to weigh on gold and tech", "url": "https://www.kiplinger.com/investing/economy/this-weeks-economic-calendar" },
+  { "date": "2026-11-13", "when": "Fri Nov 13, 5:30 AM PT", "event": "US October producer prices (PPI)", "why": "A second hot inflation reading after CPI would add to Fed hike bets", "url": "https://www.kiplinger.com/investing/economy/this-weeks-economic-calendar" },
+  { "date": "2026-11-13", "when": "Fri Nov 13, 12:30 PM PT", "event": "CFTC positioning report (weekly)", "why": "Shows whether speculators are still cutting gold and silver longs", "url": "https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm" },
+  { "date": "2026-11-17", "when": "Tue Nov 17, 5:30 AM PT", "event": "US October retail sales", "why": "A strong reading would add to Fed hike bets, which has tended to weigh on gold and tech", "url": "https://fedratecalc.com/us-economic-calendar/november-2026/" },
+  { "date": "2026-11-17", "when": "Tue Nov 17, after the close (about 1:20 PM PT)", "event": "Nvidia quarterly earnings", "why": "Nvidia is one of the largest Nasdaq-100 weights, so its results can move QQQ, TQQQ and SQQQ", "url": "https://www.wallstreethorizon.com/nvidia-earnings-calendar" },
+  { "date": "2026-11-18", "when": "Wed Nov 18, 11:00 AM PT", "event": "Fed minutes from the Oct 27–28 meeting", "why": "Shows how many officials lean toward a December hike, which can move yields, the dollar and gold", "url": "https://www.investing.com/economic-calendar/fomc-meeting-minutes-108" }
 ]
