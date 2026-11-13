@@ -1,50 +1,50 @@
 [
   {
     "n": 1,
-    "text": "Gold slipped about 0.9% overnight to near $3,949, extending Wednesday's drop below $4,000, as the dollar index hit 103.08, its highest since April 2025, before easing to about 102.80.",
-    "source": "BullionVault",
-    "url": "https://www.bullionvault.com/gold-price-chart.do"
+    "text": "Gold fell about 3% Thursday to near $3,867, its third straight drop, as the dollar hit a 19-month high on bets for a December Fed hike.",
+    "source": "USAGOLD",
+    "url": "https://www.usagold.com/daily-precious-metals-market-report-november-12-2026/"
   },
   {
     "n": 2,
-    "text": "Silver fell about 1% to near $51.04, so the gold/silver ratio held near 77.4.",
-    "source": "Fortune",
-    "url": "https://fortune.com/article/current-price-of-silver-11-12-2026/"
+    "text": "Silver dropped about 3% to near $50.06 after briefly trading below $50; SLV closed down 3.28% at $45.12, and the gold/silver ratio stayed near 77.2.",
+    "source": "Trading Economics",
+    "url": "https://tradingeconomics.com/commodity/silver"
   },
   {
     "n": 3,
-    "text": "Gold miners closed lower Wednesday with gold: GDX fell 1.48% to $85.21, GDXJ 1.68% to $104.51 and GDXU 4.58% to $82.51.",
-    "source": "Yahoo Finance",
-    "url": "https://finance.yahoo.com/quote/GDX/"
+    "text": "Gold miners fell more than gold: GDX lost 3.95% to $81.84 and GDXJ 4.68% to $99.62.",
+    "source": "StockAnalysis",
+    "url": "https://stockanalysis.com/etf/gdx/"
   },
   {
     "n": 4,
-    "text": "Treasury yields rose as trading resumed after Veterans Day: the 10-year is back at 5.01% (+2 bp) and the 2-year at 4.78% (+4 bp).",
+    "text": "The 10-year Treasury yield rose about 12 bp to 5.10% in the first full session after Veterans Day, helped by higher oil and a weak 30-year auction; traders now see a December Fed hike as nearly certain.",
     "source": "CNBC",
     "url": "https://www.cnbc.com/2026/11/12/us-treasurys-bonds-yields.html"
   },
   {
     "n": 5,
-    "text": "Nvidia fell about 6–8% premarket on reports its board is preparing to remove its CEO, and Nasdaq 100 futures were down about 0.9%, which points to a weaker start for QQQ and TQQQ and a stronger one for SQQQ.",
-    "source": "Yahoo Finance",
-    "url": "https://sg.finance.yahoo.com/news/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-invest-110027430.html"
+    "text": "Nvidia CEO Jensen Huang resigned; the stock fell as much as 14% before closing down 4.3%. QQQ ended down 0.32%, TQQQ down 0.93% and SQQQ up 0.94%.",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html"
   },
   {
     "n": 6,
-    "text": "Weekly jobless claims rose to 200,000, above the roughly 195,000 expected but still within their recent low range.",
-    "source": "MLQ.ai",
-    "url": "https://mlq.ai/news/us-jobless-claims-rise-to-200000-as-layoffs-stay-low-before-the-feds-december-meeting/"
+    "text": "Brent jumped 3.3% to settle at $95.82 after Trump said the US doesn't need a deal with Iran; this matters for NRGU.",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html"
   },
   {
     "n": 7,
-    "text": "Brent eased about 0.6% to near $92.22 as higher OPEC+ output and a build in US crude stocks offset worries about mine strikes near the Strait of Hormuz; this matters for NRGU.",
-    "source": "Reuters via Euronext",
-    "url": "https://live.euronext.com/en/financial-news/oil-prices-lower-rising-crude-output-offset-geopolitical-risks"
+    "text": "The VIX rose 6.9% to 18.70, ending a four-day decline.",
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/quote/%5EVIX/"
   },
   {
     "n": 8,
-    "text": "Bitcoin slipped to about $73,400 with tech stocks as US spot bitcoin ETFs had a fifth straight day of outflows, about $1.44 billion since Nov. 5.",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/markets/2026/11/12/bitcoin-dips-with-nvidia-as-etf-outflows-reach-day-five"
+    "text": "Bitcoin slid to near $71,000 Thursday evening, its lowest since Aug. 20, as higher yields weighed on risk assets.",
+    "source": "Bitcoin Magazine",
+    "url": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-71200-yields"
   }
 ]
