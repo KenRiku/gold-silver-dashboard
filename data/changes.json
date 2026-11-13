@@ -1,50 +1,50 @@
 [
   {
     "n": 1,
-    "text": "Gold fell about 3% Thursday to near $3,867, its third straight drop, as the dollar hit a 19-month high on bets for a December Fed hike.",
-    "source": "USAGOLD",
-    "url": "https://www.usagold.com/daily-precious-metals-market-report-november-12-2026/"
+    "text": "Gold bounced about 0.4% to near $3,892 in early US trading after Thursday's 13-month low near $3,852; it is still down about 3.5% for the week.",
+    "source": "Kitco",
+    "url": "https://www.kitco.com/news/article/2026-11-13/gold-rebounds-13-month-low-ppi-complicates-fed-outlook-kitco-am-report"
   },
   {
     "n": 2,
-    "text": "Silver dropped about 3% to near $50.06 after briefly trading below $50; SLV closed down 3.28% at $45.12, and the gold/silver ratio stayed near 77.2.",
-    "source": "Trading Economics",
-    "url": "https://tradingeconomics.com/commodity/silver"
+    "text": "Silver was flat near $49.96, so the gold/silver ratio rose to about 77.9; SLV and AGQ trade on silver.",
+    "source": "Kitco",
+    "url": "https://www.kitco.com/news/article/2026-11-13/gold-rebounds-13-month-low-ppi-complicates-fed-outlook-kitco-am-report"
   },
   {
     "n": 3,
-    "text": "Gold miners fell more than gold: GDX lost 3.95% to $81.84 and GDXJ 4.68% to $99.62.",
-    "source": "StockAnalysis",
-    "url": "https://stockanalysis.com/etf/gdx/"
+    "text": "October producer prices rose 0.3%, a bit less than the 0.4% expected, but the yearly rate hit 6.5%, the highest since November 2022.",
+    "source": "Seeking Alpha",
+    "url": "https://seekingalpha.com/news/4672315-ppi-inflation-rises-less-than-expected-in-october?feed_item_type=news"
   },
   {
     "n": 4,
-    "text": "The 10-year Treasury yield rose about 12 bp to 5.10% in the first full session after Veterans Day, helped by higher oil and a weak 30-year auction; traders now see a December Fed hike as nearly certain.",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/12/us-treasurys-bonds-yields.html"
+    "text": "The 10-year yield stayed near 5.13% and the dollar index held above 103 after the report, which keeps pressure on gold and the miners (GDX, GDXJ, GDXU).",
+    "source": "Kitco",
+    "url": "https://www.kitco.com/news/article/2026-11-13/gold-rebounds-13-month-low-ppi-complicates-fed-outlook-kitco-am-report"
   },
   {
     "n": 5,
-    "text": "Nvidia CEO Jensen Huang resigned; the stock fell as much as 14% before closing down 4.3%. QQQ ended down 0.32%, TQQQ down 0.93% and SQQQ up 0.94%.",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html"
+    "text": "Stock futures edged higher before the open (S&P 500 futures about +0.4%, Nasdaq 100 about +0.1%) as Nvidia rebounded in premarket trading; this matters for QQQ, TQQQ and SQQQ.",
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
   },
   {
     "n": 6,
-    "text": "Brent jumped 3.3% to settle at $95.82 after Trump said the US doesn't need a deal with Iran; this matters for NRGU.",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html"
+    "text": "Bitcoin fell below $70,000 for the first time since August, to about $69,135 at 8:30 AM ET, after more than $1 billion in forced liquidations.",
+    "source": "Fortune",
+    "url": "https://fortune.com/article/price-of-bitcoin-11-13-2026/"
   },
   {
     "n": 7,
-    "text": "The VIX rose 6.9% to 18.70, ending a four-day decline.",
-    "source": "Yahoo Finance",
-    "url": "https://finance.yahoo.com/quote/%5EVIX/"
+    "text": "USD/JPY hovered just under 160 as Japanese officials warned about rapid currency moves.",
+    "source": "FXStreet",
+    "url": "https://www.fxstreet.com/news/japanese-yen-languishes-near-16000-intervention-threshold-as-usd-bulls-retain-control-202611130204"
   },
   {
     "n": 8,
-    "text": "Bitcoin slid to near $71,000 Thursday evening, its lowest since Aug. 20, as higher yields weighed on risk assets.",
-    "source": "Bitcoin Magazine",
-    "url": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-71200-yields"
+    "text": "Brent held near $96 after Thursday's jump, while the IEA said oil supply has moved ahead of demand again; this matters for NRGU.",
+    "source": "Invezz",
+    "url": "https://invezz.com/news/2026/11/13/oil-price-today-brent-holds-near-96-as-iea-sees-first-surplus-since-iran-war/"
   }
 ]
