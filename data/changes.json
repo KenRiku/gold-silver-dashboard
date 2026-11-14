@@ -1,50 +1,50 @@
 [
   {
     "n": 1,
-    "text": "Gold bounced about 0.4% to near $3,892 in early US trading after Thursday's 13-month low near $3,852; it is still down about 3.5% for the week.",
+    "text": "Gold finished Friday about flat near $3,883 (up $7 on the day) but posted a steep weekly loss as Treasury yields rose and Fed hike bets held.",
     "source": "Kitco",
-    "url": "https://www.kitco.com/news/article/2026-11-13/gold-rebounds-13-month-low-ppi-complicates-fed-outlook-kitco-am-report"
+    "url": "https://www.kitco.com/news/article/2026-11-13/gold-posts-steep-weekly-loss-treasury-yields-rise-fed-tightening-bets"
   },
   {
     "n": 2,
-    "text": "Silver was flat near $49.96, so the gold/silver ratio rose to about 77.9; SLV and AGQ trade on silver.",
+    "text": "Silver fell about 2.6% to near $48.60, its lowest in about a year, so the gold/silver ratio jumped to about 79.9; SLV fell 2.2% to $44.13, and AGQ trades on silver.",
     "source": "Kitco",
-    "url": "https://www.kitco.com/news/article/2026-11-13/gold-rebounds-13-month-low-ppi-complicates-fed-outlook-kitco-am-report"
+    "url": "https://www.kitco.com/charts/silver"
   },
   {
     "n": 3,
-    "text": "October producer prices rose 0.3%, a bit less than the 0.4% expected, but the yearly rate hit 6.5%, the highest since November 2022.",
-    "source": "Seeking Alpha",
-    "url": "https://seekingalpha.com/news/4672315-ppi-inflation-rises-less-than-expected-in-october?feed_item_type=news"
+    "text": "The miners held up better than metals: GDX slipped 0.24% to $81.64 and GDXJ about 0.6%; GDXU tracks GDX at three times the move.",
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/quote/GDX/"
   },
   {
     "n": 4,
-    "text": "The 10-year yield stayed near 5.13% and the dollar index held above 103 after the report, which keeps pressure on gold and the miners (GDX, GDXJ, GDXU).",
-    "source": "Kitco",
-    "url": "https://www.kitco.com/news/article/2026-11-13/gold-rebounds-13-month-low-ppi-complicates-fed-outlook-kitco-am-report"
+    "text": "The 10-year Treasury yield rose to about 5.15% after producer prices showed inflation still running hot (6.5% a year).",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/amp/2026/11/13/treasury-yields-fed-rates.html"
   },
   {
     "n": 5,
-    "text": "Stock futures edged higher before the open (S&P 500 futures about +0.4%, Nasdaq 100 about +0.1%) as Nvidia rebounded in premarket trading; this matters for QQQ, TQQQ and SQQQ.",
-    "source": "Yahoo Finance",
-    "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
+    "text": "Tech led stocks lower as Nvidia's leadership change kept weighing on chip stocks: Nasdaq −0.91%, S&P 500 −0.4%, QQQ −1.2% to $679.89; this matters for TQQQ and SQQQ.",
+    "source": "CappNotes",
+    "url": "https://cappnotes.substack.com/p/closing-look-friday-november-13-2026"
   },
   {
     "n": 6,
-    "text": "Bitcoin fell below $70,000 for the first time since August, to about $69,135 at 8:30 AM ET, after more than $1 billion in forced liquidations.",
-    "source": "Fortune",
-    "url": "https://fortune.com/article/price-of-bitcoin-11-13-2026/"
+    "text": "USD/JPY briefly topped 160 for the first time since September before closing near 159.84, and the dollar index rose to about 103.4.",
+    "source": "Saxo",
+    "url": "https://www.home.saxo/en-sg/content/articles/macro/asia-market-quick-take--13-november-2026-13112026"
   },
   {
     "n": 7,
-    "text": "USD/JPY hovered just under 160 as Japanese officials warned about rapid currency moves.",
-    "source": "FXStreet",
-    "url": "https://www.fxstreet.com/news/japanese-yen-languishes-near-16000-intervention-threshold-as-usd-bulls-retain-control-202611130204"
+    "text": "Brent settled nearly unchanged at $95.84, its second weekly loss in a row on signs of a supply surplus; this matters for NRGU.",
+    "source": "FinanceFeeds",
+    "url": "https://financefeeds.com/brent-crude-oil-price-95-84-saturday-week-ahead-second-weekly-loss-bull-98-bear-91/"
   },
   {
     "n": 8,
-    "text": "Brent held near $96 after Thursday's jump, while the IEA said oil supply has moved ahead of demand again; this matters for NRGU.",
-    "source": "Invezz",
-    "url": "https://invezz.com/news/2026/11/13/oil-price-today-brent-holds-near-96-as-iea-sees-first-surplus-since-iran-war/"
+    "text": "Bitcoin slid further to about $68,400, below $69,000 for the first time since August.",
+    "source": "FinFly.news",
+    "url": "https://finfly.news/en/crypto/crypto-prices-2026-11-13"
   }
 ]
