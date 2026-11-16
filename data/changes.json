@@ -1,50 +1,50 @@
 [
   {
     "n": 1,
-    "text": "Gold finished Friday about flat near $3,883 (up $7 on the day) but posted a steep weekly loss as Treasury yields rose and Fed hike bets held.",
-    "source": "Kitco",
-    "url": "https://www.kitco.com/news/article/2026-11-13/gold-posts-steep-weekly-loss-treasury-yields-rise-fed-tightening-bets"
+    "text": "Gold fell about 1% overnight to near $3,845 and briefly touched about $3,830, its lowest since October 2025, as Fed hike bets and a firm dollar weighed.",
+    "source": "FXStreet",
+    "url": "https://www.fxstreet.com/news/gold-steadies-after-hitting-lowest-since-october-2025-hawkish-fed-caps-gains-202611161112"
   },
   {
     "n": 2,
-    "text": "Silver fell about 2.6% to near $48.60, its lowest in about a year, so the gold/silver ratio jumped to about 79.9; SLV fell 2.2% to $44.13, and AGQ trades on silver.",
-    "source": "Kitco",
-    "url": "https://www.kitco.com/charts/silver"
+    "text": "Silver dropped further to about $47.50, so the gold/silver ratio rose to about 81; this matters for SLV and AGQ, which closed Friday at $44.13 and $42.43.",
+    "source": "FXStreet",
+    "url": "https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202611160930"
   },
   {
     "n": 3,
-    "text": "The miners held up better than metals: GDX slipped 0.24% to $81.64 and GDXJ about 0.6%; GDXU tracks GDX at three times the move.",
-    "source": "Yahoo Finance",
-    "url": "https://finance.yahoo.com/quote/GDX/"
+    "text": "Treasury yields eased slightly before Fed Chair Warsh speaks at 9 AM PT: the 10-year was near 5.13% and the 2-year near 4.84%.",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/16/treasury-yields-bonds-inflation.html"
   },
   {
     "n": 4,
-    "text": "The 10-year Treasury yield rose to about 5.15% after producer prices showed inflation still running hot (6.5% a year).",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/amp/2026/11/13/treasury-yields-fed-rates.html"
+    "text": "Japan's economy was flat in the third quarter (−0.1% annualized, weaker than expected), but USD/JPY held just under 160 at about 159.5 on intervention warnings.",
+    "source": "FXStreet",
+    "url": "https://www.fxstreet.com/news/japans-gdp-arrives-at-0-qoq-in-q3-2026-vs-01-expected-202611152353"
   },
   {
     "n": 5,
-    "text": "Tech led stocks lower as Nvidia's leadership change kept weighing on chip stocks: Nasdaq −0.91%, S&P 500 −0.4%, QQQ −1.2% to $679.89; this matters for TQQQ and SQQQ.",
-    "source": "CappNotes",
-    "url": "https://cappnotes.substack.com/p/closing-look-friday-november-13-2026"
+    "text": "Nasdaq-100 futures were down about 1% as Nvidia fell premarket ahead of Tuesday's results; this matters for QQQ, TQQQ and SQQQ.",
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-16-dow-sp-500-nasdaq-nvidia-oil-091631084.html"
   },
   {
     "n": 6,
-    "text": "USD/JPY briefly topped 160 for the first time since September before closing near 159.84, and the dollar index rose to about 103.4.",
-    "source": "Saxo",
-    "url": "https://www.home.saxo/en-sg/content/articles/macro/asia-market-quick-take--13-november-2026-13112026"
+    "text": "The New York Fed's factory survey reportedly fell to 7.8 in November, well below the 17.6 expected.",
+    "source": "Investing.com",
+    "url": "https://www.investing.com/economic-calendar/ny-empire-state-manufacturing-index-323"
   },
   {
     "n": 7,
-    "text": "Brent settled nearly unchanged at $95.84, its second weekly loss in a row on signs of a supply surplus; this matters for NRGU.",
+    "text": "Brent was mixed in the mid-$90s as worries about a supply surplus met news of an Iranian strike on a US base in Bahrain; this matters for NRGU.",
     "source": "FinanceFeeds",
-    "url": "https://financefeeds.com/brent-crude-oil-price-95-84-saturday-week-ahead-second-weekly-loss-bull-98-bear-91/"
+    "url": "https://financefeeds.com/brent-crude-oil-price-96-28-monday-iran-bahrain-strike-bull-98-bear-91"
   },
   {
     "n": 8,
-    "text": "Bitcoin slid further to about $68,400, below $69,000 for the first time since August.",
-    "source": "FinFly.news",
-    "url": "https://finfly.news/en/crypto/crypto-prices-2026-11-13"
+    "text": "Bitcoin slid to about $64,000, roughly 6.5% below Friday's level, amid Fed hike worries and ETF outflows.",
+    "source": "Fortune",
+    "url": "https://fortune.com/article/price-of-bitcoin-11-16-2026/"
   }
 ]
