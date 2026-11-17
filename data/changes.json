@@ -1,44 +1,44 @@
 [
   {
     "n": 1,
-    "text": "Gold slipped about 0.7% to near $3,856 after touching about $3,830, its lowest since October 2025, as a firm dollar and Fed hike bets weighed; Fed Chair Warsh's speech gave no clear hint on December.",
-    "source": "Kitco",
-    "url": "https://www.kitco.com/news/article/2026-11-16/gold-silver-extend-losses-tech-selloff-dollar-pressure-metals-kitco-pm"
+    "text": "Gold held roughly flat near $3,857 on Tuesday morning after Monday's slide to about $3,830, its lowest since October 2025.",
+    "source": "Fortune",
+    "url": "https://fortune.com/article/current-price-of-silver-11-17-2026/"
   },
   {
     "n": 2,
-    "text": "Silver fell about 3.6% to a 52-week low near $46.90, lifting the gold/silver ratio to about 82; SLV closed down 3.9% at $42.39 and AGQ down 7.9% at $39.10.",
-    "source": "Kitco",
-    "url": "https://www.kitco.com/news/article/2026-11-16/gold-silver-extend-losses-tech-selloff-dollar-pressure-metals-kitco-pm"
+    "text": "Silver rebounded about 1.7% to near $47.70 from Monday's 14-month low, easing the gold/silver ratio to about 80.9 from 82.3.",
+    "source": "Fortune",
+    "url": "https://fortune.com/article/current-price-of-silver-11-17-2026/"
   },
   {
     "n": 3,
-    "text": "Gold miners fell much more than gold: GDX lost 3.3% to $78.95 and GDXJ 3.7% to $95.35.",
-    "source": "Yahoo Finance",
-    "url": "https://finance.yahoo.com/quote/GDX/"
+    "text": "US October retail sales rose 0.2%, in line with forecasts and slower than September's 0.8%, while core sales rose 0.6%, more than the 0.4% expected.",
+    "source": "Seeking Alpha",
+    "url": "https://seekingalpha.com/news/4673619-headline-retail-sales-rise-as-expected-in-october-core-sales-beat-on-the-upside"
   },
   {
     "n": 4,
-    "text": "The Nasdaq fell 2.5% and the S&P 500 1.9%, a third straight drop, as Nvidia hit its lowest close since July 2025 and new US rules limited remote access to advanced chips; QQQ fell 2.7%, TQQQ 8.1%, and SQQQ rose 8.1%.",
-    "source": "AP via The Manila Times",
-    "url": "https://www.manilatimes.net/2026/11/17/business/foreign-business/stocks-tumble-on-wall-street-as-nvidia-leads-another-sell-off-in-technology-companies/2471596"
+    "text": "Stock futures were mixed to slightly lower ahead of Nvidia's earnings after the close, following Monday's third straight drop for the S&P 500.",
+    "source": "TipRanks",
+    "url": "https://www.tipranks.com/news/stock-market-today-nov-17-u-s-stocks-jittery-ahead-of-nvidia-results"
   },
   {
     "n": 5,
-    "text": "The VIX jumped about 19% to 22.9, its biggest one-day rise since Nov 5.",
-    "source": "VIX Chart (Cboe data)",
-    "url": "https://vixchart.com/"
+    "text": "Treasury yields were little changed before the data (10-year near 5.12%, 2-year down 2 bp to about 4.81%).",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/17/treasury-yields-bonds-inflation.html"
   },
   {
     "n": 6,
-    "text": "Brent crude fell about 3.5% to $92.44 as the IEA's surplus outlook outweighed reports of tanker fires in the Strait of Hormuz.",
-    "source": "Rigzone",
-    "url": "https://rigzone.com/news/wire/oil_retreats_as_traders_weigh_supply_glut-16-nov-2026-185096-article"
+    "text": "The yen firmed about 0.2% to near 159.1 per dollar on haven demand and intervention worries, while the dollar index held flat near its highest since April 2025.",
+    "source": "Newsquawk",
+    "url": "https://www.newsquawk.com/headlines/newsquawk-daily-us-opening-news---17th-november-2026"
   },
   {
     "n": 7,
-    "text": "Treasury yields eased (10-year near 5.12%, 2-year near 4.82%), while the dollar index rose to 103.58, its highest close since April 2025; USD/JPY edged down to about 159.4.",
-    "source": "The Weekend Spread",
-    "url": "https://theweekendspread.substack.com/p/the-close-monday-november-16-2026"
+    "text": "Brent crude slipped another 0.7% to about $91.80 as worries about a supply surplus continued.",
+    "source": "Trading Economics",
+    "url": "https://tradingeconomics.com/commodity/brent-crude-oil"
   }
 ]
