@@ -1,44 +1,50 @@
 [
   {
     "n": 1,
-    "text": "Gold held roughly flat near $3,857 on Tuesday morning after Monday's slide to about $3,830, its lowest since October 2025.",
-    "source": "Fortune",
-    "url": "https://fortune.com/article/current-price-of-silver-11-17-2026/"
+    "text": "The S&P 500 fell 1.03% to 7,340.53, its lowest close since late July, and the Dow lost 848.75 points as software and other tech names led the drop.",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/16/stock-market-today-live-updates.html"
   },
   {
     "n": 2,
-    "text": "Silver rebounded about 1.7% to near $47.70 from Monday's 14-month low, easing the gold/silver ratio to about 80.9 from 82.3.",
-    "source": "Fortune",
-    "url": "https://fortune.com/article/current-price-of-silver-11-17-2026/"
+    "text": "Nvidia reported about $115.8 billion in quarterly revenue and guided to about $130 billion next quarter, both above forecasts; its shares rose in after-hours trading.",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/18/nvidia-earnings-market-analysis.html"
   },
   {
     "n": 3,
-    "text": "US October retail sales rose 0.2%, in line with forecasts and slower than September's 0.8%, while core sales rose 0.6%, more than the 0.4% expected.",
-    "source": "Seeking Alpha",
-    "url": "https://seekingalpha.com/news/4673619-headline-retail-sales-rise-as-expected-in-october-core-sales-beat-on-the-upside"
+    "text": "The VIX rose 11% to 25.46 after touching 27.73 during the day, its highest close of the recent selloff.",
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/quote/%5EVIX/"
   },
   {
     "n": 4,
-    "text": "Stock futures were mixed to slightly lower ahead of Nvidia's earnings after the close, following Monday's third straight drop for the S&P 500.",
-    "source": "TipRanks",
-    "url": "https://www.tipranks.com/news/stock-market-today-nov-17-u-s-stocks-jittery-ahead-of-nvidia-results"
+    "text": "Gold eased about $7 to near $3,849, while silver rose 0.8% to about $47.36, nudging the gold/silver ratio down to about 81.3 from 82.3.",
+    "source": "USAGOLD",
+    "url": "https://www.usagold.com/daily-precious-metals-market-report-november-17-2026/"
   },
   {
     "n": 5,
-    "text": "Treasury yields were little changed before the data (10-year near 5.12%, 2-year down 2 bp to about 4.81%).",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/17/treasury-yields-bonds-inflation.html"
+    "text": "Gold miners and silver funds edged higher: GDX rose 0.8% to $79.57 and SLV 0.6% to $42.64.",
+    "source": "Finviz",
+    "url": "https://finviz.com/stock?t=GDX"
   },
   {
     "n": 6,
-    "text": "The yen firmed about 0.2% to near 159.1 per dollar on haven demand and intervention worries, while the dollar index held flat near its highest since April 2025.",
-    "source": "Newsquawk",
-    "url": "https://www.newsquawk.com/headlines/newsquawk-daily-us-opening-news---17th-november-2026"
+    "text": "Treasury yields slipped about 2 bp, with the 10-year at 5.10% and the 2-year at 4.80%.",
+    "source": "US Treasury",
+    "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value=2026"
   },
   {
     "n": 7,
-    "text": "Brent crude slipped another 0.7% to about $91.80 as worries about a supply surplus continued.",
-    "source": "Trading Economics",
-    "url": "https://tradingeconomics.com/commodity/brent-crude-oil"
+    "text": "Bitcoin fell about 2% to roughly $63,500 as rising Fed hike expectations weighed on riskier assets.",
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/quote/BTC-USD/history/"
+  },
+  {
+    "n": 8,
+    "text": "Brent crude rose roughly 0.6–0.8% to about $93 after reported tanker attacks near the Strait of Hormuz, though worries about too much supply persist.",
+    "source": "Investing.com",
+    "url": "https://in.investing.com/news/commodities-news/oil-prices-fall-further-on-supply-glut-concerns-strong-dollar-weighs-5708691"
   }
 ]
