@@ -1,47 +1,47 @@
 {
-  "asOf": "2026-11-18T16:00:00-05:00",
+  "asOf": "2026-11-19T08:45:00-05:00",
   "readings": [
     {
       "key": "gold",
       "group": "Metals",
       "label": "Gold (spot)",
-      "value": 3722.6,
-      "chg_pct": -3.27,
+      "value": 3730.61,
+      "chg_pct": 0.22,
       "chg_bp": null,
-      "chg_1m_pct": -9.6,
-      "shown": "$3,723",
-      "change_shown": "−3.27%",
-      "note": "Spot price in Kitco's afternoon report, down $125.90 from Tuesday's $3,848.50, after hawkish Fed minutes; lowest in about 14 months (low of the day $3,719.10). One-month change is against $4,118.10 on Oct 20 (https://pricegold.net/2026/october/20/)",
-      "source": "Kitco",
-      "url": "https://www.kitco.com/news/article/2026-11-18/gold-plunges-below-3750-silver-tumbles-hawkish-fed-minutes-pressure-metals"
+      "chg_1m_pct": -9.41,
+      "shown": "$3,731",
+      "change_shown": "+0.22%",
+      "note": "Spot price early Thursday (Reuters figure, 0921 GMT), up from Kitco's $3,722.60 at Wednesday's US close, after touching about $3,693 in Asian trade, the lowest since September 2025. Later reports had it as high as $3,754.85. One-month change is against $4,118.10 on Oct 20",
+      "source": "The Globe and Mail",
+      "url": "https://www.theglobeandmail.com/investing/markets/inside-the-market/article-before-the-bell-what-every-canadian-investor-needs-to-know-today-1606/"
     },
     {
       "key": "silver",
       "group": "Metals",
       "label": "Silver (spot)",
-      "value": 44.94,
-      "chg_pct": -5.11,
+      "value": 45.4,
+      "chg_pct": 1.02,
       "chg_bp": null,
       "chg_1m_pct": null,
-      "shown": "$44.94",
-      "change_shown": "−5.11%",
-      "note": "Kitco spot price at 5:14 PM ET, against Tuesday's $47.36; low of the day $44.64. Trading Economics had a similar $45.02 (−4.9%)",
-      "source": "Kitco",
-      "url": "https://www.kitco.com/charts/silver"
+      "shown": "$45.40",
+      "change_shown": "+1.02%",
+      "note": "Spot price Thursday morning, after an overnight low near $44.54; change is against Kitco's $44.94 at Wednesday's US close (the report itself says +0.7% against a different reference)",
+      "source": "EconoTimes",
+      "url": "https://econotimes.com/Silver-Rebounds-From-44-5395-Low-as-Fed-Minutes-Signal-Rate-Increases-1779425"
     },
     {
       "key": "gs_ratio",
       "group": "Metals",
       "label": "Gold/silver ratio",
-      "value": 82.83,
-      "chg_pct": 1.93,
+      "value": 82.17,
+      "chg_pct": -0.8,
       "chg_bp": null,
       "chg_1m_pct": null,
-      "shown": "82.83",
-      "change_shown": "+1.93%",
-      "note": "Worked out from Kitco's gold ($3,722.60) and silver ($44.94) prices, against Tuesday's 81.26; silver fell harder than gold",
-      "source": "Kitco",
-      "url": "https://www.kitco.com/charts/silver"
+      "shown": "82.17",
+      "change_shown": "−0.80%",
+      "note": "Worked out from Thursday-morning gold ($3,730.61, Globe and Mail/Reuters) and silver ($45.40) prices, against Wednesday's 82.83; silver bounced a little more than gold",
+      "source": "EconoTimes",
+      "url": "https://econotimes.com/Silver-Rebounds-From-44-5395-Low-as-Fed-Minutes-Signal-Rate-Increases-1779425"
     },
     {
       "key": "gdx",
@@ -53,7 +53,7 @@
       "chg_1m_pct": null,
       "shown": "$74.82",
       "change_shown": "−5.97%",
-      "note": "4 PM close, against Tuesday's $79.57; Yahoo Finance shows the same close",
+      "note": "Wednesday's 4 PM close (latest confirmed price; no reliable dated pre-market quote found). 4 PM close, against Tuesday's $79.57; Yahoo Finance shows the same close",
       "source": "Stock Analysis",
       "url": "https://stockanalysis.com/etf/gdx/"
     },
@@ -67,7 +67,7 @@
       "chg_1m_pct": null,
       "shown": "$90.07",
       "change_shown": "−6.02%",
-      "note": "4 PM close, down $5.77 from $95.84; a same-day report had it trading at $89.87 during the session. Near its 12-month low of $88.50",
+      "note": "Wednesday's 4 PM close (latest confirmed price; no reliable dated pre-market quote found). 4 PM close, down $5.77 from $95.84; a same-day report had it trading at $89.87 during the session. Near its 12-month low of $88.50",
       "source": "Yahoo Finance",
       "url": "https://au.finance.yahoo.com/quote/GDXJ/"
     },
@@ -81,7 +81,7 @@
       "chg_1m_pct": null,
       "shown": "$53.55",
       "change_shown": "−17.98%",
-      "note": "4 PM close, down $11.74; only one source found for this close, and the drop is in line with about three times GDX's fall",
+      "note": "Wednesday's 4 PM close (latest confirmed price; no reliable dated pre-market quote found). 4 PM close, down $11.74; only one source found for this close, and the drop is in line with about three times GDX's fall",
       "source": "Stock Analysis",
       "url": "https://stockanalysis.com/etf/gdxu/"
     },
@@ -95,7 +95,7 @@
       "chg_1m_pct": null,
       "shown": "$40.70",
       "change_shown": "−4.55%",
-      "note": "4 PM close, against Tuesday's $42.64; the issuer's page lists the same price (NAV $41.26)",
+      "note": "Wednesday's 4 PM close (latest confirmed price; no reliable dated pre-market quote found). 4 PM close, against Tuesday's $42.64; the issuer's page lists the same price (NAV $41.26)",
       "source": "iShares",
       "url": "https://www.ishares.com/us/products/239855/ishares-silver-trust"
     },
@@ -109,7 +109,7 @@
       "chg_1m_pct": null,
       "shown": "$35.86",
       "change_shown": "−9.33%",
-      "note": "4 PM close, against Tuesday's $39.55",
+      "note": "Wednesday's 4 PM close (latest confirmed price; no reliable dated pre-market quote found). 4 PM close, against Tuesday's $39.55",
       "source": "Stock Analysis",
       "url": "https://stockanalysis.com/etf/agq/"
     },
@@ -123,7 +123,7 @@
       "chg_1m_pct": null,
       "shown": "$659.51",
       "change_shown": "+0.39%",
-      "note": "4 PM close, against Tuesday's $656.95; Finviz and Investing.com agree",
+      "note": "Wednesday's 4 PM close (latest confirmed price; no reliable dated pre-market quote found). 4 PM close, against Tuesday's $656.95; Finviz and Investing.com agree. Nasdaq futures were up about 2% before the open Thursday",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/QQQ/"
     },
@@ -137,7 +137,7 @@
       "chg_1m_pct": null,
       "shown": "$52.44",
       "change_shown": "+1.22%",
-      "note": "4 PM close, up $0.63 from Tuesday's $51.81; only one source found",
+      "note": "Wednesday's 4 PM close (latest confirmed price; no reliable dated pre-market quote found). 4 PM close, up $0.63 from Tuesday's $51.81; only one source found",
       "source": "Yahoo Finance",
       "url": "https://au.finance.yahoo.com/quote/TQQQ/"
     },
@@ -151,7 +151,7 @@
       "chg_1m_pct": null,
       "shown": "$46.35",
       "change_shown": "−1.28%",
-      "note": "Issuer's market price for Nov 18, down $0.60 from $46.95; CNBC shows the same close",
+      "note": "Wednesday's 4 PM close (latest confirmed price; no reliable dated pre-market quote found). Issuer's market price for Nov 18, down $0.60 from $46.95; CNBC shows the same close",
       "source": "ProShares",
       "url": "https://www.proshares.com/our-etfs/leveraged-and-inverse/sqqq"
     },
@@ -165,7 +165,7 @@
       "chg_1m_pct": null,
       "shown": "—",
       "change_shown": "—",
-      "note": "No Wednesday close found; the latest dated figure is still from Nov 11",
+      "note": "No close found for Wednesday and no pre-market quote; the latest dated figure is still from Nov 11",
       "source": "",
       "url": ""
     },
@@ -179,7 +179,7 @@
       "chg_1m_pct": null,
       "shown": "5.06%",
       "change_shown": "−4 bp",
-      "note": "5.064% late Wednesday, down almost 4 bp, as longer-dated yields slipped after Fed Governor Waller's comments and the Fed minutes. Some outlets still quoted 5.10%. FRED could not be reached from this run",
+      "note": "Wednesday's late figure (5.064%, down almost 4 bp); no fresher figure could be confirmed. Thursday pre-market notes ranged from 5.05% to 5.09% and disagree on the direction. FRED could not be reached from this run",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/18/treasury-yields-bonds-fed.html"
     },
@@ -193,7 +193,7 @@
       "chg_1m_pct": null,
       "shown": "4.80%",
       "change_shown": "0 bp",
-      "note": "Sources agree on 4.80% but disagree on the direction (CNBC up about 1 bp, Benzinga down 1 bp), so the change is shown against Treasury's 4.80% for Tuesday. FRED could not be reached from this run",
+      "note": "Wednesday's figure; no Thursday reading found. Sources disagreed on Wednesday's direction (CNBC up about 1 bp, Benzinga down 1 bp), so the change is shown against Treasury's 4.80% for Tuesday. FRED could not be reached from this run",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/18/treasury-yields-bonds-fed.html"
     },
@@ -207,7 +207,7 @@
       "chg_1m_pct": null,
       "shown": "—",
       "change_shown": "—",
-      "note": "Readings Wednesday ranged from about 159.37 to 159.6 and no dated closing figure could be confirmed; the pair stayed just under 160, where Tokyo has warned about intervention",
+      "note": "Thursday readings disagree by more than rounding (about 159.26 early in Asia, 159.7 and 159.95 later), so no single figure is shown; the pair stayed just under 160, where Tokyo has warned about intervention",
       "source": "",
       "url": ""
     },
@@ -221,7 +221,7 @@
       "chg_1m_pct": null,
       "shown": "—",
       "change_shown": "—",
-      "note": "Closing figures disagree (103.78 vs 103.86); either way the index ended near its highest since April 2025 after rising on the Fed outlook",
+      "note": "Thursday readings disagree (103.6 to 103.9); the index eased slightly after US jobless claims but stayed near its highest since April 2025",
       "source": "",
       "url": ""
     },
@@ -235,7 +235,7 @@
       "chg_1m_pct": null,
       "shown": "24.56",
       "change_shown": "−3.53%",
-      "note": "Close, against Tuesday's 25.46, ending a four-day rise; Cboe data in another report had 24.52",
+      "note": "Wednesday's close (latest confirmed; no Thursday pre-market level found), against Tuesday's 25.46",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EVIX/"
     },
@@ -243,29 +243,29 @@
       "key": "btc",
       "group": "Risk",
       "label": "Bitcoin",
-      "value": 62573.79,
-      "chg_pct": -1.53,
+      "value": 63748,
+      "chg_pct": null,
       "chg_bp": null,
       "chg_1m_pct": null,
-      "shown": "$62,574",
-      "change_shown": "−1.53%",
-      "note": "Price at about 12:14 PM ET Wednesday (no later figure found); change is against the Nov 17 daily close of $63,544. Down about 21% over the past month",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/price/bitcoin"
+      "shown": "$63,748",
+      "change_shown": "—",
+      "note": "Price at 6 AM ET Thursday, about $400 below the previous morning; no price at Wednesday's US close was found, so the day change is left blank. Down about 22% from $82,201 a month ago",
+      "source": "Fortune",
+      "url": "https://fortune.com/article/price-of-bitcoin-11-19-2026/"
     },
     {
       "key": "brent",
       "group": "Energy",
       "label": "Brent crude",
-      "value": null,
-      "chg_pct": null,
+      "value": 92.12,
+      "chg_pct": 0.18,
       "chg_bp": null,
       "chg_1m_pct": null,
-      "shown": "—",
-      "change_shown": "—",
-      "note": "No Wednesday settlement could be confirmed from a dated source and FRED could not be reached; reports had Brent near $92 after a bigger-than-expected rise in US crude stocks",
-      "source": "",
-      "url": ""
+      "shown": "$92.12",
+      "change_shown": "+0.18%",
+      "note": "Futures price at 02:37 GMT Thursday, up 17 cents from Wednesday's settlement of $91.95 (down $1.19 after a rise in US crude stocks). FRED could not be reached from this run",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/19/oil-brent-wti-price-hormuz.html"
     },
     {
       "key": "nasdaq",
@@ -277,7 +277,7 @@
       "chg_1m_pct": null,
       "shown": "24,429.89",
       "change_shown": "+0.42%",
-      "note": "Close, up 101.50 points, snapping its losing streak even as Nvidia fell after its results",
+      "note": "Wednesday's close, up 101.50 points. Nasdaq futures were up about 2.1% before Thursday's open ahead of Anthropic's market debut",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nasdaq-p-125812319.html"
     },
@@ -291,7 +291,7 @@
       "chg_1m_pct": null,
       "shown": "7,323.63",
       "change_shown": "−0.23%",
-      "note": "Close, down 16.90 points, a fifth straight loss and below its 200-day average; the Dow fell 561 points",
+      "note": "Wednesday's close, a fifth straight loss. S&P 500 futures were up about 1.2% before Thursday's open",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nasdaq-p-125812319.html"
     }

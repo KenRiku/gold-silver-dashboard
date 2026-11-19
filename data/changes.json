@@ -1,44 +1,44 @@
 [
   {
     "n": 1,
-    "text": "Gold dropped about 3.3% to near $3,723 an ounce, its lowest in about 14 months, after the Fed minutes and Governor Waller's comments kept a December rate hike firmly in view.",
-    "source": "Kitco",
-    "url": "https://www.kitco.com/news/article/2026-11-18/gold-plunges-below-3750-silver-tumbles-hawkish-fed-minutes-pressure-metals"
+    "text": "Gold dipped to about $3,693 in Asian trade, its lowest since September 2025, then recovered to about $3,731, roughly 0.2% above Wednesday's US close.",
+    "source": "The Globe and Mail",
+    "url": "https://www.theglobeandmail.com/investing/markets/inside-the-market/article-before-the-bell-what-every-canadian-investor-needs-to-know-today-1606/"
   },
   {
     "n": 2,
-    "text": "Silver fell about 5% to under $45, pushing the gold/silver ratio up to about 82.8; SLV closed down 4.6% and the 2x AGQ down 9.3%.",
-    "source": "Kitco",
-    "url": "https://www.kitco.com/charts/silver"
+    "text": "Silver bounced about 1% to near $45.40 after an overnight low around $44.54, easing the gold/silver ratio to about 82.2.",
+    "source": "EconoTimes",
+    "url": "https://econotimes.com/Silver-Rebounds-From-44-5395-Low-as-Fed-Minutes-Signal-Rate-Increases-1779425"
   },
   {
     "n": 3,
-    "text": "Gold miners fell harder than gold: GDX lost 6.0% to $74.82 and the 3x GDXU about 18%.",
-    "source": "Stock Analysis",
-    "url": "https://stockanalysis.com/etf/gdx/"
+    "text": "Nasdaq futures rose about 2% and S&P 500 futures about 1.2% before the open as Anthropic priced its IPO at $83 a share ahead of its Nasdaq debut.",
+    "source": "Blockonomi",
+    "url": "https://blockonomi.com/nvidia-nvda-stock-bounces-premarket-as-anthropic-begins-trading-thursday/"
   },
   {
     "n": 4,
-    "text": "The Fed minutes showed almost all officials expect further rate increases; futures put the chance of a December hike near 95%.",
-    "source": "Benzinga",
-    "url": "https://www.benzinga.com/markets/economic-data/26/11/63409950/fed-minutes-almost-all-officials-more-hikes-ai-debt"
+    "text": "US weekly jobless claims rose to 203,000, a little above the 197,000 expected; the dollar index eased slightly afterwards but stayed near a 19-month high.",
+    "source": "FXStreet",
+    "url": "https://www.fxstreet.com/news/us-initial-jobless-claims-rose-to-203k-last-week-202611191337"
   },
   {
     "n": 5,
-    "text": "The 10-year Treasury yield slipped almost 4 bp to about 5.06%, while the 2-year held near 4.80%.",
+    "text": "Brent crude held near $92 a barrel, little changed after settling at $91.95 on Wednesday, as supply-surplus worries offset attacks on ships near Hormuz.",
     "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/18/treasury-yields-bonds-fed.html"
+    "url": "https://www.cnbc.com/2026/11/19/oil-brent-wti-price-hormuz.html"
   },
   {
     "n": 6,
-    "text": "The Nasdaq rose 0.4% and QQQ 0.4%, while the S&P 500 fell 0.2% for a fifth straight loss and the Dow dropped 561 points as Nvidia fell after its results.",
-    "source": "Yahoo Finance",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nasdaq-p-125812319.html"
+    "text": "Bitcoin traded near $63,700 early Thursday, about $400 below a day earlier, as ETF outflows continued.",
+    "source": "Fortune",
+    "url": "https://fortune.com/article/price-of-bitcoin-11-19-2026/"
   },
   {
     "n": 7,
-    "text": "The VIX eased 3.5% to 24.56, ending a four-day rise but staying above 20.",
-    "source": "Yahoo Finance",
-    "url": "https://finance.yahoo.com/quote/%5EVIX/"
+    "text": "The yen stayed just under 160 per dollar ahead of Japan's October inflation data, with Tokyo's intervention warnings still in view.",
+    "source": "FXStreet",
+    "url": "https://www.fxstreet.com/news/yen-holds-steady-under-16000-as-japan-inflation-data-nears-202611182315"
   }
 ]
