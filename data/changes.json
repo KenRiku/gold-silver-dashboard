@@ -1,50 +1,50 @@
 [
   {
     "n": 1,
-    "text": "Gold fell about 2.6% to near $3,626 in late US trading, dropping below $3,650 for the first time since September 2025 as bets on more Fed rate hikes and a firm dollar weighed.",
-    "source": "Kitco",
-    "url": "https://www.kitco.com/news/article/2026-11-19/gold-falls-below-3650-silver-tumbles-fed-rate-concerns-pressure-metals"
+    "text": "Gold fell below $3,600 in Asian trade, touching about $3,514, its lowest since September 2025, before recovering to near $3,570; it is on track for its worst week since March.",
+    "source": "FinanceFeeds",
+    "url": "https://financefeeds.com/gold-price-today-3570-friday-worst-week-since-march-fed-hike-bets-bull-3700-bear-3500/"
   },
   {
     "n": 2,
-    "text": "Silver dropped about 4.4% to near $42.96, with most of the fall late in the day, pushing the gold/silver ratio up to about 84.4.",
-    "source": "Kitco",
-    "url": "https://www.kitco.com/price/precious-metals"
+    "text": "Silver slipped to about $42.28 by 7:15 AM ET, down roughly 13% this week, a much steeper fall than gold's.",
+    "source": "Fortune",
+    "url": "https://fortune.com/article/current-price-of-silver-11-20-2026"
   },
   {
     "n": 3,
-    "text": "Gold miners fell with the metals: GDX closed down 3.77% at $72.00 and the 3x GDXU about 12%.",
-    "source": "Yahoo Finance",
-    "url": "https://au.finance.yahoo.com/quote/GDX/"
+    "text": "The VIX, Wall Street's fear gauge, rose above 30 before the open for the first time since late March.",
+    "source": "Trading and Investment News (Reuters)",
+    "url": "https://www.tradingandinvestmentnews.co.uk/wall-street-volatility-vix-30/"
   },
   {
     "n": 4,
-    "text": "The Nasdaq fell 2.25% and the S&P 500 2.02%, its sixth straight loss, while the Dow lost 1,101 points to close below 50,000.",
-    "source": "ABC News (AP)",
-    "url": "https://abcnews.com/Business/wireStory/major-us-stock-indexes-fared-thursday-11192026-138303454"
+    "text": "Nasdaq 100 futures fell about 1.5% and S&P 500 futures about 0.65%, with Anthropic down over 10% and Intuit down over 10% after cutting its revenue outlook.",
+    "source": "TradingKey",
+    "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262315308-us-pre-market-anthropic-tradingkey"
   },
   {
     "n": 5,
-    "text": "Anthropic opened 34% above its IPO price on its first trading day but finished up about 17%, as other AI and chip stocks slid.",
-    "source": "Yahoo Finance",
-    "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html"
+    "text": "The 10-year Treasury yield fell back under 5% to about 4.97% and the 2-year to about 4.70% as money moved into bonds, even though traders still price a December Fed hike as almost certain.",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/20/treasury-yields-bonds-inflation.html"
   },
   {
     "n": 6,
-    "text": "The VIX, Wall Street's fear gauge, jumped about 16% to 28.44 from 24.56 on Wednesday.",
-    "source": "Yahoo Finance",
-    "url": "https://finance.yahoo.com/quote/%5EVIX/"
+    "text": "The yen strengthened, with USD/JPY dropping from about 159.8 in Tokyo to near 158.7 in London, below its 200-day average.",
+    "source": "MQL5 Traders' Blogs",
+    "url": "https://www.mql5.com/en/blogs/post/781430"
   },
   {
     "n": 7,
-    "text": "Brent crude settled almost flat at $91.98 a barrel, as Hormuz tanker disruptions offset worries about a supply surplus.",
-    "source": "Yahoo Finance (Reuters)",
-    "url": "https://finance.yahoo.com/news/oil-prices-steady-supply-surplus-024608326.html"
+    "text": "Bitcoin slid to about $61,300, its lowest since July, after more than $660 million in leveraged bets were wiped out.",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/11/20/bitcoin-hits-four-month-low-after-anthropic-s-ipo-as-tech-stocks-wilt"
   },
   {
     "n": 8,
-    "text": "The dollar held near a 19-month high and the yen stayed just under 160 per dollar as AI worries cut appetite for risk.",
+    "text": "Gold miners and silver funds pointed lower before the open: GDX about 1.4% and SLV about 3.8% below Thursday's closes.",
     "source": "Yahoo Finance",
-    "url": "https://finance.yahoo.com/markets/currencies/articles/dollar-near-19-month-peak-015038270.html"
+    "url": "https://finance.yahoo.com/quote/GDX/"
   }
 ]

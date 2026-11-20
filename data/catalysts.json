@@ -9,9 +9,9 @@
   {
     "date": "2026-11-25",
     "when": "Wed Nov 25, 5:30 AM PT",
-    "event": "US October PCE inflation, consumer spending and Q3 GDP (second estimate)",
+    "event": "US October PCE inflation and consumer spending (and Q3 GDP second estimate)",
     "why": "The Fed's preferred inflation gauge; a hot reading can push up yields and the dollar, which has tended to weigh on gold",
-    "url": "https://www.simianx.ai/stories/us-economic-calendar-this-month-in-your-time-zone"
+    "url": "https://www.bea.gov/index.php/news/schedule/full"
   },
   {
     "date": "2026-11-26",
@@ -19,6 +19,13 @@
     "event": "US markets closed for Thanksgiving",
     "why": "No US trading in the ETFs; moves in gold, oil and the yen overseas show up at Friday's open",
     "url": "https://www.simianx.ai/stories/us-economic-calendar-this-month-in-your-time-zone"
+  },
+  {
+    "date": "2026-11-27",
+    "when": "Fri Nov 27, US stocks close 10:00 AM PT",
+    "event": "Shortened US trading day after Thanksgiving",
+    "why": "Thin trading can make moves in the leveraged funds larger than usual",
+    "url": "https://www.nyse.com/markets/hours-calendars"
   },
   {
     "date": "2026-11-29",
