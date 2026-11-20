@@ -442,5 +442,29 @@
     "brent": null,
     "nasdaq": 24429.89,
     "spx": 7323.63
+  },
+  {
+    "date": "2026-11-19",
+    "gold": 3625.5,
+    "silver": 42.96,
+    "gs_ratio": 84.39,
+    "gdx": 72,
+    "gdxj": null,
+    "gdxu": 47.16,
+    "slv": null,
+    "agq": null,
+    "qqq": 645.04,
+    "tqqq": 49.01,
+    "sqqq": null,
+    "nrgu": 44.64,
+    "us10y": null,
+    "us2y": null,
+    "usdjpy": null,
+    "dxy": null,
+    "vix": 28.44,
+    "btc": null,
+    "brent": 91.98,
+    "nasdaq": 23879.2,
+    "spx": 7175.83
   }
 ]

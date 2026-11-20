@@ -1,16 +1,9 @@
 [
   {
-    "date": "2026-11-19",
-    "when": "Thu Nov 19, 3:30 PM PT",
-    "event": "Japan October consumer inflation",
-    "why": "A hot reading can raise bets on a Bank of Japan hike and move the yen, which sits just under 160 per dollar",
-    "url": "https://www.fxstreet.com/news/yen-holds-steady-under-16000-as-japan-inflation-data-nears-202611182315"
-  },
-  {
     "date": "2026-11-20",
     "when": "Fri Nov 20, 12:30 PM PT",
     "event": "CFTC positioning report (weekly)",
-    "why": "Shows how speculators repositioned in gold and silver after the hot inflation report",
+    "why": "Shows how speculators repositioned in gold and silver during this week's slide to 14-month lows",
     "url": "https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm"
   },
   {
@@ -26,5 +19,12 @@
     "event": "US markets closed for Thanksgiving",
     "why": "No US trading in the ETFs; moves in gold, oil and the yen overseas show up at Friday's open",
     "url": "https://www.simianx.ai/stories/us-economic-calendar-this-month-in-your-time-zone"
+  },
+  {
+    "date": "2026-11-29",
+    "when": "Sun Nov 29",
+    "event": "OPEC+ meeting",
+    "why": "Decisions on output can move Brent, which drives NRGU and feeds into miners' costs",
+    "url": "https://www.rigzone.com/news/wire/oil_prices_swing_on_middle_east_uncertainty-19-nov-2026-185129-article/"
   }
 ]
