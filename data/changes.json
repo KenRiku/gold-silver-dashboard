@@ -1,50 +1,50 @@
 [
   {
     "n": 1,
-    "text": "Gold fell below $3,600 in Asian trade, touching about $3,514, its lowest since September 2025, before recovering to near $3,570; it is on track for its worst week since March.",
-    "source": "FinanceFeeds",
-    "url": "https://financefeeds.com/gold-price-today-3570-friday-worst-week-since-march-fed-hike-bets-bull-3700-bear-3500/"
+    "text": "The Nasdaq fell 5.3% and the S&P 500 3.7%, putting the S&P 500 and Dow in a correction (more than 10% off their highs) as chipmakers led an AI sell-off; Nvidia lost 14%.",
+    "source": "UPI",
+    "url": "https://www.upi.com/Top_News/US/2026/11/20/stocks-dow-jones-nasdaq-correction-territory/1061795214998/"
   },
   {
     "n": 2,
-    "text": "Silver slipped to about $42.28 by 7:15 AM ET, down roughly 13% this week, a much steeper fall than gold's.",
-    "source": "Fortune",
-    "url": "https://fortune.com/article/current-price-of-silver-11-20-2026"
+    "text": "The VIX jumped 26% to close at 35.89, its highest close since late March, after briefly touching 40.",
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/quote/%5EVIX/"
   },
   {
     "n": 3,
-    "text": "The VIX, Wall Street's fear gauge, rose above 30 before the open for the first time since late March.",
-    "source": "Trading and Investment News (Reuters)",
-    "url": "https://www.tradingandinvestmentnews.co.uk/wall-street-volatility-vix-30/"
+    "text": "Gold touched $3,502.93, its lowest in over a year, before ending US trading near $3,538, down about 2.4% on the day and on track for its worst week since March; silver fell about 3.8% to near $41.12.",
+    "source": "Kitco",
+    "url": "https://www.kitco.com/news/article/2026-11-20/gold-falls-toward-3500-silver-slides-stock-markets-enter-correction"
   },
   {
     "n": 4,
-    "text": "Nasdaq 100 futures fell about 1.5% and S&P 500 futures about 0.65%, with Anthropic down over 10% and Intuit down over 10% after cutting its revenue outlook.",
-    "source": "TradingKey",
-    "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262315308-us-pre-market-anthropic-tradingkey"
+    "text": "Gold miners and silver funds fell harder than the metals: GDX closed down 5.0% at $68.40 and SLV down 6.7% at $36.97.",
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/quote/SLV/"
   },
   {
     "n": 5,
-    "text": "The 10-year Treasury yield fell back under 5% to about 4.97% and the 2-year to about 4.70% as money moved into bonds, even though traders still price a December Fed hike as almost certain.",
+    "text": "QQQ closed down 5.7% at $608.45, while the inverse SQQQ rose about 16.5%.",
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/quote/QQQ/"
+  },
+  {
+    "n": 6,
+    "text": "Treasury yields fell sharply as investors moved into bonds: the 10-year closed near 4.94% and the 2-year near 4.65%, even as traders still price about a 92% chance of a December Fed hike.",
     "source": "CNBC",
     "url": "https://www.cnbc.com/2026/11/20/treasury-yields-bonds-inflation.html"
   },
   {
-    "n": 6,
-    "text": "The yen strengthened, with USD/JPY dropping from about 159.8 in Tokyo to near 158.7 in London, below its 200-day average.",
-    "source": "MQL5 Traders' Blogs",
-    "url": "https://www.mql5.com/en/blogs/post/781430"
-  },
-  {
     "n": 7,
-    "text": "Bitcoin slid to about $61,300, its lowest since July, after more than $660 million in leveraged bets were wiped out.",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/markets/2026/11/20/bitcoin-hits-four-month-low-after-anthropic-s-ipo-as-tech-stocks-wilt"
+    "text": "Bitcoin fell below $60,000 for the first time since July, reaching about $57,650.",
+    "source": "Forbes",
+    "url": "https://www.forbes.com/sites/digital-assets/2026/11/20/bitcoin-plunges-below-60000-as-risk-off-trading-fuels-widespread-losses/"
   },
   {
     "n": 8,
-    "text": "Gold miners and silver funds pointed lower before the open: GDX about 1.4% and SLV about 3.8% below Thursday's closes.",
-    "source": "Yahoo Finance",
-    "url": "https://finance.yahoo.com/quote/GDX/"
+    "text": "Brent edged up 0.6% to settle at $92.57 on Middle East tensions, but still posted a third straight weekly loss.",
+    "source": "EnergyNow",
+    "url": "https://energynow.com/2026/11/oil-prices-rebound-friday-on-middle-east-tensions-but-fall-for-third-straight-week-wti-closes-at-83-98-brent-at-92-57/"
   }
 ]

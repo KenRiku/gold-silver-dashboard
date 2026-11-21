@@ -1,12 +1,5 @@
 [
   {
-    "date": "2026-11-20",
-    "when": "Fri Nov 20, 12:30 PM PT",
-    "event": "CFTC positioning report (weekly)",
-    "why": "Shows how speculators repositioned in gold and silver during this week's slide to 14-month lows",
-    "url": "https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm"
-  },
-  {
     "date": "2026-11-25",
     "when": "Wed Nov 25, 5:30 AM PT",
     "event": "US October PCE inflation and consumer spending (and Q3 GDP second estimate)",
@@ -26,6 +19,13 @@
     "event": "Shortened US trading day after Thanksgiving",
     "why": "Thin trading can make moves in the leveraged funds larger than usual",
     "url": "https://www.nyse.com/markets/hours-calendars"
+  },
+  {
+    "date": "2026-11-27",
+    "when": "Fri Nov 27, 12:30 PM PT (may shift for the holiday)",
+    "event": "CFTC positioning report (weekly)",
+    "why": "Shows how speculators repositioned in gold and silver after the slide to one-year lows",
+    "url": "https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm"
   },
   {
     "date": "2026-11-29",
