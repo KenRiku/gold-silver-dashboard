@@ -1,50 +1,44 @@
 [
   {
     "n": 1,
-    "text": "The Nasdaq fell 5.3% and the S&P 500 3.7%, putting the S&P 500 and Dow in a correction (more than 10% off their highs) as chipmakers led an AI sell-off; Nvidia lost 14%.",
-    "source": "UPI",
-    "url": "https://www.upi.com/Top_News/US/2026/11/20/stocks-dow-jones-nasdaq-correction-territory/1061795214998/"
+    "text": "Stock futures rebounded after Friday's tech-led rout: Nasdaq-100 futures were up about 3–3.6% and S&P 500 futures about 2.2–2.9% before the open, led by chipmakers.",
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/premarket-movers-chip-stocks-lead-124424524.html"
   },
   {
     "n": 2,
-    "text": "The VIX jumped 26% to close at 35.89, its highest close since late March, after briefly touching 40.",
-    "source": "Yahoo Finance",
-    "url": "https://finance.yahoo.com/quote/%5EVIX/"
+    "text": "Gold bounced about 2.3% to near $3,618 by 8 AM ET after Friday's slide to a 14-month low, trading between $3,540 and $3,638 overnight.",
+    "source": "FinanceFeeds (citing Kitco)",
+    "url": "https://financefeeds.com/gold-price-today-3618-monday-rebound-hike-odds-ease-pce-wednesday-bull-3700-bear-3500/"
   },
   {
     "n": 3,
-    "text": "Gold touched $3,502.93, its lowest in over a year, before ending US trading near $3,538, down about 2.4% on the day and on track for its worst week since March; silver fell about 3.8% to near $41.12.",
-    "source": "Kitco",
-    "url": "https://www.kitco.com/news/article/2026-11-20/gold-falls-toward-3500-silver-slides-stock-markets-enter-correction"
+    "text": "Silver rose about 2.8% to near $42.28, nudging the gold/silver ratio down from 86 to about 85.6.",
+    "source": "Fortune",
+    "url": "https://fortune.com/article/current-price-of-silver-11-23-2026/"
   },
   {
     "n": 4,
-    "text": "Gold miners and silver funds fell harder than the metals: GDX closed down 5.0% at $68.40 and SLV down 6.7% at $36.97.",
-    "source": "Yahoo Finance",
-    "url": "https://finance.yahoo.com/quote/SLV/"
+    "text": "Treasury yields climbed as money left bonds: the 10-year rose about 4 bp to 4.96% and the 2-year about 7 bp to 4.69%, with traders pricing about a 96% chance of a December Fed hike.",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/23/treasury-yields-bonds-fed.html"
   },
   {
     "n": 5,
-    "text": "QQQ closed down 5.7% at $608.45, while the inverse SQQQ rose about 16.5%.",
-    "source": "Yahoo Finance",
-    "url": "https://finance.yahoo.com/quote/QQQ/"
+    "text": "The yen weakened about 0.3–0.4% to near 159.1 per dollar, giving back part of Friday's gain and staying close to the 160 level.",
+    "source": "Trading Economics",
+    "url": "https://tradingeconomics.com/japan/currency"
   },
   {
     "n": 6,
-    "text": "Treasury yields fell sharply as investors moved into bonds: the 10-year closed near 4.94% and the 2-year near 4.65%, even as traders still price about a 92% chance of a December Fed hike.",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/20/treasury-yields-bonds-inflation.html"
+    "text": "Brent slipped about 1.6% to near $91.11 as worries about global growth outweighed Middle East shipping risks.",
+    "source": "Arbiterz",
+    "url": "https://arbiterz.com/oil-prices-today-brent-crude-falls-to-91-11-wti-drops-1-51-to-82-15"
   },
   {
     "n": 7,
-    "text": "Bitcoin fell below $60,000 for the first time since July, reaching about $57,650.",
-    "source": "Forbes",
-    "url": "https://www.forbes.com/sites/digital-assets/2026/11/20/bitcoin-plunges-below-60000-as-risk-off-trading-fuels-widespread-losses/"
-  },
-  {
-    "n": 8,
-    "text": "Brent edged up 0.6% to settle at $92.57 on Middle East tensions, but still posted a third straight weekly loss.",
-    "source": "EnergyNow",
-    "url": "https://energynow.com/2026/11/oil-prices-rebound-friday-on-middle-east-tensions-but-fall-for-third-straight-week-wti-closes-at-83-98-brent-at-92-57/"
+    "text": "Bitcoin recovered to about $61,100 after hitting about $55,130 on Saturday, its weakest level since September 2024.",
+    "source": "Fortune",
+    "url": "https://fortune.com/article/price-of-bitcoin-11-23-2026/"
   }
 ]
