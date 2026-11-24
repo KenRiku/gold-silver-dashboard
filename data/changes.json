@@ -1,50 +1,50 @@
 [
   {
     "n": 1,
-    "text": "Stocks staged a huge rebound: the Nasdaq rose 6.5% to 24,089.56 and the S&P 500 4.7% to 7,237.17 after Nvidia reinstated Jensen Huang as CEO and its shares jumped about 31%. QQQ closed up 7% at $651.03.",
-    "source": "STL.News",
-    "url": "https://www.stl.news/us-stock-market-today-november-23-2026/"
+    "text": "Stock futures turned lower before the open, with Nasdaq 100 futures down roughly 1% to 1.8% in different reports, giving back part of Monday's 6.5% Nasdaq surge.",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html"
   },
   {
     "n": 2,
-    "text": "The VIX fell about 26% to 26.62 from Friday's 35.89 as demand for hedges faded.",
-    "source": "Ad Hoc News",
-    "url": "https://www.ad-hoc-news.de/boerse/news/marktberichte/vix-falls-25-83-prozent-as-relief-rally-eases-market-volatility/70547867"
+    "text": "Nvidia fell about 4% to 5% before the bell after Monday's 31% jump, and QQQ was down about 1.4% in pre-market trading.",
+    "source": "Current Logic",
+    "url": "https://currentlogic.substack.com/p/the-morning-brief-november-24-2026"
   },
   {
     "n": 3,
-    "text": "Gold and silver rebounded sharply from one-year lows as AI shares rallied: gold up about 2.8% to near $3,635 and silver up about 4.7% to near $43, pulling the gold/silver ratio down to about 84.3.",
-    "source": "Kitco",
-    "url": "https://www.kitco.com/news/article/2026-11-23/gold-silver-prices-see-sharp-rebounds-ai-shares-rally-renewed-fed"
+    "text": "Gold's rebound stalled: it slipped to about $3,624 by 6:16 AM ET after touching $3,678 overnight, as traders priced about a 96% chance of a December Fed hike.",
+    "source": "FXStreet",
+    "url": "https://www.fxstreet.com/news/gold-rebound-loses-steam-as-fed-interest-rate-hike-bets-weigh-202611241103"
   },
   {
     "n": 4,
-    "text": "Gold miners outpaced gold: GDX closed up 6.4% at $72.80 and GDXJ about 7% at $86.91. SLV rose about 5.3% to $38.91.",
-    "source": "Yahoo Finance",
-    "url": "https://finance.yahoo.com/quote/GDX/"
+    "text": "Silver fell back toward $42, giving up part of Monday's 4.7% gain, as a firmer dollar and the expiry of December options weighed.",
+    "source": "Ad Hoc News",
+    "url": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/silver-slips-2-5-prozent-to-42-02-as-options-expiry-collides-with-a-firm-dollar/70549450"
   },
   {
     "n": 5,
-    "text": "The 2-year Treasury yield rose about 5 bp to 4.71% as traders kept pricing a December Fed hike, while the flash PMI slipped to a four-month low of 54.6.",
-    "source": "MarketScreener",
-    "url": "https://www.marketscreener.com/news/treasury-yields-rise-as-huang-returns-as-ceo-european-bond-yields-slip-update-ce7851dadd81f32d"
+    "text": "GDX was down about 1.7% to $71.55 in pre-market trading, a bigger drop than gold's.",
+    "source": "StockAnalysis",
+    "url": "https://stockanalysis.com/etf/gdx/"
   },
   {
     "n": 6,
-    "text": "The dollar index rose about 0.5% to near 104.3, around a 19-month high, and USD/JPY ended near 158.9, still close to 160.",
-    "source": "Finwire",
-    "url": "https://finwire.io/news/forex-news/financial-forex-market-recap-nov-23-2026"
+    "text": "The 10-year Treasury yield eased about 1 bp to near 4.91% after New York Fed President Williams said inflation is still running too high; a $70 billion 5-year auction is due today.",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/24/treasury-yields-bonds-inflation.html"
   },
   {
     "n": 7,
-    "text": "Brent fell about 3.5% to settle at $89.37, its lowest close since August, after Libya's Sharara pipeline reopened.",
-    "source": "The Nation (Thailand)",
-    "url": "https://www.nationthailand.com/news/world/40073845"
+    "text": "The dollar index held near 104.4, close to Monday's 20-month high, and USD/JPY stayed near 159, just under the 160 level traders watch for Japanese intervention.",
+    "source": "FXStreet",
+    "url": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-experts-flag-rally-near-10460-as-overdone-202611240825"
   },
   {
     "n": 8,
-    "text": "Bitcoin briefly topped $64,500 with the tech rally, then gave back most of the gain to trade near $61,400.",
-    "source": "Coinpedia",
-    "url": "https://coinpedia.org/price-analysis/here-is-why-bitcoin-btc-erased-nvidia-induced-gains-today/"
+    "text": "Brent edged down to about $88.97 overnight after Monday's 3.5% fall to a three-month low, and bitcoin slipped to near $60,000 as the tech bounce faded.",
+    "source": "Invezz",
+    "url": "https://invezz.com/news/2026/11/24/oil-price-today-brent-below-89-supply-glut-hormuz/"
   }
 ]
