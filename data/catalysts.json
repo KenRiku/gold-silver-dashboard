@@ -1,19 +1,5 @@
 [
   {
-    "date": "2026-11-24",
-    "when": "Tue Nov 24, 7:00 AM PT",
-    "event": "US consumer confidence (November)",
-    "why": "A read on how households feel after the recent stock slide; can move yields and Fed hike bets",
-    "url": "https://www.cnbc.com/2026/11/24/treasury-yields-bonds-inflation.html"
-  },
-  {
-    "date": "2026-11-24",
-    "when": "Tue Nov 24, 10:00 AM PT",
-    "event": "$70 billion 5-year Treasury auction",
-    "why": "Weak demand can push yields up, which has tended to weigh on gold and tech",
-    "url": "https://www.cnbc.com/2026/11/24/treasury-yields-bonds-inflation.html"
-  },
-  {
     "date": "2026-11-25",
     "when": "Wed Nov 25, 5:30 AM PT",
     "event": "US October PCE inflation and consumer spending (and Q3 GDP second estimate)",
@@ -61,6 +47,13 @@
     "event": "ADP private payrolls (November)",
     "why": "An early read on hiring ahead of Friday's jobs report; can move yields and the dollar",
     "url": "https://www.usbank.com/corporate-and-commercial-banking/insights/economy/outlook/weekly.html"
+  },
+  {
+    "date": "2026-12-03",
+    "when": "Thu Dec 3, 5:30 AM PT",
+    "event": "US weekly jobless claims",
+    "why": "A last read on layoffs before Friday's jobs report; can move yields and Fed hike bets",
+    "url": "https://fedratecalc.com/us-economic-calendar/december-2026/"
   },
   {
     "date": "2026-12-04",
