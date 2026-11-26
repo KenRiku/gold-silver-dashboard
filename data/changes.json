@@ -1,44 +1,44 @@
 [
   {
     "n": 1,
-    "text": "The Nasdaq Composite fell as much as 4.6% during the day before closing down 0.62% at 23,585.80; the S&P 500 ended down 0.25% and the Dow rose 0.33%.",
-    "source": "Longbridge",
-    "url": "https://longbridge.com/en/topics/45393942"
+    "text": "US stock and bond markets are closed for Thanksgiving, and trading in gold, oil and currencies overseas is thinner than usual.",
+    "source": "FXStreet",
+    "url": "https://www.fxstreet.com/analysis/markets-attempt-to-recover-as-thanksgiving-brings-thinner-trading-202611260700"
   },
   {
     "n": 2,
-    "text": "Nvidia, down more than 9% at one point, closed 3.9% lower at $149.30, and the VIX closed up 7.3% at 28.29 after topping 30.",
-    "source": "ABC News",
-    "url": "https://abcnews.com/Business/stocks-tumble-tech-sell-off-resumes-nvidia-falls/story?id=138442070"
+    "text": "Spot gold eased to about $3,564 by 7:55 AM ET, about 0.7% below Wednesday's close, after bouncing from a 15-month low the day before.",
+    "source": "Kitco",
+    "url": "https://www.kitco.com/charts/gold"
   },
   {
     "n": 3,
-    "text": "Gold and silver reversed steep morning losses in late US trading as Treasury yields fell and stocks rebounded; silver ended near $41.12.",
+    "text": "Silver rose about 1% to roughly $41.5, so the gold/silver ratio fell to about 86 from 87.3.",
     "source": "Kitco",
-    "url": "https://www.kitco.com/news/article/2026-11-25/gold-silver-reverse-early-losses-wall-street-rebounds-ahead-thanksgiving"
+    "url": "https://www.kitco.com/charts/silver"
   },
   {
     "n": 4,
-    "text": "GDX closed up 3.5% at $73.89 and GDXJ up 4.2% at $87.66, while GDXU jumped 10.8% to $49.32.",
-    "source": "Stock Analysis",
-    "url": "https://stockanalysis.com/etf/gdxu/"
+    "text": "Brent edged up to about $94.71 early Thursday, a third straight gain, as Houthis claimed a strike on Saudi Arabia's Ras Tanura refinery and mines hit tankers near Hormuz.",
+    "source": "Unbiased Headlines",
+    "url": "https://unbiasedheadlines.com/article/brent-rises-to-9471-thursday-for-a-third-straight-gain-as-houthis-claim-ras"
   },
   {
     "n": 5,
-    "text": "The 10-year Treasury yield fell about 6 bp to 4.85% as investors bought bonds despite core PCE inflation rising to 3.3%.",
-    "source": "StockMarketWatch",
-    "url": "https://stockmarketwatch.com/bonds/10-year-treasury-yield"
+    "text": "The yen firmed slightly to about 159 per dollar in Tokyo ahead of Tokyo inflation data due tonight, which feeds the Bank of Japan's December decision.",
+    "source": "Business Recorder",
+    "url": "https://brecorder.com/news/40450863/intra-day-update-rupee-records-gain-against-us-dollar"
   },
   {
     "n": 6,
-    "text": "Brent rose 3.5% to $94.61 after Yemen's Houthis said they attacked a Saudi refinery.",
-    "source": "Nation Thailand (Reuters)",
-    "url": "https://www.nationthailand.com/news/world/40073934"
+    "text": "The dollar index was nearly flat near 103.7 in the holiday lull.",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/quotes/.DXY"
   },
   {
     "n": 7,
-    "text": "QQQ closed down 0.65% at $633.93, far above its morning low, with TQQQ down about 2% and SQQQ up about 2%.",
-    "source": "Gotrade",
-    "url": "https://www.heygotrade.com/en/news/stock-market-today-nov-25-2026-close/"
+    "text": "Bitcoin climbed back above $60,000, to about $60,621, up roughly 3% over 24 hours.",
+    "source": "TokenPost",
+    "url": "https://www.tokenpost.com/news/investing/62782"
   }
 ]
