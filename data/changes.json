@@ -1,44 +1,50 @@
 [
   {
     "n": 1,
-    "text": "US stock and bond markets were closed Thursday for Thanksgiving, so the stock funds, yields and the VIX still show Wednesday's closes. Trading resumes Friday with stocks closing early.",
-    "source": "NYSE",
-    "url": "https://www.nyse.com/markets/hours-calendars"
+    "text": "Gold bounced about 2.3% overnight to near $3,648 from a 15-month low, as tech shares steadied after Wednesday's selloff.",
+    "source": "FinanceFeeds",
+    "url": "https://financefeeds.com/gold-price-today-3650-friday-rebound-from-15-month-low-silver-up-6-percent-bull-3742-bear-3567/"
   },
   {
     "n": 2,
-    "text": "Brent settled at $96.57, up $1.96, its third straight gain and about 8% since Monday, after Houthi claims of a strike on Saudi Arabia's Ras Tanura refinery and reports of mine strikes on tankers near Hormuz.",
-    "source": "Nation Thailand",
-    "url": "https://www.nationthailand.com/news/world/40073981"
+    "text": "Silver jumped about 6% to near $43.90, its sharpest one-day bounce in months, a day after touching its lowest level since August 2025; the gold/silver ratio fell to about 83 from 86.",
+    "source": "Kitco",
+    "url": "https://www.kitco.com/charts/silver"
   },
   {
     "n": 3,
-    "text": "Spot gold ended Thursday down about 0.6% near $3,566 in thin trading, as markets kept pricing another Fed rate hike in December.",
-    "source": "Kitco",
-    "url": "https://www.kitco.com/news/article/2026-11-26/gold-slips-silver-gains-fed-rate-hike-expectations-persist-holiday-trading"
+    "text": "Before the bell, Benzinga reported GDX up about 5% and SLV up about 7%, after Beijing signaled support for its markets.",
+    "source": "Benzinga",
+    "url": "https://www.benzinga.com/markets/commodities/26/11/63668707/china-national-team-silver-copper-rally-10-metal-stocks-to-watch"
   },
   {
     "n": 4,
-    "text": "Silver edged up to about $41.42, so the gold/silver ratio fell to about 86 from 87.3.",
-    "source": "Kitco",
-    "url": "https://www.kitco.com/news/article/2026-11-26/gold-slips-silver-gains-fed-rate-hike-expectations-persist-holiday-trading"
+    "text": "Nasdaq-100 futures rose about 2.4% and S&P 500 futures about 1.7%, and the VIX slid to about 25 from Wednesday's 28.3. QQQ traded near $647.64 before the bell.",
+    "source": "ZeroHedge",
+    "url": "https://www.zerohedge.com/markets/nasdaq-futures-jump-25-black-friday-tech-rebound-beijing-unleashes-national-team"
   },
   {
     "n": 5,
-    "text": "Tokyo core inflation for November came in at 2.9%, a touch below the 3.0% forecast; the yen softened slightly, with the dollar near 159.35 yen.",
-    "source": "FinScans",
-    "url": "https://finscans.com/news/2026/11/27/usdjpy-rallies-to-15935-as-tokyo-core-cpi-misses"
+    "text": "The 10-year Treasury yield rose to about 4.90% as bond trading resumed after Thanksgiving, with a December Fed rate hike still almost fully priced.",
+    "source": "Trading Economics",
+    "url": "https://tradingeconomics.com/united-states/government-bond-yield/news/604880"
   },
   {
     "n": 6,
-    "text": "The dollar index stayed roughly flat near 103.70 through the holiday.",
-    "source": "FXStreet",
-    "url": "https://fxstreet.com/analysis/us-dollar-index-dxy-hovers-around-10370-amid-risk-on-markets-202611270800"
+    "text": "Brent held near $96.60, close to Thursday's settlement, ahead of Sunday's OPEC+ meeting.",
+    "source": "Invezz",
+    "url": "https://invezz.com/in/news/2026/11/27/brent-crude-price-analysis-is-novembers-oil-sell-off-nearing-an-end/"
   },
   {
     "n": 7,
-    "text": "Bitcoin ended Thursday near $60,840, up about 3% from Wednesday.",
-    "source": "Yahoo Finance",
-    "url": "https://finance.yahoo.com/quote/BTC-USD/history/"
+    "text": "The dollar index was little changed near 103.65 and the yen near 159.30 per dollar.",
+    "source": "Trading Economics",
+    "url": "https://tradingeconomics.com/dxy:cur"
+  },
+  {
+    "n": 8,
+    "text": "Bitcoin rose to about $61,500, on track for its first weekly gain in eight weeks.",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/price/bitcoin"
   }
 ]
