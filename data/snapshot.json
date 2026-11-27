@@ -1,47 +1,47 @@
 {
-  "asOf": "2026-11-26T07:55:00-05:00",
+  "asOf": "2026-11-26T16:00:00-05:00",
   "readings": [
     {
       "key": "gold",
       "group": "Metals",
       "label": "Gold (spot)",
-      "value": 3563.6,
-      "chg_pct": -0.72,
+      "value": 3565.5,
+      "chg_pct": -0.63,
       "chg_bp": null,
-      "chg_1m_pct": -11.29,
-      "shown": "$3,563.60",
-      "change_shown": "−0.72%",
-      "note": "Spot price at 7:55 AM ET Thursday in thin holiday trading, against Wednesday's $3,589.49 close. Another report had $3,565 early Thursday; one outlet said gold tested $3,600 at times. One-month change is against the $4,017 close on Oct 27 (ISA Bullion)",
+      "chg_1m_pct": -11.24,
+      "shown": "$3,565.50",
+      "change_shown": "−0.63%",
+      "note": "Late Thursday spot price in thin Thanksgiving trading, as expectations of another Fed rate hike weighed. Day change as Kitco reported it. Reuters had $3,564 midday; gold rose toward $3,620 in early Asian trading Friday. One-month change is against the $4,017 close on Oct 27 (ISA Bullion)",
       "source": "Kitco",
-      "url": "https://www.kitco.com/charts/gold"
+      "url": "https://www.kitco.com/news/article/2026-11-26/gold-slips-silver-gains-fed-rate-hike-expectations-persist-holiday-trading"
     },
     {
       "key": "silver",
       "group": "Metals",
       "label": "Silver (spot)",
-      "value": 41.53,
-      "chg_pct": 1.0,
+      "value": 41.42,
+      "chg_pct": 0.33,
       "chg_bp": null,
       "chg_1m_pct": null,
-      "shown": "$41.53",
-      "change_shown": "+1.0%",
-      "note": "Spot price at 4:41 AM ET Thursday, against Wednesday's $41.12. Other early Thursday quotes ranged from $41.36 (CNBC) to $41.69 (FXStreet)",
+      "shown": "$41.42",
+      "change_shown": "+0.33%",
+      "note": "Late Thursday spot price; silver held up better than gold. Day change as Kitco reported it (against Wednesday's $41.12 in the last update it would be +0.7%). Thursday's high was about $42.52",
       "source": "Kitco",
-      "url": "https://www.kitco.com/charts/silver"
+      "url": "https://www.kitco.com/news/article/2026-11-26/gold-slips-silver-gains-fed-rate-hike-expectations-persist-holiday-trading"
     },
     {
       "key": "gs_ratio",
       "group": "Metals",
       "label": "Gold/silver ratio",
-      "value": 85.81,
-      "chg_pct": -1.7,
+      "value": 86.08,
+      "chg_pct": -1.39,
       "chg_bp": null,
       "chg_1m_pct": null,
-      "shown": "85.81",
-      "change_shown": "−1.7%",
-      "note": "Worked out from Kitco's Thursday-morning gold ($3,563.60) and silver ($41.53) quotes, taken a few hours apart; change is against Wednesday's 87.29",
+      "shown": "86.08",
+      "change_shown": "−1.39%",
+      "note": "Worked out from Kitco's late-Thursday gold ($3,565.50) and silver ($41.42) quotes; change is against Wednesday's 87.29",
       "source": "Kitco",
-      "url": "https://www.kitco.com/charts/gold"
+      "url": "https://www.kitco.com/news/article/2026-11-26/gold-slips-silver-gains-fed-rate-hike-expectations-persist-holiday-trading"
     },
     {
       "key": "gdx",
@@ -53,7 +53,7 @@
       "chg_1m_pct": null,
       "shown": "$73.89",
       "change_shown": "+3.53%",
-      "note": "US markets are closed for Thanksgiving, so this is still Wednesday's close. up from Tuesday's $71.37 as gold miners rallied with the late rebound in bullion",
+      "note": "US markets were closed Thursday for Thanksgiving, so this is still Wednesday's close and Wednesday's change. Up from Tuesday's $71.37 as gold miners rallied with the late rebound in bullion",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/GDX/"
     },
@@ -67,7 +67,7 @@
       "chg_1m_pct": null,
       "shown": "$87.66",
       "change_shown": "+4.15%",
-      "note": "US markets are closed for Thanksgiving, so this is still Wednesday's close. up from Tuesday's $84.17; junior miners rose more than gold",
+      "note": "US markets were closed Thursday for Thanksgiving, so this is still Wednesday's close and Wednesday's change. Up from Tuesday's $84.17; junior miners rose more than gold",
       "source": "Stock Analysis",
       "url": "https://stockanalysis.com/etf/gdxj/"
     },
@@ -81,7 +81,7 @@
       "chg_1m_pct": null,
       "shown": "$49.32",
       "change_shown": "+10.78%",
-      "note": "US markets are closed for Thanksgiving, so this is still Wednesday's close. up $4.80 after trading as low as $37.88 in the morning (Yahoo shows the same close)",
+      "note": "US markets were closed Thursday for Thanksgiving, so this is still Wednesday's close and Wednesday's change. Up $4.80 after trading as low as $37.88 in the morning (Yahoo shows the same close)",
       "source": "Stock Analysis",
       "url": "https://stockanalysis.com/etf/gdxu/"
     },
@@ -95,7 +95,7 @@
       "chg_1m_pct": null,
       "shown": "$37.10",
       "change_shown": "+0.71%",
-      "note": "US markets are closed for Thanksgiving, so this is still Wednesday's close. up from Tuesday's $36.84 after trading as low as $34.48 in the morning",
+      "note": "US markets were closed Thursday for Thanksgiving, so this is still Wednesday's close and Wednesday's change. Up from Tuesday's $36.84 after trading as low as $34.48 in the morning",
       "source": "Stock Analysis",
       "url": "https://stockanalysis.com/etf/slv/"
     },
@@ -109,7 +109,7 @@
       "chg_1m_pct": null,
       "shown": "—",
       "change_shown": "—",
-      "note": "US markets are closed for Thanksgiving. No Wednesday close found; the latest confirmed close is Tuesday's $28.86",
+      "note": "US markets were closed Thursday for Thanksgiving. No Wednesday close found; the latest confirmed close is Tuesday's $28.86",
       "source": "",
       "url": ""
     },
@@ -123,7 +123,7 @@
       "chg_1m_pct": null,
       "shown": "$633.93",
       "change_shown": "−0.65%",
-      "note": "US markets are closed for Thanksgiving, so this is still Wednesday's close. down $4.17 after a much deeper morning drop on chip-stock selling",
+      "note": "US markets were closed Thursday for Thanksgiving, so this is still Wednesday's close and Wednesday's change. Down $4.17 after a much deeper morning drop on chip-stock selling",
       "source": "Gotrade",
       "url": "https://www.heygotrade.com/en/news/stock-market-today-nov-25-2026-close/"
     },
@@ -137,7 +137,7 @@
       "chg_1m_pct": null,
       "shown": "$45.28",
       "change_shown": "−1.97%",
-      "note": "US markets are closed for Thanksgiving, so this is still Wednesday's close. Figure per Yahoo's quote page, down $0.91 from Tuesday's $46.19, in line with about three times QQQ's drop. Yahoo's history table and Investing.com show lower figures that don't match QQQ's move",
+      "note": "US markets were closed Thursday for Thanksgiving, so this is still Wednesday's close and Wednesday's change. Figure per Yahoo's quote page, down $0.91 from Tuesday's $46.19, in line with about three times QQQ's drop. Yahoo's history table and Investing.com show lower figures that don't match QQQ's move",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/TQQQ/"
     },
@@ -151,7 +151,7 @@
       "chg_1m_pct": null,
       "shown": "$49.60",
       "change_shown": "+1.93%",
-      "note": "US markets are closed for Thanksgiving, so this is still Wednesday's close. up $0.94 from Tuesday's $48.66, in line with about three times QQQ's drop in reverse",
+      "note": "US markets were closed Thursday for Thanksgiving, so this is still Wednesday's close and Wednesday's change. Up $0.94 from Tuesday's $48.66, in line with about three times QQQ's drop in reverse",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/SQQQ/"
     },
@@ -165,7 +165,7 @@
       "chg_1m_pct": null,
       "shown": "—",
       "change_shown": "—",
-      "note": "US markets are closed for Thanksgiving. No Wednesday close found; the latest quote found is from Nov 10",
+      "note": "US markets were closed Thursday for Thanksgiving. No recent close found; the latest quote found is from Nov 10",
       "source": "",
       "url": ""
     },
@@ -179,7 +179,7 @@
       "chg_1m_pct": null,
       "shown": "4.85%",
       "change_shown": "−6.0 bp",
-      "note": "Wednesday's close from the official Treasury yield curve; the US bond market is closed for Thanksgiving, so there is no newer figure. FRED could not be reached on this run",
+      "note": "Wednesday's close from the official Treasury yield curve; the US bond market was closed Thursday for Thanksgiving, so there is no newer figure. FRED could not be reached on this run",
       "source": "StockMarketWatch",
       "url": "https://stockmarketwatch.com/bonds/10-year-treasury-yield"
     },
@@ -193,7 +193,7 @@
       "chg_1m_pct": null,
       "shown": "—",
       "change_shown": "—",
-      "note": "Left blank: the bond market is closed for Thanksgiving, reports of Wednesday's close range from 4.60% to 4.65% with no official figure found, and FRED could not be reached on this run. All reports agree it fell on Wednesday",
+      "note": "Left blank: the bond market was closed Thursday for Thanksgiving, and reports of Wednesday's close range from 4.59% to 4.65% with changes that don't agree (one says down 2 bp to 4.61%, while Tuesday's curve had 4.69%). FRED could not be reached on this run",
       "source": "",
       "url": ""
     },
@@ -201,29 +201,29 @@
       "key": "usdjpy",
       "group": "FX",
       "label": "USD/JPY",
-      "value": 159.06,
-      "chg_pct": -0.08,
+      "value": 159.35,
+      "chg_pct": 0.1,
       "chg_bp": null,
       "chg_1m_pct": null,
-      "shown": "159.06",
-      "change_shown": "−0.08%",
-      "note": "Early Asian trading Thursday, against Wednesday's 159.19; the yen firmed slightly to about 159.00 in Tokyo ahead of Tokyo inflation data due tonight",
-      "source": "Business Recorder",
-      "url": "https://brecorder.com/news/40450863/intra-day-update-rupee-records-gain-against-us-dollar"
+      "shown": "159.35",
+      "change_shown": "+0.10%",
+      "note": "Early Asian trading Friday, just after the US close, against Wednesday's 159.19. The yen softened after Tokyo core inflation came in a little below forecasts; the pair has stayed under 160 since Nov 13",
+      "source": "FinScans",
+      "url": "https://finscans.com/news/2026/11/27/usdjpy-rallies-to-15935-as-tokyo-core-cpi-misses"
     },
     {
       "key": "dxy",
       "group": "FX",
       "label": "Dollar index (DXY)",
-      "value": 103.74,
-      "chg_pct": 0.08,
+      "value": 103.7,
+      "chg_pct": null,
       "chg_bp": null,
       "chg_1m_pct": null,
-      "shown": "103.74",
-      "change_shown": "+0.08%",
-      "note": "Thursday morning, nearly flat in the holiday lull; a TMGM note had about 103.75. Trading Economics showed a slightly higher 103.83",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/quotes/.DXY"
+      "shown": "103.70",
+      "change_shown": "—",
+      "note": "About 103.70 and roughly flat through the holiday, per FXStreet. Day change left blank because no exact Thursday close was found",
+      "source": "FXStreet",
+      "url": "https://fxstreet.com/analysis/us-dollar-index-dxy-hovers-around-10370-amid-risk-on-markets-202611270800"
     },
     {
       "key": "vix",
@@ -235,7 +235,7 @@
       "chg_1m_pct": null,
       "shown": "28.29",
       "change_shown": "+7.32%",
-      "note": "US markets are closed for Thanksgiving, so this is still Wednesday's close. up 1.93 points from Tuesday's 26.36 after topping 30 in the morning; one report had 28.03",
+      "note": "US markets were closed Thursday for Thanksgiving, so this is still Wednesday's close and Wednesday's change. Up 1.93 points from Tuesday's 26.36 after topping 30 in the morning; one report had 28.03",
       "source": "ABC News",
       "url": "https://abcnews.com/Business/stocks-tumble-tech-sell-off-resumes-nvidia-falls/story?id=138442070"
     },
@@ -243,29 +243,29 @@
       "key": "btc",
       "group": "Risk",
       "label": "Bitcoin",
-      "value": 60621,
-      "chg_pct": null,
+      "value": 60840,
+      "chg_pct": 3.19,
       "chg_bp": null,
       "chg_1m_pct": null,
-      "shown": "$60,621",
-      "change_shown": "—",
-      "note": "At 7:18 AM ET Thursday, back above $60,000 and up about 3% over 24 hours. Change against Wednesday's US close left blank because no reliable 4 PM ET figure was found",
-      "source": "TokenPost",
-      "url": "https://www.tokenpost.com/news/investing/62782"
+      "shown": "$60,840",
+      "change_shown": "+3.19%",
+      "note": "Yahoo's Nov 26 daily close (midnight UTC, 7 PM ET Thursday), against the $58,956 recorded Wednesday; other Thursday quotes ranged from $60,621 to $60,906",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/BTC-USD/history/"
     },
     {
       "key": "brent",
       "group": "Energy",
       "label": "Brent crude",
-      "value": 94.71,
-      "chg_pct": 0.11,
+      "value": 96.57,
+      "chg_pct": 2.07,
       "chg_bp": null,
       "chg_1m_pct": null,
-      "shown": "$94.71",
-      "change_shown": "+0.11%",
-      "note": "Early Thursday (06:40 GMT), a third straight gain after Wednesday's $94.61 settlement on the Houthi refinery claim. A later report had $95.30; one page showing about $90.7 is for the February contract. FRED could not be reached on this run",
-      "source": "Unbiased Headlines",
-      "url": "https://unbiasedheadlines.com/article/brent-rises-to-9471-thursday-for-a-third-straight-gain-as-houthis-claim-ras"
+      "shown": "$96.57",
+      "change_shown": "+2.07%",
+      "note": "January futures settlement Thursday, up $1.96 from Wednesday's $94.61, a third straight gain and about 8% in three sessions, after Houthi claims of a strike on Saudi Arabia's Ras Tanura refinery and reports of mine strikes on tankers near Hormuz. One report gave the change as 1.2%, which doesn't match the dollar move. FRED could not be reached on this run",
+      "source": "Nation Thailand",
+      "url": "https://www.nationthailand.com/news/world/40073981"
     },
     {
       "key": "nasdaq",
@@ -277,7 +277,7 @@
       "chg_1m_pct": null,
       "shown": "23,585.80",
       "change_shown": "−0.62%",
-      "note": "US markets are closed for Thanksgiving, so this is still Wednesday's close. after falling as much as 4.6% during the day on an AI and chip-stock selloff",
+      "note": "US markets were closed Thursday for Thanksgiving, so this is still Wednesday's close and Wednesday's change. After falling as much as 4.6% during the day on an AI and chip-stock selloff",
       "source": "Longbridge",
       "url": "https://longbridge.com/en/topics/45393942"
     },
@@ -291,7 +291,7 @@
       "chg_1m_pct": null,
       "shown": "7,182.78",
       "change_shown": "−0.25%",
-      "note": "US markets are closed for Thanksgiving, so this is still Wednesday's close. down 18.31 points after being down as much as 3.2% during the day; most S&P 500 stocks rose",
+      "note": "US markets were closed Thursday for Thanksgiving, so this is still Wednesday's close and Wednesday's change. Down 18.31 points after being down as much as 3.2% during the day; most S&P 500 stocks rose",
       "source": "The Motley Fool",
       "url": "https://www.fool.com/coverage/stock-market-today/2026/11/25/stock-market-today-nov-25-nvidia-slides-3-9-as-the-market-considers-hot-pce-inflation-data-and-new-tariff-proposals/"
     }

@@ -1,19 +1,5 @@
 [
   {
-    "date": "2026-11-26",
-    "when": "Thu Nov 26, all day",
-    "event": "US markets closed for Thanksgiving",
-    "why": "No US trading in the ETFs; moves in gold, oil and the yen overseas show up at Friday's open",
-    "url": "https://www.simianx.ai/stories/us-economic-calendar-this-month-in-your-time-zone"
-  },
-  {
-    "date": "2026-11-26",
-    "when": "Thu Nov 26, about 3:30 PM PT",
-    "event": "Tokyo consumer inflation (November)",
-    "why": "A hot reading can firm Bank of Japan hike bets and move the yen, which feeds into silver, gold and tech",
-    "url": "https://fxstreet.com/news/yen-holds-under-16000-with-tokyo-cpi-due-on-a-us-holiday-202611242313"
-  },
-  {
     "date": "2026-11-27",
     "when": "Fri Nov 27, US stocks close 10:00 AM PT",
     "event": "Shortened US trading day after Thanksgiving",

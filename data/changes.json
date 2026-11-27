@@ -1,44 +1,44 @@
 [
   {
     "n": 1,
-    "text": "US stock and bond markets are closed for Thanksgiving, and trading in gold, oil and currencies overseas is thinner than usual.",
-    "source": "FXStreet",
-    "url": "https://www.fxstreet.com/analysis/markets-attempt-to-recover-as-thanksgiving-brings-thinner-trading-202611260700"
+    "text": "US stock and bond markets were closed Thursday for Thanksgiving, so the stock funds, yields and the VIX still show Wednesday's closes. Trading resumes Friday with stocks closing early.",
+    "source": "NYSE",
+    "url": "https://www.nyse.com/markets/hours-calendars"
   },
   {
     "n": 2,
-    "text": "Spot gold eased to about $3,564 by 7:55 AM ET, about 0.7% below Wednesday's close, after bouncing from a 15-month low the day before.",
-    "source": "Kitco",
-    "url": "https://www.kitco.com/charts/gold"
+    "text": "Brent settled at $96.57, up $1.96, its third straight gain and about 8% since Monday, after Houthi claims of a strike on Saudi Arabia's Ras Tanura refinery and reports of mine strikes on tankers near Hormuz.",
+    "source": "Nation Thailand",
+    "url": "https://www.nationthailand.com/news/world/40073981"
   },
   {
     "n": 3,
-    "text": "Silver rose about 1% to roughly $41.5, so the gold/silver ratio fell to about 86 from 87.3.",
+    "text": "Spot gold ended Thursday down about 0.6% near $3,566 in thin trading, as markets kept pricing another Fed rate hike in December.",
     "source": "Kitco",
-    "url": "https://www.kitco.com/charts/silver"
+    "url": "https://www.kitco.com/news/article/2026-11-26/gold-slips-silver-gains-fed-rate-hike-expectations-persist-holiday-trading"
   },
   {
     "n": 4,
-    "text": "Brent edged up to about $94.71 early Thursday, a third straight gain, as Houthis claimed a strike on Saudi Arabia's Ras Tanura refinery and mines hit tankers near Hormuz.",
-    "source": "Unbiased Headlines",
-    "url": "https://unbiasedheadlines.com/article/brent-rises-to-9471-thursday-for-a-third-straight-gain-as-houthis-claim-ras"
+    "text": "Silver edged up to about $41.42, so the gold/silver ratio fell to about 86 from 87.3.",
+    "source": "Kitco",
+    "url": "https://www.kitco.com/news/article/2026-11-26/gold-slips-silver-gains-fed-rate-hike-expectations-persist-holiday-trading"
   },
   {
     "n": 5,
-    "text": "The yen firmed slightly to about 159 per dollar in Tokyo ahead of Tokyo inflation data due tonight, which feeds the Bank of Japan's December decision.",
-    "source": "Business Recorder",
-    "url": "https://brecorder.com/news/40450863/intra-day-update-rupee-records-gain-against-us-dollar"
+    "text": "Tokyo core inflation for November came in at 2.9%, a touch below the 3.0% forecast; the yen softened slightly, with the dollar near 159.35 yen.",
+    "source": "FinScans",
+    "url": "https://finscans.com/news/2026/11/27/usdjpy-rallies-to-15935-as-tokyo-core-cpi-misses"
   },
   {
     "n": 6,
-    "text": "The dollar index was nearly flat near 103.7 in the holiday lull.",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/quotes/.DXY"
+    "text": "The dollar index stayed roughly flat near 103.70 through the holiday.",
+    "source": "FXStreet",
+    "url": "https://fxstreet.com/analysis/us-dollar-index-dxy-hovers-around-10370-amid-risk-on-markets-202611270800"
   },
   {
     "n": 7,
-    "text": "Bitcoin climbed back above $60,000, to about $60,621, up roughly 3% over 24 hours.",
-    "source": "TokenPost",
-    "url": "https://www.tokenpost.com/news/investing/62782"
+    "text": "Bitcoin ended Thursday near $60,840, up about 3% from Wednesday.",
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/quote/BTC-USD/history/"
   }
 ]
