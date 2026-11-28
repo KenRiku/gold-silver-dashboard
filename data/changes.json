@@ -1,50 +1,44 @@
 [
   {
     "n": 1,
-    "text": "Gold bounced about 2.3% overnight to near $3,648 from a 15-month low, as tech shares steadied after Wednesday's selloff.",
-    "source": "FinanceFeeds",
-    "url": "https://financefeeds.com/gold-price-today-3650-friday-rebound-from-15-month-low-silver-up-6-percent-bull-3742-bear-3567/"
+    "text": "Stocks closed sharply higher in Friday's shortened session: the Nasdaq rose 2.3% and the S&P 500 1.6%, capping their best week in over a year. QQQ ended at $650.99, TQQQ up 7.9% and SQQQ down 7.7%.",
+    "source": "JBizNews",
+    "url": "https://jbiznews.com/u-s-stocks-close-sharply-higher-in-shortened-black-friday-session-and-post-big-weekly-gains-dow-jones-industrial-average-up-1-18-sp-500-up-1-60-nasdaq-composite-up-2-31/"
   },
   {
     "n": 2,
-    "text": "Silver jumped about 6% to near $43.90, its sharpest one-day bounce in months, a day after touching its lowest level since August 2025; the gold/silver ratio fell to about 83 from 86.",
+    "text": "Gold held its rebound into the close, ending near $3,653, up $87.50, for its first weekly gain in three weeks.",
+    "source": "Kitco",
+    "url": "https://www.kitco.com/charts/gold"
+  },
+  {
+    "n": 3,
+    "text": "Silver finished near $43.62, up about 5.3%, and the gold/silver ratio fell to about 83.8 from 86.1. SLV closed up 6.2% at $39.40 and AGQ about 12% at $32.79.",
     "source": "Kitco",
     "url": "https://www.kitco.com/charts/silver"
   },
   {
-    "n": 3,
-    "text": "Before the bell, Benzinga reported GDX up about 5% and SLV up about 7%, after Beijing signaled support for its markets.",
-    "source": "Benzinga",
-    "url": "https://www.benzinga.com/markets/commodities/26/11/63668707/china-national-team-silver-copper-rally-10-metal-stocks-to-watch"
-  },
-  {
     "n": 4,
-    "text": "Nasdaq-100 futures rose about 2.4% and S&P 500 futures about 1.7%, and the VIX slid to about 25 from Wednesday's 28.3. QQQ traded near $647.64 before the bell.",
-    "source": "ZeroHedge",
-    "url": "https://www.zerohedge.com/markets/nasdaq-futures-jump-25-black-friday-tech-rebound-beijing-unleashes-national-team"
+    "text": "Gold miners surged: GDX closed up 7.2% at $79.18 and GDXJ up 8.2% at $94.82.",
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/quote/GDX/"
   },
   {
     "n": 5,
-    "text": "The 10-year Treasury yield rose to about 4.90% as bond trading resumed after Thanksgiving, with a December Fed rate hike still almost fully priced.",
-    "source": "Trading Economics",
-    "url": "https://tradingeconomics.com/united-states/government-bond-yield/news/604880"
+    "text": "Treasury yields rose across the board as money moved out of safe assets: the 10-year closed at 4.94% (+9 bp) and the 2-year at 4.69% (+8 bp).",
+    "source": "U.S. Treasury",
+    "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202611"
   },
   {
     "n": 6,
-    "text": "Brent held near $96.60, close to Thursday's settlement, ahead of Sunday's OPEC+ meeting.",
-    "source": "Invezz",
-    "url": "https://invezz.com/in/news/2026/11/27/brent-crude-price-analysis-is-novembers-oil-sell-off-nearing-an-end/"
+    "text": "Brent gave back an early climb to $98 and settled at $95.44, down 1.2% on the day but up about 3% on the week, ahead of Sunday's OPEC+ meeting.",
+    "source": "MLQ.ai (citing Reuters)",
+    "url": "https://mlq.ai/news/brent-settles-12-lower-at-9544-but-logs-a-weekly-gain-before-opec/"
   },
   {
     "n": 7,
-    "text": "The dollar index was little changed near 103.65 and the yen near 159.30 per dollar.",
-    "source": "Trading Economics",
-    "url": "https://tradingeconomics.com/dxy:cur"
-  },
-  {
-    "n": 8,
-    "text": "Bitcoin rose to about $61,500, on track for its first weekly gain in eight weeks.",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/price/bitcoin"
+    "text": "The VIX closed at 23.81, back below 25, and the yen ended near 159.5 per dollar.",
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/quote/%5EVIX/"
   }
 ]

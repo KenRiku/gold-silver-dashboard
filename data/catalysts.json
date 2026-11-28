@@ -1,19 +1,5 @@
 [
   {
-    "date": "2026-11-27",
-    "when": "Fri Nov 27, US stocks close 10:00 AM PT",
-    "event": "Shortened US trading day after Thanksgiving",
-    "why": "Thin trading can make moves in the leveraged funds larger than usual",
-    "url": "https://www.nyse.com/markets/hours-calendars"
-  },
-  {
-    "date": "2026-11-27",
-    "when": "Fri Nov 27, 12:30 PM PT (may shift for the holiday)",
-    "event": "CFTC positioning report (weekly)",
-    "why": "Shows how speculators repositioned in gold and silver after the slide to one-year lows",
-    "url": "https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm"
-  },
-  {
     "date": "2026-11-29",
     "when": "Sun Nov 29",
     "event": "OPEC+ meeting",
